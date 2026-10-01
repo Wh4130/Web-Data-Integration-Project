@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified">
+
+  <xs:annotation>
+    <xs:documentation>
+      Integrated schema for the Airport Data Integration project (Team 5, WDI HWS 2026).
+      Combines complementary and overlapping attributes from three input sources:
+      OurAirports, Wikidata (via QLever), and the Kaggle Global Airports Dataset.
+      See the proposal, Section 2.3 ("Integrated Schema and Overlap with Input Schemata"),
+      for the attribute-to-source mapping and overlap analysis this schema is based on.
+      A populated example is given in sample.xml in this same folder.
+    </xs:documentation>
+  </xs:annotation>
+
+  <xs:element name="Airports">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Airport" type="AirportType" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:complexType name="AirportType">
+    <xs:annotation>
+      <xs:documentation>
+        One integrated airport record. Entity identity across sources is established via a
+        combination of name, coordinates, and country/location attributes (not via
+        IATA/ICAO/FAA codes, which are reserved as a gold-standard evaluation set instead
+        of a matching key).
+      </xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+
+      <xs:element name="name" type="xs:string">
+        <xs:annotation>
+          <xs:documentation>Airport name. In all 3 sources (Kaggle: AirportName, Wikidata: name, OurAirports: name).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="iata" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>3-letter IATA code. In all 3 sources. Evaluation-only identifier, not used for entity matching.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="icao" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>4-letter ICAO code. In all 3 sources. Evaluation-only identifier, not used for entity matching.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="localCode" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Local/FAA airport code. In Wikidata (faa) and OurAirports (local_code); not in Kaggle.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="coordinates" type="CoordinatesType" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Decimal-degree coordinate pair, resolved jointly (not per axis). In all 3 sources.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="elevation" type="xs:decimal" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Elevation above sea level, normalized to metres. In Wikidata and OurAirports; not in Kaggle.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="country" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Country in which the airport is located. In all 3 sources.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="city" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>City/municipality. In all 3 sources (Kaggle: City_Name, Wikidata: located_in, OurAirports: municipality).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="timezone" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Time zone of the airport's location. In Kaggle and Wikidata; not in OurAirports.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="operator" type="xs:string" minOccurs="0" maxOccurs="unbounded">
+        <xs:annotation>
+          <xs:documentation>Operating organization(s). List-valued. Wikidata only.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="owner" type="xs:string" minOccurs="0" maxOccurs="unbounded">
+        <xs:annotation>
+          <xs:documentation>Owning organization(s). List-valued. Wikidata only.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="runway" type="RunwayType" minOccurs="0" maxOccurs="unbounded">
+        <xs:annotation>
+          <xs:documentation>Runways of the airport. List-valued. OurAirports only (joined from runways.csv via airport_ident).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="CoordinatesType">
+    <xs:sequence>
+      <xs:element name="lat" type="xs:decimal"/>
+      <xs:element name="lon" type="xs:decimal"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="RunwayType">
+    <xs:annotation>
+      <xs:documentation>Mirrors the relevant columns of OurAirports' runways.csv.</xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="lengthFt" type="xs:decimal" minOccurs="0"/>
+      <xs:element name="widthFt" type="xs:decimal" minOccurs="0"/>
+      <xs:element name="surface" type="xs:string" minOccurs="0"/>
+      <xs:element name="lighted" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="closed" type="xs:boolean" minOccurs="0"/>
+      <xs:element name="leIdent" type="xs:string" minOccurs="0">
+        <xs:annotation><xs:documentation>Low-end runway identifier (runways.csv: le_ident).</xs:documentation></xs:annotation>
+      </xs:element>
+      <xs:element name="heIdent" type="xs:string" minOccurs="0">
+        <xs:annotation><xs:documentation>High-end runway identifier (runways.csv: he_ident).</xs:documentation></xs:annotation>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+</xs:schema>

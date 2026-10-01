@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Two real, already-fused example records, pulled from the project's actual
+  interim data (data/interim/wikidata_airports.csv, data/interim/ourairports_airports.csv,
+  data/raw/kaggle/airports-kaggle.csv) to illustrate the schema in integrated_schema.xsd:
+    - Dayton International Airport: present in all 3 sources, shows every attribute
+      including the list-valued ones (operator, owner, runway).
+    - Maple Airport: present in Wikidata only with coordinates and location, showing
+      how a sparsely-described entity looks under the same schema (most elements omitted,
+      not present as empty tags).
+-->
+<Airports xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="integrated_schema.xsd">
+
+  <Airport>
+    <name>Dayton International Airport</name>
+    <iata>DAY</iata>
+    <icao>KDAY</icao>
+    <localCode>DAY</localCode>
+    <coordinates>
+      <lat>39.9025</lat>
+      <lon>-84.219445</lon>
+    </coordinates>
+    <elevation>308.0</elevation>
+    <country>United States</country>
+    <city>Dayton</city>
+    <timezone>America/New_York</timezone>
+    <operator>Dayton Department of Aviation</operator>
+    <owner>City of Dayton</owner>
+    <runway>
+      <lengthFt>10901.0</lengthFt>
+      <widthFt>150.0</widthFt>
+      <surface>PEM</surface>
+      <lighted>true</lighted>
+      <closed>false</closed>
+      <leIdent>06L</leIdent>
+      <heIdent>24R</heIdent>
+    </runway>
+    <runway>
+      <lengthFt>7285.0</lengthFt>
+      <widthFt>150.0</widthFt>
+      <surface>PEM</surface>
+      <lighted>true</lighted>
+      <closed>false</closed>
+      <leIdent>06R</leIdent>
+      <heIdent>24L</heIdent>
+    </runway>
+    <runway>
+      <lengthFt>8502.0</lengthFt>
+      <widthFt>150.0</widthFt>
+      <surface>PEM</surface>
+      <lighted>true</lighted>
+      <closed>false</closed>
+      <leIdent>18</leIdent>
+      <heIdent>36</heIdent>
+    </runway>
+  </Airport>
+
+  <Airport>
+    <name>Maple Airport</name>
+    <coordinates>
+      <lat>43.8433</lat>
+      <lon>-79.5269</lon>
+    </coordinates>
+    <country>Canada</country>
+    <city>Regional Municipality of York</city>
+  </Airport>
+
+</Airports>
