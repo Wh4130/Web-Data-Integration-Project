@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airports xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- Entity 1: Major international hub with multi-runway aggregation -->
+  <airport>
+    <name>Frankfurt Airport</name>
+    <iata>FRA</iata>
+    <icao>EDDF</icao>
+    <coordinates>
+      <lat>50.0379</lat>
+      <lon>8.5622</lon>
+    </coordinates>
+    <elevation unit="m">111.0</elevation>
+    <country>Germany</country>
+    <city>Frankfurt am Main</city>
+    <timezone>Europe/Berlin</timezone>
+    <runways>
+      <runway>07C/25C</runway>
+      <runway>07R/25L</runway>
+      <runway>18</runway>
+    </runways>
+  </airport>
+
+  <!-- Entity 2: Regional airport demonstrating single runway and localized attributes -->
+  <airport>
+    <name>Mannheim City Airport</name>
+    <iata>MHG</iata>
+    <icao>EDFM</icao>
+    <coordinates>
+      <lat>49.4728</lat>
+      <lon>8.5142</lon>
+    </coordinates>
+    <elevation unit="m">94.0</elevation>
+    <country>Germany</country>
+    <city>Mannheim</city>
+    <timezone>Europe/Berlin</timezone>
+    <runways>
+      <runway>09/27</runway>
+    </runways>
+  </airport>
+</airports>
