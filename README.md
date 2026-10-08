@@ -32,8 +32,8 @@ data/
   interim/        # cleaned / profiled intermediate data
   processed/       # final fused/integrated dataset
 docs/             # idea abstract, reports, notes
-notebooks/        # per-source pipeline: <source>_profiling/ (attribute quality),
-                  # <source>_extraction/ (fetch, resolve conflicts, save), <source>_eda/
+notebooks/        # per-source pipeline notebooks: <source>_profiling (attribute quality),
+                  # <source>_extraction (fetch, resolve conflicts, save), <source>_eda
 src/wdi_airports/ # reusable Python code (profiling, mapping, matching, fusion)
 tests/            # tests for src/wdi_airports
 ```
@@ -44,13 +44,13 @@ tests/            # tests for src/wdi_airports
 
 Queried via SPARQL against a [QLever](https://qlever.dev/wikidata) mirror (`https://qlever.dev/api/wikidata`), scoped to `wdt:P31 wd:Q1248784` (instance of: airport). Three notebooks (please visit sequentially):
 
-- [`wikidata_profiling.ipynb`](notebooks/wikidata_profiling/wikidata_profiling.ipynb) measures missing/conflict rates per attribute (and documents why `GROUP_CONCAT` is broken on this endpoint, so profiling uses `COUNT`-based histograms instead);
-- [`wikidata_extraction.ipynb`](notebooks/wikidata_extraction/wikidata_extraction.ipynb) fetches raw values, resolves per-airport conflicts in pandas, fixes a feet/metres unit mixup in elevation, resolves entity-valued attributes (country, located_in, ...) to readable labels, and saves the final dataset;
-- [`wikidata_eda.ipynb`](notebooks/wikidata_eda/wikidata_eda.ipynb) explores the resulting dataset (surfaced a duplicate-entity case and the elevation unit bug before it was fixed).
+- [`wikidata_profiling.ipynb`](notebooks/wikidata_profiling.ipynb) measures missing/conflict rates per attribute (and documents why `GROUP_CONCAT` is broken on this endpoint, so profiling uses `COUNT`-based histograms instead);
+- [`wikidata_extraction.ipynb`](notebooks/wikidata_extraction.ipynb) fetches raw values, resolves per-airport conflicts in pandas, fixes a feet/metres unit mixup in elevation, resolves entity-valued attributes (country, located_in, ...) to readable labels, and saves the final dataset;
+- [`wikidata_eda.ipynb`](notebooks/wikidata_eda.ipynb) explores the resulting dataset (surfaced a duplicate-entity case and the elevation unit bug before it was fixed).
 
 ### OurAirports
 
-[`ourairports_data_cleansing.ipynb`](notebooks/ourairports_data_cleansing/ourairports_data_cleansing.ipynb) merges `airports-ourairports.csv` with `runways.csv`, aggregating each airport's runways into a list-of-dicts column (`runways`) — this is the project's list attribute (requirement 6).
+[`ourairports_data_cleansing.ipynb`](notebooks/ourairports_data_cleansing.ipynb) merges `airports-ourairports.csv` with `runways.csv`, aggregating each airport's runways into a list-of-dicts column (`runways`) — this is the project's list attribute (requirement 6).
 
 ### Kaggle
 [PLACEHOLDER]
@@ -59,7 +59,7 @@ Not explored yet.
 
 ### Feasibility / Requirement Analysis
 
-[`requirement_analysis.ipynb`](notebooks/requirement_analysis/requirement_analysis.ipynb) checks the [Project Requirements](#project-requirements) above against the raw/interim data from all three sources — entity counts, cross-source overlap, attribute coverage, and the list attribute.
+[`requirement_analysis.ipynb`](notebooks/requirement_analysis.ipynb) checks the [Project Requirements](#project-requirements) above against the raw/interim data from all three sources — entity counts, cross-source overlap, attribute coverage, and the list attribute.
 
 ## Setup
 
