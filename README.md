@@ -53,9 +53,20 @@ Queried via SPARQL against a [QLever](https://qlever.dev/wikidata) mirror (`http
 [`ourairports_data_cleansing.ipynb`](notebooks/ourairports_data_cleansing.ipynb) merges `airports-ourairports.csv` with `runways.csv`, aggregating each airport's runways into a list-of-dicts column (`runways`) — this is the project's list attribute (requirement 6).
 
 ### Kaggle
-[PLACEHOLDER]
 
-Not explored yet.
+[Global Airports (IATA, ICAO, timezone, geo)](https://www.kaggle.com/datasets/samvelkoch/global-airports-iata-icao-timezone-geo) — a static CSV download. Its page lists the data source as *FlightRank 2025: Aeroclub RecSys Cup, 2025*, a Kaggle competition on business-travel flight recommendation. In this project it is the only source of `timezone` / UTC offset next to Wikidata, and it adds city and country names.
+
+**Provenance caveat.** The competition's airport object only carries `iata`, `icao`, the city IATA code and the country codes (A2/A3), which match the identifier columns of this CSV. It has no airport name, coordinates or timezone, so those columns were added from a source the dataset page does not document. We therefore check empirically that the file is not a copy of one of our other sources. On airports matched via `ICAO` / `icao_code` (so only the ~80% of Kaggle rows that have an ICAO; see [`source_data_heterogeneity_check.ipynb`](notebooks/source_data_heterogeneity_check.ipynb)):
+
+| Compared pair | Matched airports | Identical name | Identical coordinates |
+|---|---|---|---|
+| Kaggle vs OurAirports | 4,700 | 22.7% | 1.0% |
+| Kaggle vs Wikidata | 4,524 | 23.3% | 0.0% |
+| OurAirports vs Wikidata (reference) | 7,758 | 66.5% | 0.0% |
+
+Kaggle names follow a different style (abbreviations such as `Intl` / `Muni` / `Rgnl` in 12.4% of names, versus 0.01% in the other two sources; often no "Airport" suffix), so the source is heterogeneous enough for matching.
+
+[`Kaggle_data_cleaning.ipynb`](notebooks/Kaggle_data_cleaning.ipynb) validates the file and exports `data/interim/airports-kaggle.csv`. It drops two rows that reuse another airport's ICAO code (the old Berlin Schönefeld `SXF`, which shares `EDDB` with BER, and a railway station that shares `EDLW` with Dortmund), leaving 6,391 airports. Known data-quality issues kept for later steps: 319 rows (5.0%) sit at coordinates (0, 0) and should be treated as missing, and 88 rows (1.4%) have no UTC offset.
 
 ### Feasibility / Requirement Analysis
 
