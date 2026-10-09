@@ -32,8 +32,8 @@ data/
   interim/        # cleaned / profiled intermediate data
   processed/       # final fused/integrated dataset
 docs/             # idea abstract, reports, notes
-notebooks/        # per-source pipeline: <source>_profiling/ (attribute quality),
-                  # <source>_extraction/ (fetch, resolve conflicts, save), <source>_eda/
+notebooks/        # per-source pipeline notebooks: <source>_profiling (attribute quality),
+                  # <source>_extraction (fetch, resolve conflicts, save), <source>_eda
 src/wdi_airports/ # reusable Python code (profiling, mapping, matching, fusion)
 tests/            # tests for src/wdi_airports
 ```
@@ -44,22 +44,33 @@ tests/            # tests for src/wdi_airports
 
 Queried via SPARQL against a [QLever](https://qlever.dev/wikidata) mirror (`https://qlever.dev/api/wikidata`), scoped to `wdt:P31 wd:Q1248784` (instance of: airport). Three notebooks (please visit sequentially):
 
-- [`wikidata_profiling.ipynb`](notebooks/wikidata_profiling/wikidata_profiling.ipynb) measures missing/conflict rates per attribute (and documents why `GROUP_CONCAT` is broken on this endpoint, so profiling uses `COUNT`-based histograms instead);
-- [`wikidata_extraction.ipynb`](notebooks/wikidata_extraction/wikidata_extraction.ipynb) fetches raw values, resolves per-airport conflicts in pandas, fixes a feet/metres unit mixup in elevation, resolves entity-valued attributes (country, located_in, ...) to readable labels, and saves the final dataset;
-- [`wikidata_eda.ipynb`](notebooks/wikidata_eda/wikidata_eda.ipynb) explores the resulting dataset (surfaced a duplicate-entity case and the elevation unit bug before it was fixed).
+- [`wikidata_profiling.ipynb`](notebooks/wikidata_profiling.ipynb) measures missing/conflict rates per attribute (and documents why `GROUP_CONCAT` is broken on this endpoint, so profiling uses `COUNT`-based histograms instead);
+- [`wikidata_extraction.ipynb`](notebooks/wikidata_extraction.ipynb) fetches raw values, resolves per-airport conflicts in pandas, fixes a feet/metres unit mixup in elevation, resolves entity-valued attributes (country, located_in, ...) to readable labels, and saves the final dataset;
+- [`wikidata_eda.ipynb`](notebooks/wikidata_eda.ipynb) explores the resulting dataset (surfaced a duplicate-entity case and the elevation unit bug before it was fixed).
 
 ### OurAirports
 
-[`ourairports_data_cleansing.ipynb`](notebooks/ourairports_data_cleansing/ourairports_data_cleansing.ipynb) merges `airports-ourairports.csv` with `runways.csv`, aggregating each airport's runways into a list-of-dicts column (`runways`) — this is the project's list attribute (requirement 6).
+[`ourairports_data_cleansing.ipynb`](notebooks/ourairports_data_cleansing.ipynb) merges `airports-ourairports.csv` with `runways.csv`, aggregating each airport's runways into a list-of-dicts column (`runways`) — this is the project's list attribute (requirement 6).
 
 ### Kaggle
-[PLACEHOLDER]
 
-Not explored yet.
+[Global Airports (IATA, ICAO, timezone, geo)](https://www.kaggle.com/datasets/samvelkoch/global-airports-iata-icao-timezone-geo) — a static CSV download. Its page lists the data source as *FlightRank 2025: Aeroclub RecSys Cup, 2025*, a Kaggle competition on business-travel flight recommendation. In this project it is the only source of `timezone` / UTC offset next to Wikidata, and it adds city and country names.
+
+**Provenance caveat.** The competition's airport object only carries `iata`, `icao`, the city IATA code and the country codes (A2/A3), which match the identifier columns of this CSV. It has no airport name, coordinates or timezone, so those columns were added from a source the dataset page does not document. We therefore check empirically that the file is not a copy of one of our other sources. On airports matched via `ICAO` / `icao_code` (so only the ~80% of Kaggle rows that have an ICAO; see [`source_data_heterogeneity_check.ipynb`](notebooks/source_data_heterogeneity_check.ipynb)):
+
+| Compared pair | Matched airports | Identical name | Identical coordinates |
+|---|---|---|---|
+| Kaggle vs OurAirports | 4,700 | 22.7% | 1.0% |
+| Kaggle vs Wikidata | 4,524 | 23.3% | 0.0% |
+| OurAirports vs Wikidata (reference) | 7,758 | 66.5% | 0.0% |
+
+Kaggle names follow a different style (abbreviations such as `Intl` / `Muni` / `Rgnl` in 12.4% of names, versus 0.01% in the other two sources; often no "Airport" suffix), so the source is heterogeneous enough for matching.
+
+[`Kaggle_data_cleaning.ipynb`](notebooks/Kaggle_data_cleaning.ipynb) validates the file and exports `data/interim/airports-kaggle.csv`. It drops two rows that reuse another airport's ICAO code (the old Berlin Schönefeld `SXF`, which shares `EDDB` with BER, and a railway station that shares `EDLW` with Dortmund), leaving 6,391 airports. Known data-quality issues kept for later steps: 319 rows (5.0%) sit at coordinates (0, 0) and should be treated as missing, and 88 rows (1.4%) have no UTC offset.
 
 ### Feasibility / Requirement Analysis
 
-[`requirement_analysis.ipynb`](notebooks/requirement_analysis/requirement_analysis.ipynb) checks the [Project Requirements](#project-requirements) above against the raw/interim data from all three sources — entity counts, cross-source overlap, attribute coverage, and the list attribute.
+[`requirement_analysis.ipynb`](notebooks/requirement_analysis.ipynb) checks the [Project Requirements](#project-requirements) above against the raw/interim data from all three sources — entity counts, cross-source overlap, attribute coverage, and the list attribute.
 
 ## Setup
 
