@@ -105,6 +105,19 @@
       </xs:element>
 
     </xs:sequence>
+
+    <xs:attribute name="id" type="xs:ID" use="required">
+      <xs:annotation>
+        <xs:documentation>
+          Unique record identifier in the form {source_prefix}_{uid}. source_prefix is one of
+          wd (Wikidata), oa (OurAirports) or kg (Kaggle). Not every source has its own id
+          column, so uid is a sequence number assigned by the pipeline: the 0-based row index
+          of the record in that source's interim CSV (e.g. wd_531, oa_3481, kg_0). It is not
+          mapped from a source attribute. For a fused record it is the id of the source
+          record that serves as the base of the cluster.
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
   </xs:complexType>
 
   <xs:complexType name="CoordinatesType">
