@@ -72,6 +72,38 @@ Kaggle names follow a different style (abbreviations such as `Intl` / `Muni` / `
 
 [`requirement_analysis.ipynb`](notebooks/requirement_analysis.ipynb) checks the [Project Requirements](#project-requirements) above against the raw/interim data from all three sources — entity counts, cross-source overlap, attribute coverage, and the list attribute.
 
+## Integrated Schema
+
+Defined in [`schema/integrated_schema.xsd`](schema/integrated_schema.xsd), with a populated example in [`schema/sample.xml`](schema/sample.xml). Every attribute below is optional except the `id` attribute of `<Airport>`, which is assigned by the pipeline as `{source_prefix}_{n}` (`wd` = Wikidata, `oa` = OurAirports, `kg` = Kaggle; `n` = 0-based row index in that source's interim CSV, e.g. `wd_531`).
+
+| Attribute | Type | Wikidata | OurAirports | Kaggle | Sources |
+|---|---|---|---|---|---|
+| `name` | string | `name` | `name` | `AirportName` | 3 |
+| `iata` | string | `iata` | `iata_code` | `IATA` | 3 |
+| `icao` | string | `icao` | `icao_code` | `ICAO` | 3 |
+| `lat` | decimal | `lat` | `latitude_deg` | `GeoPointLat` | 3 |
+| `lon` | decimal | `lon` | `longitude_deg` | `GeoPointLong` | 3 |
+| `city` | string | `located_in` | `municipality` | `City_Name` | 3 |
+| `elevation` (metres) | decimal | `elevation` | `elevation_ft` (converted) | | 2 |
+| `timezone` | string | `timezone` | | `TimeZone` | 2 |
+| `localCode` | string | `faa` | `local_code` | | 2 |
+| `countryCode` (ISO alpha-2) | string | | `iso_country` | `Country_CodeA2` | 2 |
+| `countryName` | string | `country` | | `Country_Name` | 2 |
+| `operator` (list) | string | `operator` | | | 1 |
+| `owner` (list) | string | `owner` | | | 1 |
+| `wikidataURI` | URI | `airport` | | | 1 |
+| `runway` (list) | complex | | `runways` | | 1 |
+| `type` | string | | `type` | | 1 |
+| `scheduledService` | boolean | | `scheduled_service` | | 1 |
+| `continent` | string | | `continent` | | 1 |
+| `isoRegion` | string | | `iso_region` | | 1 |
+| `homepage` | URI | | `home_link` | | 1 |
+| `wikipedia` | URI | | `wikipedia_link` | | 1 |
+| `countryCodeA3` | string | | | `Country_CodeA3` | 1 |
+| `cityIata` | string | | | `City_IATA` | 1 |
+
+Source columns not mapped: OurAirports `id` and `ident` (source-internal keys, superseded by the pipeline-assigned `id`), `gps_code` (redundant with `icao_code`/`ident` in practice), and Kaggle `UTC_Offset_Hours` / `UTC_Offset_Seconds` (redundant with `timezone`).
+
 ## Setup
 
 This project uses [uv](https://docs.astral.sh/uv/) for dependency management, and requires Python 3.13+.
