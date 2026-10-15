@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with Altova MapForce 2026r2 -->
+<mapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="22">
+	<resources/>
+	<component name="defaultmap" uid="1" editable="1" blackbox="0">
+		<properties SelectedLanguage="builtin"/>
+		<structure>
+			<children>
+				<component name="integrated_schema" library="xml" uid="3" kind="14">
+					<properties XSLTDefaultOutput="1"/>
+					<view ltx="549" lty="-23" rbx="953" rby="558"/>
+					<data>
+						<root scrollposition="1">
+							<header>
+								<namespaces>
+									<namespace/>
+									<namespace uid="http://www.altova.com/mapforce"/>
+								</namespaces>
+							</header>
+							<entry name="FileInstance" ns="1" expanded="1">
+								<entry name="document" ns="1" expanded="1" casttotargettypemode="cast-in-subtree">
+									<entry name="Airports" expanded="1">
+										<entry name="Airport" inpkey="1" expanded="1">
+											<entry name="name" inpkey="2"/>
+											<entry name="iata" inpkey="3"/>
+											<entry name="icao" inpkey="4"/>
+											<entry name="localCode" inpkey="5"/>
+											<entry name="lat" inpkey="6"/>
+											<entry name="lon" inpkey="7"/>
+											<entry name="elevation" inpkey="8"/>
+											<entry name="countryName" inpkey="9"/>
+											<entry name="city" inpkey="10"/>
+											<entry name="timezone" inpkey="11"/>
+											<entry name="operator" inpkey="12"/>
+											<entry name="owner" inpkey="13"/>
+											<entry name="wikidataURI" inpkey="14"/>
+										</entry>
+									</entry>
+								</entry>
+							</entry>
+						</root>
+						<document schema="integrated_schema.xsd" instanceroot="{}Airports" inputinstance="sample.xml" outputinstance="sample.xml"/>
+					</data>
+				</component>
+				<component name="wikidata" library="text" uid="2" kind="16">
+					<properties/>
+					<view ltx="-1" lty="44" rbx="276" rby="395"/>
+					<data>
+						<root scrollposition="1">
+							<header>
+								<namespaces>
+									<namespace/>
+									<namespace uid="http://www.altova.com/mapforce"/>
+								</namespaces>
+							</header>
+							<entry name="FileInstance" ns="1" expanded="1">
+								<entry name="document" ns="1" expanded="1">
+									<entry name="Rows" outkey="15" expanded="1">
+										<entry name="airport" outkey="16"/>
+										<entry name="name" outkey="17"/>
+										<entry name="country" outkey="18"/>
+										<entry name="elevation" outkey="19"/>
+										<entry name="faa" outkey="20"/>
+										<entry name="iata" outkey="21"/>
+										<entry name="icao" outkey="22"/>
+										<entry name="located_in" outkey="23"/>
+										<entry name="operator" outkey="24"/>
+										<entry name="owner" outkey="25"/>
+										<entry name="timezone" outkey="26"/>
+										<entry name="lat" outkey="27"/>
+										<entry name="lon" outkey="28"/>
+									</entry>
+								</entry>
+							</entry>
+						</root>
+						<text type="csv" encoding="1000" byteorder="1" byteordermark="0" inputinstance="wikidata_airports_deduped.csv">
+							<settings separator="," quote="&quot;" firstrownames="true" removeempty="true">
+								<names root="wikidata" block="Rows">
+									<field0 name="airport" type="string"/>
+									<field1 name="name" type="string"/>
+									<field2 name="country" type="string"/>
+									<field3 name="elevation" type="double"/>
+									<field4 name="faa" type="string"/>
+									<field5 name="iata" type="string"/>
+									<field6 name="icao" type="string"/>
+									<field7 name="located_in" type="string"/>
+									<field8 name="operator" type="string"/>
+									<field9 name="owner" type="string"/>
+									<field10 name="timezone" type="string"/>
+									<field11 name="lat" type="double"/>
+									<field12 name="lon" type="double"/>
+								</names>
+							</settings>
+						</text>
+					</data>
+				</component>
+			</children>
+			<graph directed="1">
+				<edges/>
+				<vertices>
+					<vertex vertexkey="15">
+						<edges>
+							<edge vertexkey="1"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="17">
+						<edges>
+							<edge vertexkey="2"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="21">
+						<edges>
+							<edge vertexkey="3"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="22">
+						<edges>
+							<edge vertexkey="4"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="20">
+						<edges>
+							<edge vertexkey="5"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="27">
+						<edges>
+							<edge vertexkey="6"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="28">
+						<edges>
+							<edge vertexkey="7"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="19">
+						<edges>
+							<edge vertexkey="8"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="18">
+						<edges>
+							<edge vertexkey="9"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="23">
+						<edges>
+							<edge vertexkey="10"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="26">
+						<edges>
+							<edge vertexkey="11"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="24">
+						<edges>
+							<edge vertexkey="12"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="25">
+						<edges>
+							<edge vertexkey="13"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="16">
+						<edges>
+							<edge vertexkey="14"/>
+						</edges>
+					</vertex>
+				</vertices>
+			</graph>
+		</structure>
+	</component>
+</mapping>
