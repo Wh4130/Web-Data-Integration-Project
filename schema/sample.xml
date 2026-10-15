@@ -3,7 +3,7 @@
   Two real, already-fused example records, pulled from the project's actual
   interim data (data/interim/wikidata_airports.csv, data/interim/ourairports_airports.csv,
   data/raw/kaggle/airports-kaggle.csv) to illustrate the schema in integrated_schema.xsd:
-    - Dayton International Airport: present in all 3 sources, shows every attribute
+    - Dayton International Airport: present in all 3 sources, shows nearly every attribute
       including the list-valued ones (operator, owner, runway).
     - Maple Airport: present in Wikidata only with coordinates and location, showing
       how a sparsely-described entity looks under the same schema (most elements omitted,
@@ -12,18 +12,22 @@
 <Airports xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="integrated_schema.xsd">
 
-  <Airport>
+  <Airport id="wd_531">
     <name>Dayton International Airport</name>
+    <type>medium_airport</type>
+    <scheduledService>true</scheduledService>
     <iata>DAY</iata>
     <icao>KDAY</icao>
     <localCode>DAY</localCode>
-    <coordinates>
-      <lat>39.9025</lat>
-      <lon>-84.219445</lon>
-    </coordinates>
+    <lat>39.9025</lat>
+    <lon>-84.219445</lon>
     <elevation>308.0</elevation>
-    <country>United States</country>
+    <countryCode>US</countryCode>
+    <countryCodeA3>USA</countryCodeA3>
+    <countryName>United States</countryName>
+    <isoRegion>US-OH</isoRegion>
     <city>Dayton</city>
+    <cityIata>DAY</cityIata>
     <timezone>America/New_York</timezone>
     <operator>Dayton Department of Aviation</operator>
     <owner>City of Dayton</owner>
@@ -54,16 +58,18 @@
       <leIdent>18</leIdent>
       <heIdent>36</heIdent>
     </runway>
+    <homepage>https://flydayton.com</homepage>
+    <wikipedia>https://en.wikipedia.org/wiki/Dayton_International_Airport</wikipedia>
+    <wikidataURI>http://www.wikidata.org/entity/Q1135486</wikidataURI>
   </Airport>
 
-  <Airport>
+  <Airport id="wd_77">
     <name>Maple Airport</name>
-    <coordinates>
-      <lat>43.8433</lat>
-      <lon>-79.5269</lon>
-    </coordinates>
-    <country>Canada</country>
+    <lat>43.8433</lat>
+    <lon>-79.5269</lon>
+    <countryName>Canada</countryName>
     <city>Regional Municipality of York</city>
+    <wikidataURI>http://www.wikidata.org/entity/Q1031288</wikidataURI>
   </Airport>
 
 </Airports>

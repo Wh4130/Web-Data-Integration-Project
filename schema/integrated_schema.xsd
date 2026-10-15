@@ -38,6 +38,18 @@
         </xs:annotation>
       </xs:element>
 
+      <xs:element name="type" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Airport type (e.g. large_airport, medium_airport, small_airport, heliport, closed). OurAirports only (type).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="scheduledService" type="xs:boolean" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Whether the airport has scheduled airline service. OurAirports only (scheduled_service, yes/no).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
       <xs:element name="iata" type="xs:string" minOccurs="0">
         <xs:annotation>
           <xs:documentation>3-letter IATA code. In all 3 sources. Evaluation-only identifier, not used for entity matching.</xs:documentation>
@@ -56,9 +68,15 @@
         </xs:annotation>
       </xs:element>
 
-      <xs:element name="coordinates" type="CoordinatesType" minOccurs="0">
+      <xs:element name="lat" type="xs:decimal" minOccurs="0">
         <xs:annotation>
-          <xs:documentation>Decimal-degree coordinate pair, resolved jointly (not per axis). In all 3 sources.</xs:documentation>
+          <xs:documentation>Latitude in decimal degrees. In all 3 sources (Kaggle: GeoPointLat, Wikidata: lat, OurAirports: latitude_deg). Resolved jointly with lon during fusion.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="lon" type="xs:decimal" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Longitude in decimal degrees. In all 3 sources (Kaggle: GeoPointLong, Wikidata: lon, OurAirports: longitude_deg). Resolved jointly with lat during fusion.</xs:documentation>
         </xs:annotation>
       </xs:element>
 
@@ -68,15 +86,45 @@
         </xs:annotation>
       </xs:element>
 
-      <xs:element name="country" type="xs:string" minOccurs="0">
+      <xs:element name="countryCode" type="xs:string" minOccurs="0">
         <xs:annotation>
-          <xs:documentation>Country in which the airport is located. In all 3 sources.</xs:documentation>
+          <xs:documentation>ISO 3166-1 alpha-2 code of the country in which the airport is located. In Kaggle (Country_CodeA2) and OurAirports (iso_country); not in Wikidata.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="countryCodeA3" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>ISO 3166-1 alpha-3 country code. Kaggle only (Country_CodeA3).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="countryName" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Name of the country in which the airport is located. In Kaggle (Country_Name) and Wikidata (country); not in OurAirports.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="continent" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Continent code (e.g. EU, NA). OurAirports only (continent).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="isoRegion" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>ISO 3166-2 region code (e.g. US-OH). OurAirports only (iso_region).</xs:documentation>
         </xs:annotation>
       </xs:element>
 
       <xs:element name="city" type="xs:string" minOccurs="0">
         <xs:annotation>
           <xs:documentation>City/municipality. In all 3 sources (Kaggle: City_Name, Wikidata: located_in, OurAirports: municipality).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="cityIata" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>IATA code of the city served (may differ from the airport's own IATA code). Kaggle only (City_IATA).</xs:documentation>
         </xs:annotation>
       </xs:element>
 
@@ -104,14 +152,38 @@
         </xs:annotation>
       </xs:element>
 
-    </xs:sequence>
-  </xs:complexType>
+      <xs:element name="homepage" type="xs:anyURI" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Official airport website. OurAirports only (home_link).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
 
-  <xs:complexType name="CoordinatesType">
-    <xs:sequence>
-      <xs:element name="lat" type="xs:decimal"/>
-      <xs:element name="lon" type="xs:decimal"/>
+      <xs:element name="wikipedia" type="xs:anyURI" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Wikipedia article URL. OurAirports only (wikipedia_link).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
+      <xs:element name="wikidataURI" type="xs:anyURI" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>Wikidata entity URI of the airport. Wikidata only (airport).</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+
     </xs:sequence>
+
+    <xs:attribute name="id" type="xs:ID" use="required">
+      <xs:annotation>
+        <xs:documentation>
+          Unique record identifier in the form {source_prefix}_{uid}. source_prefix is one of
+          wd (Wikidata), oa (OurAirports) or kg (Kaggle). Not every source has its own id
+          column, so uid is a sequence number assigned by the pipeline: the 0-based row index
+          of the record in that source's interim CSV (e.g. wd_531, oa_39281, kg_0). It is not
+          mapped from a source attribute. For a fused record it is the id of the source
+          record that serves as the base of the cluster.
+        </xs:documentation>
+      </xs:annotation>
+    </xs:attribute>
   </xs:complexType>
 
   <xs:complexType name="RunwayType">
