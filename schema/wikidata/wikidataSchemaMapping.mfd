@@ -6,42 +6,6 @@
 		<properties SelectedLanguage="builtin"/>
 		<structure>
 			<children>
-				<component name="integrated_schema" library="xml" uid="3" kind="14">
-					<properties XSLTDefaultOutput="1"/>
-					<view ltx="549" lty="-23" rbx="953" rby="558"/>
-					<data>
-						<root scrollposition="1">
-							<header>
-								<namespaces>
-									<namespace/>
-									<namespace uid="http://www.altova.com/mapforce"/>
-								</namespaces>
-							</header>
-							<entry name="FileInstance" ns="1" expanded="1">
-								<entry name="document" ns="1" expanded="1" casttotargettypemode="cast-in-subtree">
-									<entry name="Airports" expanded="1">
-										<entry name="Airport" inpkey="1" expanded="1">
-											<entry name="name" inpkey="2"/>
-											<entry name="iata" inpkey="3"/>
-											<entry name="icao" inpkey="4"/>
-											<entry name="localCode" inpkey="5"/>
-											<entry name="lat" inpkey="6"/>
-											<entry name="lon" inpkey="7"/>
-											<entry name="elevation" inpkey="8"/>
-											<entry name="countryName" inpkey="9"/>
-											<entry name="city" inpkey="10"/>
-											<entry name="timezone" inpkey="11"/>
-											<entry name="operator" inpkey="12"/>
-											<entry name="owner" inpkey="13"/>
-											<entry name="wikidataURI" inpkey="14"/>
-										</entry>
-									</entry>
-								</entry>
-							</entry>
-						</root>
-						<document schema="integrated_schema.xsd" instanceroot="{}Airports" inputinstance="sample.xml" outputinstance="sample.xml"/>
-					</data>
-				</component>
 				<component name="wikidata" library="text" uid="2" kind="16">
 					<properties/>
 					<view ltx="-1" lty="44" rbx="276" rby="395"/>
@@ -92,6 +56,61 @@
 								</names>
 							</settings>
 						</text>
+					</data>
+				</component>
+				<component name="integrated_schema" library="xml" uid="3" kind="14">
+					<properties XSLTTargetEncoding="UTF-8" XSLTDefaultOutput="1"/>
+					<view ltx="549" lty="-23" rbx="953" rby="558"/>
+					<data>
+						<root scrollposition="1">
+							<header>
+								<namespaces>
+									<namespace/>
+									<namespace uid="http://www.altova.com/mapforce"/>
+								</namespaces>
+							</header>
+							<entry name="FileInstance" ns="1" expanded="1">
+								<entry name="document" ns="1" expanded="1" casttotargettypemode="cast-in-subtree">
+									<entry name="Airports" expanded="1">
+										<entry name="Airport" inpkey="1" expanded="1">
+											<entry name="id" type="attribute" inpkey="42"/>
+											<entry name="name" inpkey="2"/>
+											<entry name="iata" inpkey="3"/>
+											<entry name="icao" inpkey="4"/>
+											<entry name="localCode" inpkey="5"/>
+											<entry name="lat" inpkey="6"/>
+											<entry name="lon" inpkey="7"/>
+											<entry name="elevation" inpkey="8"/>
+											<entry name="countryName" inpkey="9"/>
+											<entry name="city" inpkey="10"/>
+											<entry name="timezone" inpkey="11"/>
+											<entry name="operator" inpkey="12"/>
+											<entry name="owner" inpkey="13"/>
+											<entry name="wikidataURI" inpkey="14"/>
+										</entry>
+									</entry>
+								</entry>
+							</entry>
+						</root>
+						<document schema="integrated_schema.xsd" instanceroot="{}Airports" inputinstance="sample.xml" outputinstance="sample.xml"/>
+					</data>
+				</component>
+				<component name="wikidataId" library="user" uid="26" kind="19" visible="0" blackbox="0">
+					<view ltx="392" lty="62" rbx="440" rby="79"/>
+					<data>
+						<root>
+							<header>
+								<namespaces/>
+							</header>
+						</root>
+						<root>
+							<header>
+								<namespaces>
+									<namespace/>
+								</namespaces>
+							</header>
+							<entry name="id" outkey="43" componentid="25"/>
+						</root>
 					</data>
 				</component>
 			</children>
@@ -166,6 +185,93 @@
 					<vertex vertexkey="16">
 						<edges>
 							<edge vertexkey="14"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="43">
+						<edges>
+							<edge vertexkey="42"/>
+						</edges>
+					</vertex>
+				</vertices>
+			</graph>
+		</structure>
+	</component>
+	<component name="wikidataId" library="user" uid="20" inline="1" editable="1" blackbox="0">
+		<description/>
+		<structure>
+			<children>
+				<component name="constant" library="core" uid="21" kind="2">
+					<targets>
+						<datapoint pos="0" key="1"/>
+					</targets>
+					<view ltx="368" lty="107" rbx="428" rby="125"/>
+					<data>
+						<constant value="wd_" datatype="string"/>
+					</data>
+				</component>
+				<component name="constant" library="core" uid="22" kind="2">
+					<targets>
+						<datapoint pos="0" key="5"/>
+					</targets>
+					<view ltx="300" lty="174" rbx="338" rby="192"/>
+					<data>
+						<constant value="1" datatype="decimal"/>
+					</data>
+				</component>
+				<component name="concat" library="core" uid="23" kind="5" growable="1" growablebasename="value">
+					<sources>
+						<datapoint pos="0" key="2"/>
+						<datapoint pos="1" key="4"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="7"/>
+					</targets>
+					<view ltx="368" rbx="445" rby="59"/>
+				</component>
+				<component name="auto-number" library="core" uid="24" kind="5">
+					<sources>
+						<datapoint/>
+						<datapoint pos="1" key="6"/>
+						<datapoint/>
+						<datapoint/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="3"/>
+					</targets>
+					<view ltx="339" lty="141" rbx="472" rby="234"/>
+				</component>
+				<component name="id" library="core" uid="25" kind="7">
+					<sources>
+						<datapoint pos="0" key="8"/>
+					</sources>
+					<view ltx="572" rbx="607" rby="39"/>
+					<data>
+						<output datatype="string"/>
+						<parameter usageKind="output" name="id"/>
+					</data>
+				</component>
+			</children>
+			<graph directed="1">
+				<edges/>
+				<vertices>
+					<vertex vertexkey="1">
+						<edges>
+							<edge vertexkey="2"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="3">
+						<edges>
+							<edge vertexkey="4"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="5">
+						<edges>
+							<edge vertexkey="6"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="7">
+						<edges>
+							<edge vertexkey="8"/>
 						</edges>
 					</vertex>
 				</vertices>
