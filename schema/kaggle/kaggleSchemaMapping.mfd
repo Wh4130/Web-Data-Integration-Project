@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Edited with Altova MapForce 2026r2 -->
+<mapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="22">
+	<resources/>
+	<component name="defaultmap" uid="1" editable="1" blackbox="0">
+		<properties SelectedLanguage="builtin"/>
+		<structure>
+			<children>
+				<component name="integrated_schema" library="xml" uid="2" kind="14">
+					<properties XSLTDefaultOutput="1"/>
+					<view ltx="1513" lty="142" rbx="2196" rby="846"/>
+					<data>
+						<root scrollposition="1">
+							<header>
+								<namespaces>
+									<namespace/>
+									<namespace uid="http://www.altova.com/mapforce"/>
+								</namespaces>
+							</header>
+							<entry name="FileInstance" ns="1" expanded="1">
+								<entry name="document" ns="1" expanded="1" casttotargettypemode="cast-in-subtree">
+									<entry name="Airports" expanded="1">
+										<entry name="Airport" inpkey="1" expanded="1">
+											<entry name="id" type="attribute" inpkey="2"/>
+											<entry name="name" inpkey="3"/>
+											<entry name="iata" inpkey="4"/>
+											<entry name="icao" inpkey="5"/>
+											<entry name="lat" inpkey="6"/>
+											<entry name="lon" inpkey="7"/>
+											<entry name="countryCode" inpkey="8"/>
+											<entry name="countryCodeA3" inpkey="9"/>
+											<entry name="countryName" inpkey="10"/>
+											<entry name="city" inpkey="11"/>
+											<entry name="cityIata" inpkey="12"/>
+											<entry name="timezone" inpkey="13"/>
+										</entry>
+									</entry>
+								</entry>
+							</entry>
+						</root>
+						<document schema="integrated_schema.xsd" instanceroot="{}Airports" outputinstance="integrated_schema.xml"/>
+					</data>
+				</component>
+				<component name="kaggle" library="text" uid="3" kind="16">
+					<properties/>
+					<view ltx="759" lty="291" rbx="1019" rby="611"/>
+					<data>
+						<root>
+							<header>
+								<namespaces>
+									<namespace/>
+									<namespace uid="http://www.altova.com/mapforce"/>
+								</namespaces>
+							</header>
+							<entry name="FileInstance" ns="1" expanded="1">
+								<entry name="document" ns="1" expanded="1">
+									<entry name="Rows" outkey="14" expanded="1">
+										<entry name="AirportName" outkey="15"/>
+										<entry name="IATA" outkey="16"/>
+										<entry name="ICAO" outkey="17"/>
+										<entry name="TimeZone" outkey="18"/>
+										<entry name="City_Name" outkey="19"/>
+										<entry name="City_IATA" outkey="20"/>
+										<entry name="Country_CodeA2" outkey="21"/>
+										<entry name="Country_CodeA3" outkey="22"/>
+										<entry name="Country_Name" outkey="23"/>
+										<entry name="GeoPointLat" outkey="24"/>
+										<entry name="GeoPointLong" outkey="25"/>
+									</entry>
+								</entry>
+							</entry>
+						</root>
+						<text type="csv" encoding="1000" byteorder="1" byteordermark="0" inputinstance="airports-kaggle.csv">
+							<settings separator="," quote="&quot;" firstrownames="true" removeempty="true">
+								<names root="kaggle" block="Rows">
+									<field0 name="AirportName" type="string"/>
+									<field1 name="IATA" type="string"/>
+									<field2 name="ICAO" type="string"/>
+									<field3 name="TimeZone" type="string"/>
+									<field4 name="City_Name" type="string"/>
+									<field5 name="City_IATA" type="string"/>
+									<field6 name="UTC_Offset_Hours" type="string"/>
+									<field7 name="UTC_Offset_Seconds" type="string"/>
+									<field8 name="Country_CodeA2" type="string"/>
+									<field9 name="Country_CodeA3" type="string"/>
+									<field10 name="Country_Name" type="string"/>
+									<field11 name="GeoPointLat" type="decimal"/>
+									<field12 name="GeoPointLong" type="decimal"/>
+								</names>
+							</settings>
+						</text>
+					</data>
+				</component>
+				<component name="constant" library="core" uid="4" kind="2">
+					<targets>
+						<datapoint pos="0" key="26"/>
+					</targets>
+					<view ltx="884" lty="83" rbx="944" rby="100"/>
+					<data>
+						<constant value="kg_" datatype="string"/>
+					</data>
+				</component>
+				<component name="auto-number" library="core" uid="6" kind="5">
+					<sources>
+						<datapoint/>
+						<datapoint/>
+						<datapoint/>
+						<datapoint/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="27"/>
+					</targets>
+					<view ltx="849" lty="161" rbx="991" rby="247"/>
+				</component>
+				<component name="concat" library="core" uid="8" kind="5" growable="1" growablebasename="value">
+					<sources>
+						<datapoint pos="0" key="28"/>
+						<datapoint pos="1" key="29"/>
+					</sources>
+					<targets>
+						<datapoint pos="0" key="30"/>
+					</targets>
+					<view ltx="1142" lty="107" rbx="1224" rby="163"/>
+				</component>
+			</children>
+			<graph directed="1">
+				<edges/>
+				<vertices>
+					<vertex vertexkey="14">
+						<edges>
+							<edge vertexkey="1"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="30">
+						<edges>
+							<edge vertexkey="2"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="15">
+						<edges>
+							<edge vertexkey="3"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="16">
+						<edges>
+							<edge vertexkey="4"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="17">
+						<edges>
+							<edge vertexkey="5"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="24">
+						<edges>
+							<edge vertexkey="6"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="25">
+						<edges>
+							<edge vertexkey="7"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="21">
+						<edges>
+							<edge vertexkey="8"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="22">
+						<edges>
+							<edge vertexkey="9"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="23">
+						<edges>
+							<edge vertexkey="10"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="19">
+						<edges>
+							<edge vertexkey="11"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="20">
+						<edges>
+							<edge vertexkey="12"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="18">
+						<edges>
+							<edge vertexkey="13"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="26">
+						<edges>
+							<edge vertexkey="28"/>
+						</edges>
+					</vertex>
+					<vertex vertexkey="27">
+						<edges>
+							<edge vertexkey="29"/>
+						</edges>
+					</vertex>
+				</vertices>
+			</graph>
+		</structure>
+	</component>
+</mapping>
