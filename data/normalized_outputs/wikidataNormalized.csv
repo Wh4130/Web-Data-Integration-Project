@@ -102,7 +102,7 @@ wd_100,boras airport,,ESGE,57.69722222136,12.84722212036,179,sweden,boras munici
 wd_101,brandholmen airport,,ESCY,58.74527779291,17.04694453352,,sweden,nykoping municipality,http://www.wikidata.org/entity/Q10434726,,,,,SE
 wd_102,murtala muhammed international airport,LOS,DNMM,6.577222176434,3.321111037695,41,nigeria,ikeja,http://www.wikidata.org/entity/Q1043631,,Central European Time,,,NG
 wd_103,byholma airbase,,ESFY,56.78333325943,13.60138888806,,sweden,ljungby municipality,http://www.wikidata.org/entity/Q10438216,Scanian Air Wing,,,,SE
-wd_104,kaminoike navy airfield,,,35.94322164165,140.6630595035,,empire of japan,,http://www.wikidata.org/entity/Q104630176,,,,,
+wd_104,kaminoike navy airfield,,,35.94322164165,140.6630595035,,empire of japan,,http://www.wikidata.org/entity/Q104630176,,,,,JP
 wd_105,osaka international airport,ITM,RJOO,34.78552775903,135.4382222848,15,japan,ikeda,http://www.wikidata.org/entity/Q1046748,Kansai Airports,,,,JP
 wd_106,don mueang international airport,DMK,VTBD,13.91250007219,100.6066667294,2.7432,thailand,sanam bin,http://www.wikidata.org/entity/Q1046755,Airports of Thailand,,Ministry of Finance,,TH
 wd_107,kamoike airport,,,31.55583327781,130.5544443713,,japan,,http://www.wikidata.org/entity/Q104811623,,,,,JP
@@ -117,7 +117,7 @@ wd_115,rishiri airport,RIS,RJER,45.24194443155,141.187500098,30.1752,japan,rishi
 wd_116,fallfors airbase,,ESUF,65.10750004566,20.76111100685,,sweden,skelleftea municipality,http://www.wikidata.org/entity/Q10500698,Norrbotten Air Wing,,,,SE
 wd_117,khartoum international airport,KRT,HSSK,15.58949728086,32.55316098458,385.572,sudan,khartoum,http://www.wikidata.org/entity/Q1050244,,,,,SD
 wd_118,paphos international airport,PFO,LCPH,34.718333394,32.48500001848,12,cyprus,akhelia,http://www.wikidata.org/entity/Q1050707,,,,,CY
-wd_119,lazarevskoe,,,43.91008281513,39.33933721794,,soviet union,lazarevskoye microdistrict,http://www.wikidata.org/entity/Q105100937,,,,,
+wd_119,lazarevskoe,,,43.91008281513,39.33933721794,,soviet union,lazarevskoye microdistrict,http://www.wikidata.org/entity/Q105100937,,,,,SU
 wd_120,jingzhou shashi airport,,ZHJZ,30.28333297026,112.449999873,,peoples republic of china,peoples republic of china,http://www.wikidata.org/entity/Q105178478,,Asia/Shanghai,,,CN
 wd_121,hasslosa airbase,,ESFH,58.40972204545,13.26305504261,,sweden,lidkoping municipality,http://www.wikidata.org/entity/Q10518493,Skaraborg Air Wing,,,,SE
 wd_122,hedlanda airport,,ESNC,62.40888797902,13.74722193344,445,sweden,harjedalen municipality,http://www.wikidata.org/entity/Q10519176,,,Härjedalen Municipality,,SE
@@ -440,7 +440,7 @@ wd_438,siteki airfield,,FDST,-26.47219994708,31.94279984752,676.656,eswatini,esw
 wd_439,gromovo air base,,,60.71449999764,30.11200007993,43.8912,russia,priozersky district,http://www.wikidata.org/entity/Q111711167,,,,,RU
 wd_440,chaumont aerodrome vendue,,LFSY,48.07694447979,5.150000066636,358,france,haute marne,http://www.wikidata.org/entity/Q111718373,,,,,FR
 wd_441,kryvyi rih international airport,KWG,UKDR,48.04305560705,33.20694440343,123.6,ukraine,kryvyi rih,http://www.wikidata.org/entity/Q111731,Kryvyi Rih city council,,Kryvyi Rih city council,,UA
-wd_442,raf beit daras,,,31.73655549226,34.69961115597,,mandatory palestine,,http://www.wikidata.org/entity/Q111737172,Royal Air Force,,,,
+wd_442,raf beit daras,,,31.73655549226,34.69961115597,,mandatory palestine,,http://www.wikidata.org/entity/Q111737172,Royal Air Force,,,,PS
 wd_443,aden adde international airport,MGQ,HCMM,2.013611171407,45.30472228798,9,somalia,banaadir,http://www.wikidata.org/entity/Q1119032,,,,,SO
 wd_444,anambra international cargo airport,,DNAN,6.265195604661,6.881012606324,,nigeria,anambra state,http://www.wikidata.org/entity/Q111915271,,UTC+01:00,,,NG
 wd_445,planalto central aerodrome,,,-15.93722221063,-47.72722205867,,brazil,sao sebastiao,http://www.wikidata.org/entity/Q111936643,Infraero,,,,BR
@@ -1070,7 +1070,7 @@ wd_1068,queenstown airport,ZQN,NZQN,-45.02111112235,168.7391665473,357,new zeala
 wd_1069,prince mohammad bin abdulaziz international airport,MED,OEMA,24.55175002529,39.71425002414,656,saudi arabia,medina province,http://www.wikidata.org/entity/Q1205940,,,,,SA
 wd_1070,ebonyi state international airport,,DNEB,6.19694444928,8.018055658804,,nigeria,,http://www.wikidata.org/entity/Q120703751,,,,,NG
 wd_1071,antioch airport,,,37.96474993971,-121.8012798781,,united states,,http://www.wikidata.org/entity/Q120756234,,,,,US
-wd_1072,brovary aerodrome,,,50.50552783581,30.85441676048,,soviet union,,http://www.wikidata.org/entity/Q12084934,,,,,
+wd_1072,brovary aerodrome,,,50.50552783581,30.85441676048,,soviet union,,http://www.wikidata.org/entity/Q12084934,,,,,SU
 wd_1073,kalibo international airport,KLO,RPVK,11.68133702286,122.3776500508,4,philippines,western visayas,http://www.wikidata.org/entity/Q1209088,Civil Aviation Authority of the Philippines,,,,PH
 wd_1074,mudanjiang hailang international airport,MDG,ZYMD,44.52416669067,129.5688887961,269,peoples republic of china,heilongjiang,http://www.wikidata.org/entity/Q1209229,,,,,CN
 wd_1075,shizuoka airport,FSZ,RJNS,34.79611108526,138.1894445402,132,japan,makinohara,http://www.wikidata.org/entity/Q1209993,Mt. Fuji Shizuoka Airport,,,,JP
@@ -2075,7 +2075,7 @@ wd_2073,eppley airfield,OMA,KOMA,41.3019999967,-95.89366674041,299.6184,united s
 wd_2074,raf cranwell,,EGYD,53.03027777283,-0.4833332267435,,united kingdom,england,http://www.wikidata.org/entity/Q1347950,Royal Air Force,Greenwich Mean Time,,,GB
 wd_2075,eindhoven airport,EIN,EHEH,51.45055607096,5.374167026369,23,netherlands,eindhoven,http://www.wikidata.org/entity/Q1348234,,,Royal Schiphol Group,,NL
 wd_2076,old palmas airport,,,-10.205277838,-48.34250002014,,brazil,,http://www.wikidata.org/entity/Q134895877,,,,,BR
-wd_2077,tulkarm airfield,,,32.31922600634,35.03217892259,,mandatory palestine,tulkarm,http://www.wikidata.org/entity/Q134985526,Royal Air Force,,Royal Air Force,,
+wd_2077,tulkarm airfield,,,32.31922600634,35.03217892259,,mandatory palestine,tulkarm,http://www.wikidata.org/entity/Q134985526,Royal Air Force,,Royal Air Force,,PS
 wd_2078,fuzhou changle international airport,FOC,ZSFZ,25.93499991664,119.6633333151,14,peoples republic of china,zhanggang subdistrict,http://www.wikidata.org/entity/Q1350630,,,,,CN
 wd_2079,siljansnas airport,,ESVS,60.7849500615,14.82701993997,,sweden,leksand municipality,http://www.wikidata.org/entity/Q135156413,,,http://www.wikidata.org/entity/Q10667793,,SE
 wd_2080,colts neck airport,,,40.27799998436,-74.18200013617,,united states,colts neck,http://www.wikidata.org/entity/Q135175656,,,,,US
@@ -2116,7 +2116,7 @@ wd_2114,gateway international airport,GWI,DNGA,6.939166669677,3.710555717079,,ni
 wd_2115,yao airport,,RJOY,34.59611116405,135.6027778197,10.0584,japan,osaka prefecture,http://www.wikidata.org/entity/Q1366065,"Ministry of Land, Infrastructure, Transport and Tourism",Japan Standard Time,,,JP
 wd_2116,bishoftu international airport,,,8.73392995329,38.92129985515,1898,ethiopia,misraq shewa zone,http://www.wikidata.org/entity/Q136659509,Ethiopian Airlines,,,,ET
 wd_2117,saga airport,HSG,RJFS,33.14972224007,130.3022221758,1.8288,japan,saga,http://www.wikidata.org/entity/Q1366663,Saga Prefecture,,,,JP
-wd_2118,skrunda airfield,,,56.68333329883,21.99805561639,,soviet union,,http://www.wikidata.org/entity/Q136702628,,,,,
+wd_2118,skrunda airfield,,,56.68333329883,21.99805561639,,soviet union,,http://www.wikidata.org/entity/Q136702628,,,,,SU
 wd_2119,bristol filton airport,FZO,EGTG,51.51944441862,-2.593611127318,68.58,united kingdom,filton,http://www.wikidata.org/entity/Q1367059,,,,,GB
 wd_2120,wickenby aerodrome,,EGNW,53.31694439362,-0.3488888408513,25.6032,united kingdom,holton cum beckering,http://www.wikidata.org/entity/Q1367075,,,,,GB
 wd_2121,aeon field,,,1.763333409804,-157.1952779006,,kiribati,,http://www.wikidata.org/entity/Q136756634,,,,,KI
@@ -17229,7 +17229,7 @@ wd_17227,frankfurt airport,FRA,EDDF,50.03330549228,8.570455600108,110.6424,germa
 wd_17228,cairo international airport,CAI,HECA,30.12194445368,31.40555539299,116,egypt,cairo governorate,http://www.wikidata.org/entity/Q461793,http://www.wikidata.org/entity/Q12218696,UTC+02:00,,,EG
 wd_17229,dobra niva airport,,LZDN,48.48888886952,19.10166650927,,slovakia,dobra niva,http://www.wikidata.org/entity/Q46228067,,,,,SK
 wd_17230,paris charles gaulle airport,CDG,LFPG,49.00972222817,2.547777874905,119,france,le mesnil amelot,http://www.wikidata.org/entity/Q46280,Groupe ADP,,Groupe ADP,,FR
-wd_17231,31st air base,,,52.33333325231,16.96666668818,,nazi germany,greater poland voivodeship,http://www.wikidata.org/entity/Q4634807,,,,,
+wd_17231,31st air base,,,52.33333325231,16.96666668818,,nazi germany,greater poland voivodeship,http://www.wikidata.org/entity/Q4634807,,,,,DE
 wd_17232,3 rivers recreation area airport,,,44.55789496615,-121.4013890004,821.436,united states,oregon,http://www.wikidata.org/entity/Q4636532,,Pacific Time Zone,,OG00,US
 wd_17233,delaurentis airport,ODW,KOKH,48.25169995264,-122.6739999491,58.8264,united states,washington,http://www.wikidata.org/entity/Q4647199,,America/Los Angeles,,OKH,US
 wd_17234,paul vance fredericktown regional airport,,,37.60559997298,-90.28749986578,268.224,united states,missouri,http://www.wikidata.org/entity/Q4648255,,America/Chicago,,H88,US
@@ -17470,7 +17470,7 @@ wd_17468,barrow island airport,BWB,YBWX,-20.86583324789,115.4047223324,6,austral
 wd_17469,basengele airport,,FZBW,-1.916666917425,17.91666690066,398.9832,democratic republic of the congo,bandundu province,http://www.wikidata.org/entity/Q4866712,,UTC+01:00,,,CD
 wd_17470,bathinda airport,BUP,VIBT,30.27000004451,74.75555566582,201,india,virk kalan,http://www.wikidata.org/entity/Q4869031,Airports Authority of India,,,,IN
 wd_17471,batken airport,,UAFB,40.04250002098,70.83805562075,1072,kyrgyzstan,batken region,http://www.wikidata.org/entity/Q4869310,,,,,KG
-wd_17472,otumlo airport,,,15.68333302223,39.36805596516,27.432,ethiopian empire,,http://www.wikidata.org/entity/Q48723875,,,,,
+wd_17472,otumlo airport,,,15.68333302223,39.36805596516,27.432,ethiopian empire,,http://www.wikidata.org/entity/Q48723875,,,,,ET
 wd_17473,letung airport,LMU,WIDL,2.964166601155,105.7544444182,10,indonesia,anambas islands,http://www.wikidata.org/entity/Q48727412,,,,,ID
 wd_17474,mundra airport,,VAMA,22.8341666356,69.7644444646,5.1816,india,mundra taluka,http://www.wikidata.org/entity/Q48730693,,,,,IN
 wd_17475,battlefield airport,,,-28.13152693038,30.29041693573,,united states,,http://www.wikidata.org/entity/Q4873104,,,,,US
@@ -22814,7 +22814,7 @@ wd_22812,raf leconfield,,EGXV,53.87694437418,-0.4374999743304,7,united kingdom,l
 wd_22813,raf newchurch,,,51.05110004642,0.9202781514454,1,united kingdom,england,http://www.wikidata.org/entity/Q7275496,Royal Air Force,Greenwich Mean Time,,,GB
 wd_22814,newton airfield,,EGXN,52.96639995926,-0.9894439401007,55,united kingdom,newton,http://www.wikidata.org/entity/Q7275499,Royal Air Force,,,,GB
 wd_22815,raf pengam moors,,,51.48555554588,-3.132222167339,2,united kingdom,tremorfa,http://www.wikidata.org/entity/Q7275521,Royal Air Force,,,,GB
-wd_22816,raf santacruz,,,19.08861110833,72.86805567599,11,british india,mumbai,http://www.wikidata.org/entity/Q7275551,Royal Air Force,,,,
+wd_22816,raf santacruz,,,19.08861110833,72.86805567599,11,british india,mumbai,http://www.wikidata.org/entity/Q7275551,Royal Air Force,,,,IN
 wd_22817,shipdham airfield,,EGSA,52.62000004074,0.9199998722598,,united kingdom,england,http://www.wikidata.org/entity/Q7275562,Royal Air Force,Greenwich Mean Time,,,GB
 wd_22818,raf southam,,,52.25080000446,-1.373610032139,85.344,united kingdom,england,http://www.wikidata.org/entity/Q7275576,Royal Air Force,Greenwich Mean Time,,,GB
 wd_22819,raf saint jean,,,32.94244716218,35.10849983907,,israel,,http://www.wikidata.org/entity/Q7275583,Israeli Air Force,,,,IL
@@ -24657,7 +24657,7 @@ wd_24655,tiko airport,TKC,FKKC,4.089166702786,9.360277642831,46.0248,cameroon,ca
 wd_24656,ontario international airport,ONT,KONT,34.05611107504,-117.6011112124,288,united states,california,http://www.wikidata.org/entity/Q949831,Ontario International Airport Authority,America/Los Angeles,Ontario International Airport Authority,ONT,US
 wd_24657,kurumoch international airport,KUF,UWWW,53.50166661991,50.15500008143,145,russia,samara oblast,http://www.wikidata.org/entity/Q950834,,Samara Time,Airports of Regions,,RU
 wd_24658,henry e rohlsen airport,STX,TISX,17.70444440442,-64.80166677833,7,united states,united states virgin islands,http://www.wikidata.org/entity/Q951163,,UTC−04:00,,STX,US
-wd_24659,frunze international airport,,,42.83777772713,74.58083321767,,soviet union,bishkek,http://www.wikidata.org/entity/Q95150461,,,,,
+wd_24659,frunze international airport,,,42.83777772713,74.58083321767,,soviet union,bishkek,http://www.wikidata.org/entity/Q95150461,,,,,SU
 wd_24660,altai airport,LTI,ZMAT,46.37583337387,96.21916655099,2202,mongolia,govi altai province,http://www.wikidata.org/entity/Q952609,,UTC+08:00,,,MN
 wd_24661,nyala airport,UYL,HSNN,12.0536110383,24.95611105576,642,sudan,nyala,http://www.wikidata.org/entity/Q953831,,,,,SD
 wd_24662,yakutat airport,YAK,PAYA,59.50330006844,-139.6600001675,10,united states,yakutat,http://www.wikidata.org/entity/Q953843,Alaska Department of Transportation & Public Facilities,,,YAK,US
