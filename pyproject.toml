@@ -3,6 +3,7 @@ name = "web-data-integration-project"
 version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
+    "countryguess>=0.4.9",
     "matplotlib>=3.11.2",
     "numpy>=2.0",
     "pandas>=2.2.0,<3.0.0",
@@ -19,6 +20,7 @@ htmlmin = ["legacy-cgi"]
 [dependency-groups]
 dev = [
     "ipykernel>=7.3.0",
+    "jupyterlab>=4.6.5",
 ]
 llm = [
     "langchain-openai>=0.3.0",
