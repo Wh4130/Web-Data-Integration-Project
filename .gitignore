@@ -8,3 +8,6 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# PyDI debug output
+notebooks/**/output/
