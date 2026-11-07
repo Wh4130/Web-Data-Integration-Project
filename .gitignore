@@ -9,5 +9,8 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
+# PyDI TokenBlocker debug output
+notebooks/**/output/
+
 # PyDI debug output
 notebooks/**/output/
