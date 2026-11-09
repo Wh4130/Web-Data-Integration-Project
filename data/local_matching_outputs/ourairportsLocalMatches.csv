@@ -1,0 +1,1390 @@
+id1,id2,name1,name2,type1,type2,isoRegion1,isoRegion2,distance_m,closed_vs_active,score
+oa_52231,oa_76636,cedar sky fly ranch airport,duplicate cedar sky fly ranch airport,small_airport,small_airport,US-OK,US-OK,0.0,False,1.0
+oa_77797,oa_77798,sheldon airport,duplicate sheldon airport,small_airport,small_airport,US-NY,US-NY,0.0,False,1.0
+oa_41659,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41658,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41658,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41658,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41658,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41658,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41658,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41657,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41657,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41657,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41657,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41657,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41657,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41657,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41656,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41656,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_19980,oa_85702,duplicate beijing xijiao airport,beijing xijiao airport,medium_airport,medium_airport,CN-11,CN-11,0.0,False,1.0
+oa_14895,oa_14896,jaua airport,duplicate jaua airport,small_airport,small_airport,BR-BA,BR-BA,0.0,False,1.0
+oa_13871,oa_58911,duplicate carta fabril 01 heliport,carta fabril 01 heliport,heliport,heliport,BR-RJ,BR-RJ,0.0,False,1.0
+oa_13673,oa_13674,hospital estadual mario covas helipad,duplicate hospital estadual mario covas helipad,heliport,heliport,BR-SP,BR-SP,0.0,False,1.0
+oa_11232,oa_12406,duplicate utai airstrip,utai airstrip,small_airport,small_airport,PG-SAN,PG-SAN,0.0,False,1.0
+oa_37117,oa_37118,fukesuku daiichi seimei building helipad,duplicate fukesuku daiichi seimei building helipad,heliport,heliport,JP-27,JP-27,0.0,False,1.0
+oa_34347,oa_34348,osaki west city towers west helipad,duplicate osaki west city towers west helipad,heliport,heliport,JP-13,JP-13,0.0,False,1.0
+oa_34081,oa_34082,duplicate elisuperficie ceresole reale,elisuperficie ceresole reale,heliport,heliport,IT-21,IT-21,0.0,False,1.0
+oa_32653,oa_32654,gandhinagar heliport,duplicate gandhinagar heliport,heliport,heliport,IN-MM,IN-MM,0.0,False,1.0
+oa_32354,oa_32355,itanagar naharlagun heliport,duplicate itanagar naharlagun heliport,heliport,heliport,IN-AR,IN-AR,0.0,False,1.0
+oa_24423,oa_24424,barbas heliport,duplicate barbas heliport,heliport,heliport,EH-U-A,EH-U-A,0.0,False,1.0
+oa_41656,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41656,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41656,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41656,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41656,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41656,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41655,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41655,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41655,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41655,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41655,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41655,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41655,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41655,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41655,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41510,oa_41511,odu mountain unification observatory helipad,duplicate odu mountain unification observatory helipad,heliport,heliport,KR-41,KR-41,0.0,False,1.0
+oa_41678,oa_41679,rok ministry smes starups,rok ministry smes starups,heliport,heliport,KR-30,KR-30,0.0,False,1.0
+oa_41750,oa_41751,busan metrpolitan police agency heliport,duplicate busan metrpolitan police agency heliport,heliport,heliport,KR-26,KR-26,0.0,False,1.0
+oa_41683,oa_42147,rok army 53rd logstics support group heliport,duplicate rok army 53rd logstics support group heliport,heliport,heliport,KR-30,KR-30,0.0,False,1.0
+oa_78868,oa_78869,fitch ranch airport,duplicate fitch ranch airport,closed,closed,US-TX,US-TX,0.0,False,1.0
+oa_36214,oa_36215,yomitan airfield,duplicate yomitan airfield,closed,closed,JP-47,JP-47,0.0,False,1.0
+oa_41885,oa_41896,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41895,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41894,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41893,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41892,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41891,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41890,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41889,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41888,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41887,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41886,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41512,oa_41513,duplicate odu mountain unification observatory helipad,duplicate odu mountain unification observatory helipad,heliport,heliport,KR-41,KR-41,0.0,False,1.0
+oa_41511,oa_41513,duplicate odu mountain unification observatory helipad,duplicate odu mountain unification observatory helipad,heliport,heliport,KR-41,KR-41,0.0,False,1.0
+oa_41511,oa_41512,duplicate odu mountain unification observatory helipad,duplicate odu mountain unification observatory helipad,heliport,heliport,KR-41,KR-41,0.0,False,1.0
+oa_41510,oa_41513,odu mountain unification observatory helipad,duplicate odu mountain unification observatory helipad,heliport,heliport,KR-41,KR-41,0.0,False,1.0
+oa_41510,oa_41512,odu mountain unification observatory helipad,duplicate odu mountain unification observatory helipad,heliport,heliport,KR-41,KR-41,0.0,False,1.0
+oa_41886,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41895,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41894,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41893,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41892,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41891,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41890,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41889,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41888,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41887,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41900,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41899,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41898,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41885,oa_41897,cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41889,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41895,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41894,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41893,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41892,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41891,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41890,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41889,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41887,oa_41888,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41886,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41894,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41893,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41892,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41891,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41890,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41895,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41894,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41893,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41892,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41891,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41888,oa_41890,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41895,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41894,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41893,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41892,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41890,oa_41891,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41889,oa_41895,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41892,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41892,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41892,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41892,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41892,oa_41895,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41892,oa_41894,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41892,oa_41893,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41891,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41891,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41891,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41891,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41891,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41891,oa_41895,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41891,oa_41894,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41891,oa_41893,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41891,oa_41892,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41895,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41895,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41894,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41894,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41894,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41894,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41894,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41894,oa_41895,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41893,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41893,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41893,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41893,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41893,oa_41896,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41893,oa_41895,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41893,oa_41894,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41892,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41593,oa_41594,c 820 heliport,duplicate c 820 heliport,heliport,heliport,KR-48,KR-48,0.0,False,1.0
+oa_41899,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41898,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41898,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41897,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41897,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41897,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41896,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41896,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41896,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41896,oa_41897,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41895,oa_41900,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41895,oa_41899,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41895,oa_41898,duplicate cheonmi ri south heliport,duplicate cheonmi ri south heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41654,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_42115,oa_42116,duplicate yeongpoong building heliport,duplicate yeongpoong building heliport,heliport,heliport,KR-11,KR-11,0.0,False,1.0
+oa_42114,oa_42116,duplicate yeongpoong building heliport,duplicate yeongpoong building heliport,heliport,heliport,KR-11,KR-11,0.0,False,1.0
+oa_42114,oa_42115,duplicate yeongpoong building heliport,duplicate yeongpoong building heliport,heliport,heliport,KR-11,KR-11,0.0,False,1.0
+oa_42113,oa_42116,yeongpoong building heliport,duplicate yeongpoong building heliport,heliport,heliport,KR-11,KR-11,0.0,False,1.0
+oa_42113,oa_42115,yeongpoong building heliport,duplicate yeongpoong building heliport,heliport,heliport,KR-11,KR-11,0.0,False,1.0
+oa_42113,oa_42114,yeongpoong building heliport,duplicate yeongpoong building heliport,heliport,heliport,KR-11,KR-11,0.0,False,1.0
+oa_41838,oa_41840,axel towers apartments heliports,duplicate axel towers apartments heliports,heliport,heliport,KR-26,KR-26,0.0,False,1.0
+oa_41702,oa_41760,hanil ordew heliport,duplicate hanil ordew heliport,heliport,heliport,KR-26,KR-26,0.0,False,1.0
+oa_73921,oa_73922,altuda ranch airport,duplicate altuda ranch airport,closed,closed,US-TX,US-TX,0.0,False,1.0
+oa_73509,oa_73510,houston methodist willowbrook hospital helipad,duplicate houston methodist willowbrook hospital helipad,heliport,heliport,US-TX,US-TX,0.0,False,1.0
+oa_71567,oa_71569,saint regis falls field,saint regis falls field,closed,closed,US-NY,US-NY,0.0,False,1.0
+oa_56572,oa_56573,priargunsk heliport,duplicate priargunsk heliport,heliport,heliport,RU-ZAB,RU-ZAB,0.0,False,1.0
+oa_53795,oa_53796,national power corporation maramag heliport,duplicate national power corporation maramag heliport,heliport,heliport,PH-BUK,PH-BUK,0.0,False,1.0
+oa_53664,oa_53665,greenheli boracay heliport,duplicate greenheli boracay heliport,heliport,heliport,PH-AKL,PH-AKL,0.0,False,1.0
+oa_53303,oa_53882,duplicate woodland airpark,woodland airpark,small_airport,small_airport,PH-PAM,PH-PAM,0.0,False,1.0
+oa_72168,oa_72169,galway lake landing field,duplicate galway lake landing field,closed,closed,US-CA,US-CA,0.0,False,1.0
+oa_49548,oa_49549,center higher naval studies heliport,duplicate center higher naval studies heliport,heliport,heliport,MX-DIF,MX-DIF,0.0,False,1.0
+oa_41653,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41653,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41652,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_78857,oa_78858,ruble airport,duplicate ruble airport,closed,closed,US-NY,US-NY,0.0,False,1.0
+oa_78695,oa_78696,soshone mountain helipad,duplicate soshone mountain helipad,heliport,heliport,US-NV,US-NV,0.0,False,1.0
+oa_78192,oa_78193,wgng airport,wgng airport,closed,closed,US-RI,US-RI,0.0,False,1.0
+oa_41615,oa_41625,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41624,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41623,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41622,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41621,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41620,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41619,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41618,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41617,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41616,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_20248,oa_61829,san martin airport,san martin airport,small_airport,small_airport,CO-MET,CO-MET,0.0,False,1.0
+oa_17610,oa_17611,buffalo aerodrome,duplicate buffalo aerodrome,closed,closed,CA-AB,CA-AB,0.0,False,1.0
+oa_41651,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41651,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41643,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41642,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41641,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41640,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41637,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41636,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41635,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41634,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41633,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41632,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41631,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41630,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41629,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41628,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41627,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41626,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41659,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41658,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41657,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41656,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41655,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41654,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41653,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41652,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41651,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41650,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41649,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41648,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41647,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41646,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41645,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41644,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41625,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41624,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41623,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41622,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41621,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41620,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41619,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41618,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41617,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41664,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41663,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41662,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41661,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41615,oa_41660,mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41625,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41624,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41623,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41622,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41621,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41620,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41619,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41618,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41616,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41617,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41625,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41624,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41623,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41622,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41621,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41620,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41619,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41623,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41622,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41621,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41620,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41618,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41625,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41624,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41625,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41624,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41623,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41622,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41621,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41619,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41625,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41624,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41623,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41622,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41620,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41625,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41624,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41623,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41621,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41625,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41624,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41622,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41625,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41623,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41626,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41624,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41627,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41625,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41628,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41626,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41629,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41627,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41630,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41628,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41631,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41629,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41632,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41630,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41633,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41631,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41634,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41632,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41635,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41633,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41636,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41634,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41637,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41635,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41640,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41636,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41641,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41637,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41642,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41640,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41643,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41641,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41644,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41642,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41645,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41643,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41644,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41646,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41647,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41645,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41648,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41646,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41649,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41647,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41650,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41648,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41659,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41658,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41657,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41656,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41655,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41654,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41653,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41652,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41650,oa_41651,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41649,oa_41660,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_42204,oa_42253,brown stone apartments heliport,duplicate brown stone apartments heliport,heliport,heliport,KR-11,KR-11,0.0,False,1.0
+oa_41663,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41662,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41662,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41661,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41661,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41661,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41660,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41660,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41660,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41660,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41659,oa_41664,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41659,oa_41663,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41659,oa_41662,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_41659,oa_41661,duplicate mukho port heliport,duplicate mukho port heliport,heliport,heliport,KR-42,KR-42,0.0,False,1.0
+oa_78759,oa_78760,custer army airfield,duplicate custer army airfield,small_airport,small_airport,US-KS,US-KS,0.0,False,1.0
+oa_77445,oa_77446,butter creek airport,duplicate butter creek airport,closed,closed,US-OR,US-OR,0.0,False,1.0
+oa_75051,oa_75052,midland airport,duplicate midland airport,small_airport,small_airport,US-CA,US-CA,0.0,False,1.0
+oa_68479,oa_72666,rafter r ranch airport,duplicate rafter r ranch airport,closed,closed,US-OK,US-OK,0.0,False,1.0
+oa_77461,oa_77462,osceola medical center heliport,duplicate osceola medical center heliport,heliport,heliport,US-WI,US-WI,0.0,False,1.0
+oa_85365,oa_85433,benics airport,duplicate benics airport,small_airport,small_airport,ZA-MP,ZA-MP,0.0,False,0.9999870487459492
+oa_67501,oa_71139,montana arng heliport,duplicate montana arng heliport,closed,closed,US-MT,US-MT,0.0,False,0.9999104710254967
+oa_21846,oa_8705,hopewell airpark,hopewell airpark,small_airport,small_airport,US-NY,US-NY,1.9,False,0.9993228901880773
+oa_16848,oa_17711,duplicate halifax south battery heliport,halifax south battery heliport,closed,closed,CA-NS,CA-NS,0.2,False,0.9992636954247338
+oa_41413,oa_41456,irwolbong helipad,duplicate irwolbong helipad,heliport,heliport,KR-41,KR-41,0.2,False,0.9991632600213238
+oa_41419,oa_41424,majang ro heliport,duplicate majang ro heliport,heliport,heliport,KR-28,KR-28,0.3,False,0.9987900723675094
+oa_31484,oa_31485,dyersville area airport,dyersville area airport,small_airport,small_airport,US-IA,US-IA,3.5,False,0.9987847845137825
+oa_69965,oa_79682,horace williams airport,horace williams airport,closed,closed,US-NC,US-NC,6.2,False,0.9978170207658522
+oa_41677,oa_41678,rok ministry smes startups,rok ministry smes starups,heliport,heliport,KR-30,KR-30,0.0,False,0.9976923076923078
+oa_41677,oa_41679,rok ministry smes startups,rok ministry smes starups,heliport,heliport,KR-30,KR-30,0.0,False,0.9976923076923078
+oa_17272,oa_17313,island marina water aerodrome,island marina water aerodrome,closed,closed,CA-ON,CA-ON,11.1,False,0.9961159612122674
+oa_41408,oa_55348,duplicate yeonpyeong myeon heliport,yeonpyeong myeon heliport,heliport,heliport,KR-28,KR-28,0.0,False,0.9955172413793103
+oa_30144,oa_30145,fowlers field airstrip,duplicate fowlers field airstrip,small_airport,small_airport,GB-ENG,GB-ENG,0.0,False,0.9952
+oa_41405,oa_41428,okchuk tong heliport,duplicate okchuk tong heliport,heliport,heliport,KR-28,KR-28,0.0,False,0.9947826086956522
+oa_6447,oa_77430,tootsies cabaret heliport,tootsies cabaret heliport,heliport,heliport,US-FL,US-FL,0.0,False,0.9938461538461538
+oa_77818,oa_77819,salmon bar airport,salmom bar airport,small_airport,small_airport,US-OR,US-OR,0.0,False,0.9933333333333334
+oa_16164,oa_58537,condominio spazio central heliport,condominio spazio central jk heliport,heliport,heliport,BR-SP,BR-SP,1.6,False,0.9896090214644124
+oa_35548,oa_36182,megacity towers west helipad,megacity towers west helipad,heliport,heliport,JP-27,JP-27,3.0,False,0.9895070245342193
+oa_46135,oa_46147,hanthawaddy international airport construction,hanthawaddy international airport construction,closed,closed,MM-02,MM-02,31.1,False,0.9891098812670809
+oa_25194,oa_25336,castejon sos airfield,castejon sos field,small_airport,small_airport,ES-AR,ES-AR,0.4,False,0.9879565941671231
+oa_20269,oa_20272,gilgal airport,gilgal airport,closed,closed,CO-CHO,CO-CHO,34.7,False,0.9878654661209979
+oa_71720,oa_72523,camp horn army airfield,camp horn army airfield,closed,closed,US-AZ,US-AZ,39.4,False,0.9862251371792693
+oa_70829,oa_70848,fhp hospital heliport,phc hospital heliport,closed,closed,US-UT,US-UT,0.0,False,0.9854761904761905
+oa_12975,oa_30328,iginniarfik heliport,duplicate iginniarfik heliport,heliport,heliport,GL-QK,GL-QK,6.7,False,0.9765975195530008
+oa_41706,oa_42039,hyundai camelia haute heliports,hyundai camelia haute apartments heliports,heliport,heliport,KR-26,KR-26,0.0,False,0.9765437788018434
+oa_81300,oa_81301,puerto guanta,puerto guanta heliport,heliport,heliport,VE-B,VE-B,0.0,False,0.9754545454545456
+oa_21907,oa_83789,dalhousie airport,duplicate dalhousie airport,small_airport,small_airport,AU-SA,AU-SA,0.0,False,0.975
+oa_10553,oa_10680,san cayetano heliport,san cayetano airport,small_airport,small_airport,AR-B,AR-B,2.2,False,0.9745251567530228
+oa_2560,oa_54373,duplicate fort lee heliport,fort lee heliport,heliport,heliport,US-PA,US-PA,0.1,False,0.9743443483860434
+oa_41596,oa_42498,yeouido airport,duplicateyeouido airport,closed,closed,KR-11,KR-11,4.7,False,0.9733580562991418
+oa_57845,oa_57938,las aguilas airport,las aguilas oriente airport,small_airport,small_airport,CL-LI,CL-LI,0.2,False,0.9726841374622549
+oa_67602,oa_71715,forrest field,forrest field,closed,closed,US-AZ,US-AZ,7.5,False,0.971189304336468
+oa_24492,oa_24493,k14 fa 1c heliport,k14 fa 1a heliport,heliport,heliport,NL-XX,NL-XX,0.0,False,0.9683333333333334
+oa_4767,oa_7451,geisinger heliport,geisinger rooftop heliport,heliport,heliport,US-PA,US-PA,0.0,False,0.9682051282051283
+oa_49043,oa_49158,helipuerto campo militar 37 b temamatla n3,helipuerto campo militar 37 b temamatla n3,heliport,heliport,MX-MEX,MX-MEX,2.5,False,0.9680411265397899
+oa_9574,oa_9600,waldorf astoria dubai palm jumeirah helipad,waldorf astoria dubai palm jumeirah helipad,heliport,heliport,AE-DU,AE-DU,2.4,False,0.9664307442460842
+oa_46533,oa_52640,wannukandi airport,wannukandi airport,small_airport,small_airport,PA-GY,PA-GY,34.6,False,0.9658138641302034
+oa_49042,oa_49157,helipuerto campo militar 37 b temamatla n2,helipuerto campo militar 37 b temamatla n2,heliport,heliport,MX-MEX,MX-MEX,4.0,False,0.9625848859213435
+oa_81353,oa_81354,urbanizacion puerto real hls,urb puerto real hls,heliport,heliport,VE-O,VE-O,0.0,False,0.9590789473684211
+oa_14489,oa_15892,dimensao industria heliport,dimensao industria,heliport,heliport,BR-MA,BR-MA,8.4,False,0.9505544077804071
+oa_12766,oa_12767,erquelinnes dz,duplicate erquelinnes dz,heliport,heliport,BE-WHT,BE-U-A,0.0,False,0.95
+oa_41674,oa_42457,andong general hospital,andong hospital heliport,heliport,heliport,KR-47,KR-47,3.3,False,0.946542957262891
+oa_65776,oa_65880,isdemir iskenderun iron steel heliport,isdemir iskenderun demir ve celik anonim sirketi helipad,heliport,heliport,TR-31,TR-31,5.3,False,0.943363528821198
+oa_65327,oa_83758,crystal brook airport,crystal brook airport,small_airport,small_airport,AU-QLD,AU-QLD,99.2,False,0.9402641716704813
+oa_53214,oa_53667,tugawe cover resort helipad,tugawe cove resort heliport,heliport,heliport,PH-CAS,PH-CAS,1.5,False,0.9390776164242275
+oa_51422,oa_51429,neudorf valley airstrip,sunrise valley airstrip,small_airport,small_airport,NZ-TAS,NZ-TAS,0.0,False,0.9365320910973086
+oa_10495,oa_10669,match point heliport,match point airport,heliport,closed,AR-B,AR-B,0.0,True,0.9311547987616101
+oa_50588,oa_6000,big island airport,rolling hills airport,small_airport,small_airport,US-NY,US-NY,0.0,False,0.9280952380952381
+oa_34305,oa_36518,yoshima helipad,yoshima heliport,heliport,heliport,JP-37,JP-37,8.4,False,0.9277140251299313
+oa_49041,oa_49156,helipuerto no1 campo militar 37 b,helipuerto campo militar 37 b temamatla n1,heliport,heliport,MX-MEX,MX-MEX,2.9,False,0.9258918324659948
+oa_54575,oa_9406,saint mary hospital heliport,saint mary medical center heliport,heliport,heliport,US-PA,US-PA,11.5,False,0.9211996333713237
+oa_34240,oa_34241,inaho misaki lighthouse helipad,cape inaho lighthouse helipad,heliport,heliport,JP-01,JP-01,0.0,False,0.9071479350275234
+oa_51158,oa_71122,valley hospital medical center heliport,valley medical center heliport,heliport,closed,US-NV,US-NV,2.8,True,0.9044040175550473
+oa_68382,oa_954,wyeth pharmaceuticals heliport,wyeth ayerst nr heliport,closed,heliport,US-PA,US-PA,0.0,True,0.9019356275744698
+oa_22863,oa_22868,ahlhorn air force base,ahlhorn airport,closed,closed,DE-NI,DE-NI,188.1,False,0.9016028195795556
+oa_5435,oa_79297,belforest field,belforest field,small_airport,small_airport,US-AL,US-AL,289.4,False,0.8986969439196408
+oa_71159,oa_73118,berkeley municipal heliport,berkeley marina heliport,closed,closed,US-CA,US-CA,15.0,False,0.8961999848082208
+oa_71198,oa_80126,autumn orchard airport,milburn airport,closed,closed,US-OH,US-OH,38.6,False,0.8960413529831823
+oa_49302,oa_49303,sky fiesta balloons field,sky balloons mexico balloon field,balloonport,balloonport,MX-MEX,MX-MEX,157.1,False,0.8959798396934375
+oa_41541,oa_41542,gajeon helipad,gajeon ri west helipad,heliport,heliport,KR-42,KR-42,0.0,False,0.8955627705627704
+oa_41457,oa_55235,munhak heliport c 107,c 107 munhak heliport,heliport,heliport,KR-28,KR-28,0.3,False,0.8954561167769546
+oa_68764,oa_70603,bittner whitsel airport,bittner whitsel airport,closed,closed,US-PA,US-PA,224.5,False,0.8944570051581242
+oa_12474,oa_53108,yanungen airstrip,yinugen airstrip,small_airport,closed,PG-SAN,PG-SAN,44.5,True,0.8918266178327888
+oa_28979,oa_30132,east kirkby airfield,duplicateeast kirkby airfield,small_airport,small_airport,GB-ENG,GB-ENG,229.5,False,0.891430027620352
+oa_46299,oa_85876,bulagtai resort airport,bulagtai resort airport,small_airport,closed,MN-U-A,MN-053,26.0,True,0.8908842438119738
+oa_41389,oa_55216,c272 heliport,c272 heliport,closed,heliport,KR-41,KR-41,9.9,True,0.8903161302157111
+oa_3704,oa_68016,boardman aerial airport,boardman airfield,small_airport,small_airport,US-NE,US-NE,228.4,False,0.8881364016031651
+oa_10282,oa_10499,azcarate irastorza heliport,azcarate irastorza airport,heliport,small_airport,AR-L,AR-L,0.0,False,0.8862179487179488
+oa_2012,oa_9390,childrens hospital philadelphia heliport,childrens hospital philadelphia heliport,heliport,heliport,US-PA,US-PA,32.5,False,0.8861863955721376
+oa_65666,oa_8258,air trade center heliport,edwards heliport,heliport,heliport,US-TN,US-TN,0.8,False,0.8842443810536427
+oa_38265,oa_51139,sky ranch airport,sky ranch heliport,small_airport,heliport,US-NV,US-NV,0.0,False,0.8789411764705883
+oa_59835,oa_59837,fazenda sao bento airstrip,fazenda isa agropecuaria wvs airport,small_airport,small_airport,BR-SP,BR-PA,0.0,False,0.8772858602749907
+oa_37210,oa_37212,river garden city sakura helipad,river garden city seseragi oka helipad,heliport,heliport,JP-27,JP-27,30.8,False,0.8714497322886726
+oa_73112,oa_73113,sky sailing airport,skyways airport,closed,closed,US-CA,US-CA,248.5,False,0.8708056549297186
+oa_47766,oa_48288,helipuerto centro corporativo bosques,helipuerto torre ii,heliport,heliport,MX-DIF,MX-DIF,5.0,False,0.8668831647513017
+oa_72717,oa_72718,santa rosa airpark,santa rosa coddingtown airport,closed,closed,US-CA,US-CA,277.9,False,0.8643029216835039
+oa_35087,oa_35416,tsukuba naval air base tomobe airfield,tsukuba naval airfield,closed,closed,JP-08,JP-08,308.1,False,0.8641816516827203
+oa_28241,oa_86028,kiplings rukari airstrip,maronga airport,small_airport,small_airport,ZW-MW,ZW-MW,9.6,False,0.8635406340152588
+oa_50991,oa_50995,jotun fpso,jotun b platform,closed,closed,NO-XX,NO-XX,0.0,False,0.8610833333333332
+oa_18691,oa_7780,ross international airport,ross international airport,small_airport,small_airport,CA-AB,US-MT,188.8,False,0.8594839508565828
+oa_42002,oa_55305,namji emergency airfield,namji,small_airport,small_airport,KR-48,KR-48,123.6,False,0.8592567033874219
+oa_46306,oa_49635,lake minnewashta seaplane base,andings landing seaplane base,seaplane_base,seaplane_base,US-MN,US-MN,39.6,False,0.8590225201184096
+oa_68096,oa_8230,summer lakes seaplane base,lake hiawassee seaplane base,seaplane_base,seaplane_base,US-FL,US-FL,189.1,False,0.8560857046700284
+oa_24177,oa_9556,rothera research station,aerodromo punto rothera,small_airport,small_airport,AQ-U-A,AQ-U-A,64.5,False,0.8546555115513598
+oa_35821,oa_36445,hyogo medical university sasayama health center helipad,hyogo college medicine sasayama medical center helipad,heliport,heliport,JP-28,JP-28,29.9,False,0.8545785370165467
+oa_9614,oa_9615,saud building helipad,majarrah building helipad,heliport,heliport,AE-SH,AE-SH,23.5,False,0.8532320952927441
+oa_11952,oa_11953,legate airfield,marshall airfield,small_airport,small_airport,AU-VIC,AU-VIC,114.5,False,0.8525204163361269
+oa_80950,oa_80951,acanana airport,acanana heliport,small_airport,heliport,VE-Z,VE-Z,0.0,False,0.8511346153846154
