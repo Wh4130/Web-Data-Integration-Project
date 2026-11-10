@@ -7,248 +7,248 @@ wd_4760,oa_32584,0.34944800569800566,hard positive,1,train_val,3
 wd_20578,oa_46667,0.38723488113193993,hard positive,1,train_val,2
 wd_15491,oa_44397,0.38800381263616557,hard positive,1,train_val,2
 wd_5586,oa_46283,0.40690476190476194,hard positive,1,test,
-wd_17076,oa_52791,0.4115227909345556,hard positive,1,train_val,3
-wd_5573,oa_26014,0.41622648793701433,hard positive,1,test,
-wd_6987,oa_31020,0.4214869281045751,hard positive,1,train_val,2
+wd_5573,oa_26014,0.41622648793701433,hard positive,1,train_val,3
 wd_16949,oa_24675,0.4227672788861724,hard positive,1,test,
-wd_1161,oa_25858,0.4330886243386244,hard positive,1,train_val,4
-wd_14850,oa_12451,0.4333333333333333,hard positive,1,train_val,0
-wd_2673,oa_24961,0.43650740563784046,hard positive,1,train_val,0
+wd_1161,oa_25858,0.4330886243386244,hard positive,1,train_val,2
+wd_14850,oa_12451,0.4333333333333333,hard positive,1,test,
 wd_23948,oa_55620,0.43659099298634174,hard positive,1,train_val,4
-wd_2027,oa_67241,0.43880471380471386,hard positive,1,test,
-wd_3826,oa_43739,0.44037999037999037,hard positive,1,train_val,3
-wd_1265,oa_46199,0.44249999999999995,hard positive,1,train_val,3
-wd_770,oa_30693,0.4427272727272727,hard positive,1,train_val,2
+wd_2027,oa_67241,0.43880471380471386,hard positive,1,train_val,0
+wd_3826,oa_43739,0.44037999037999037,hard positive,1,train_val,0
+wd_770,oa_30693,0.4427272727272727,hard positive,1,train_val,4
 wd_10709,oa_12159,0.4428571428571429,hard positive,1,test,
-wd_11529,oa_12214,0.4428571428571429,hard positive,1,test,
-wd_905,oa_16659,0.4432926225820963,hard positive,1,train_val,1
-wd_16023,oa_82429,0.4508689107827038,hard positive,1,test,
+wd_905,oa_16659,0.4432926225820963,hard positive,1,train_val,3
+wd_16023,oa_82429,0.4508689107827038,hard positive,1,train_val,3
 wd_12794,oa_12301,0.45294117647058824,hard positive,1,train_val,2
-wd_2652,oa_54611,0.4540959040959041,hard positive,1,train_val,3
-wd_1795,oa_28285,0.45634920634920634,hard positive,1,train_val,3
+wd_1795,oa_28285,0.45634920634920634,hard positive,1,test,
 wd_159,oa_52322,0.4564981898323239,hard positive,1,test,
-wd_1137,oa_82270,0.46352813852813857,hard positive,1,train_val,4
-wd_5309,oa_55615,0.4875357251444208,hard positive,1,test,
-wd_9356,oa_12086,0.4935779685880862,hard positive,1,train_val,3
-wd_15268,oa_82803,0.49362896427483977,hard positive,1,test,
-wd_6042,oa_82365,0.49675925925925923,hard positive,1,test,
-wd_2808,oa_45476,0.49684382997438475,hard positive,1,train_val,1
+wd_5309,oa_55615,0.4875357251444208,hard positive,1,train_val,1
+wd_9356,oa_12086,0.4935779685880862,hard positive,1,test,
+wd_15268,oa_82803,0.49362896427483977,hard positive,1,train_val,2
+wd_6042,oa_82365,0.49675925925925923,hard positive,1,train_val,3
+wd_2808,oa_45476,0.49684382997438475,hard positive,1,train_val,3
 wd_12628,oa_12280,0.49809523809523804,hard positive,1,test,
-wd_463,oa_82416,0.4994196999465804,hard positive,1,train_val,0
-wd_435,oa_26272,0.4997664835164835,hard positive,1,train_val,1
-wd_15373,oa_82390,0.5,hard positive,1,train_val,1
-wd_2633,oa_84245,0.5,hard positive,1,train_val,3
+wd_463,oa_82416,0.4994196999465804,hard positive,1,train_val,4
+wd_435,oa_26272,0.4997664835164835,hard positive,1,test,
+wd_15373,oa_82390,0.5,hard positive,1,train_val,3
+wd_2633,oa_84245,0.5,hard positive,1,test,
 wd_5849,oa_84441,0.5,hard positive,1,test,
-wd_24337,oa_26126,0.5,hard positive,1,train_val,3
-wd_23653,oa_26136,0.5,hard positive,1,train_val,4
-wd_3092,oa_26681,0.5,hard positive,1,train_val,1
-wd_5628,oa_85008,0.5,hard positive,1,train_val,0
+wd_24337,oa_26126,0.5,hard positive,1,train_val,1
+wd_23653,oa_26136,0.5,hard positive,1,test,
+wd_3092,oa_26681,0.5,hard positive,1,train_val,0
+wd_5628,oa_85008,0.5,hard positive,1,train_val,1
 wd_3239,oa_43572,0.5,hard positive,1,train_val,1
-wd_16368,oa_40138,0.5,hard positive,1,train_val,0
-wd_21145,oa_28153,0.5,hard positive,1,train_val,1
-wd_21163,oa_85973,0.5,hard positive,1,train_val,4
-wd_5808,oa_84813,0.5,hard positive,1,train_val,0
-wd_22578,oa_31416,0.5,hard positive,1,train_val,3
-wd_7577,oa_26050,0.501468253968254,hard positive,1,train_val,2
-wd_2082,oa_83961,0.5023549972749972,hard positive,1,train_val,1
-wd_12148,oa_12253,0.5023809523809524,hard positive,1,test,
-wd_3096,oa_51704,0.5039661319073083,hard positive,1,train_val,4
-wd_1785,oa_55593,0.5054832600079227,hard positive,1,train_val,0
-wd_24802,oa_80488,0.5068979266347687,hard positive,1,train_val,4
+wd_16368,oa_40138,0.5,hard positive,1,train_val,3
+wd_21145,oa_28153,0.5,hard positive,1,test,
+wd_21163,oa_85973,0.5,hard positive,1,train_val,3
+wd_5808,oa_84813,0.5,hard positive,1,train_val,4
+wd_7577,oa_26050,0.501468253968254,hard positive,1,train_val,1
+wd_2082,oa_83961,0.5023549972749972,hard positive,1,train_val,0
+wd_12148,oa_12253,0.5023809523809524,hard positive,1,train_val,1
+wd_3096,oa_51704,0.5039661319073083,hard positive,1,train_val,0
+wd_1785,oa_55593,0.5054832600079227,hard positive,1,train_val,1
 wd_5522,oa_12161,0.5071428571428572,hard positive,1,train_val,4
-wd_15600,oa_85818,0.5077568922305764,hard positive,1,test,
 wd_21386,oa_23977,0.5078202457427485,hard positive,1,train_val,0
-wd_24460,oa_44471,0.5114650735061045,hard positive,1,test,
-wd_13392,oa_80824,0.5122252747252748,hard positive,1,train_val,4
-wd_1173,oa_45274,0.512571347022254,hard positive,1,test,
+wd_24460,oa_44471,0.5114650735061045,hard positive,1,train_val,3
+wd_13392,oa_80824,0.5122252747252748,hard positive,1,train_val,2
+wd_1173,oa_45274,0.512571347022254,hard positive,1,train_val,1
 wd_11737,oa_9915,0.5138888888888888,hard positive,1,test,
-wd_22980,oa_55586,0.515607045419009,hard positive,1,train_val,2
-wd_1767,oa_30704,0.5164153439153438,hard positive,1,train_val,3
-wd_12836,oa_12306,0.5167948717948718,hard positive,1,train_val,1
-wd_6718,oa_81856,0.5189222489613422,hard positive,1,test,
-wd_512,oa_86089,0.5193594771241831,hard positive,1,train_val,0
-wd_5233,oa_30684,0.5194196224099012,hard positive,1,test,
-wd_1496,oa_28211,0.5264880952380953,hard positive,1,train_val,3
-wd_24560,oa_44494,0.527791823701754,hard positive,1,train_val,2
-wd_713,oa_82796,0.528203781512605,hard positive,1,test,
-wd_20384,oa_30641,0.5283088235294118,hard positive,1,test,
-wd_823,oa_43639,0.5283102180008564,hard positive,1,train_val,2
-wd_20825,oa_62311,0.5317067247162595,hard positive,1,train_val,1
-wd_15217,oa_12125,0.5318727851456041,hard positive,1,train_val,3
-wd_21437,oa_81681,0.5321428571428571,hard positive,1,train_val,3
-wd_5979,oa_44171,0.5322086055996873,hard positive,1,test,
-wd_21058,oa_81674,0.5326890508854422,hard positive,1,test,
-wd_6344,oa_45938,0.5366071428571428,hard positive,1,train_val,1
-wd_490,oa_31635,0.5378186274509804,hard positive,1,train_val,2
-wd_5167,oa_82439,0.5383450577200577,hard positive,1,train_val,2
-wd_1102,oa_9887,0.5383820346320346,hard positive,1,train_val,4
+wd_22980,oa_55586,0.515607045419009,hard positive,1,train_val,4
+wd_1767,oa_30704,0.5164153439153438,hard positive,1,train_val,0
+wd_12836,oa_12306,0.5167948717948718,hard positive,1,train_val,4
+wd_6718,oa_81856,0.5189222489613422,hard positive,1,train_val,4
+wd_512,oa_86089,0.5193594771241831,hard positive,1,test,
+wd_5233,oa_30684,0.5194196224099012,hard positive,1,train_val,0
+wd_24560,oa_44494,0.527791823701754,hard positive,1,test,
+wd_713,oa_82796,0.528203781512605,hard positive,1,train_val,4
+wd_823,oa_43639,0.5283102180008564,hard positive,1,test,
+wd_20825,oa_62311,0.5317067247162595,hard positive,1,test,
+wd_15217,oa_12125,0.5318727851456041,hard positive,1,train_val,2
+wd_5979,oa_44171,0.5322086055996873,hard positive,1,train_val,3
+wd_21058,oa_81674,0.5326890508854422,hard positive,1,train_val,1
+wd_6344,oa_45938,0.5366071428571428,hard positive,1,test,
+wd_490,oa_31635,0.5378186274509804,hard positive,1,train_val,0
+wd_5167,oa_82439,0.5383450577200577,hard positive,1,test,
+wd_1102,oa_9887,0.5383820346320346,hard positive,1,train_val,3
 wd_941,oa_81717,0.5387301587301587,hard positive,1,train_val,2
-wd_6662,oa_28474,0.5404462862988404,hard positive,1,train_val,1
-wd_832,oa_45946,0.5415437632542895,hard positive,1,train_val,2
-wd_3734,oa_26122,0.5430555555555555,hard positive,1,test,
+wd_6662,oa_28474,0.5404462862988404,hard positive,1,test,
+wd_832,oa_45946,0.5415437632542895,hard positive,1,test,
+wd_3734,oa_26122,0.5430555555555555,hard positive,1,train_val,2
 wd_9227,oa_52565,0.543281930880454,hard positive,1,train_val,1
-wd_743,oa_62281,0.5438295865927445,hard positive,1,train_val,1
 wd_21573,oa_28532,0.5441176470588236,hard positive,1,train_val,3
-wd_22234,oa_30587,0.5455357142857142,hard positive,1,train_val,4
-wd_4810,oa_30759,0.5469893029675638,hard positive,1,train_val,2
-wd_4021,oa_16657,0.5474074074074073,hard positive,1,test,
-wd_22098,oa_86141,0.5476190476190477,hard positive,1,train_val,0
-wd_884,oa_31278,0.5479166666666666,hard positive,1,train_val,3
-wd_1829,oa_51816,0.5479861111111111,hard positive,1,train_val,0
-wd_5518,oa_28461,0.548125,hard positive,1,test,
+wd_22234,oa_30587,0.5455357142857142,hard positive,1,train_val,3
+wd_4810,oa_30759,0.5469893029675638,hard positive,1,test,
+wd_22098,oa_86141,0.5476190476190477,hard positive,1,test,
+wd_884,oa_31278,0.5479166666666666,hard positive,1,train_val,1
+wd_1829,oa_51816,0.5479861111111111,hard positive,1,train_val,2
+wd_5518,oa_28461,0.548125,hard positive,1,train_val,2
 wd_7147,oa_23007,0.5483766233766234,hard positive,1,train_val,4
-wd_1550,oa_62238,0.5503968253968254,hard positive,1,test,
-wd_16962,oa_82449,0.5503968253968254,hard positive,1,train_val,0
-wd_1782,oa_30674,0.5508653846153846,hard positive,1,test,
-wd_588,oa_52047,0.5512052417866371,hard positive,1,train_val,4
-wd_1868,oa_26053,0.5514433811802233,hard positive,1,train_val,3
-wd_2443,oa_85986,0.5516472022181124,hard positive,1,train_val,4
-wd_4568,oa_28298,0.5517857142857143,hard positive,1,test,
-wd_841,oa_28652,0.5521428571428572,hard positive,1,train_val,4
-wd_759,oa_52660,0.5521494502801149,hard positive,1,test,
+wd_1550,oa_62238,0.5503968253968254,hard positive,1,train_val,2
+wd_16962,oa_82449,0.5503968253968254,hard positive,1,train_val,1
+wd_1782,oa_30674,0.5508653846153846,hard positive,1,train_val,2
+wd_588,oa_52047,0.5512052417866371,hard positive,1,test,
+wd_1868,oa_26053,0.5514433811802233,hard positive,1,train_val,1
+wd_2443,oa_85986,0.5516472022181124,hard positive,1,train_val,1
+wd_841,oa_28652,0.5521428571428572,hard positive,1,train_val,3
+wd_759,oa_52660,0.5521494502801149,hard positive,1,train_val,4
 wd_24642,oa_82132,0.5528044871794872,hard positive,1,train_val,2
-wd_6658,oa_30336,0.5535602292091253,hard positive,1,train_val,0
-wd_7002,oa_44729,0.55367846912223,hard positive,1,train_val,4
-wd_17195,oa_67159,0.5543650793650794,hard positive,1,train_val,4
-wd_5863,oa_83654,0.5546712618407468,hard positive,1,train_val,4
+wd_6658,oa_30336,0.5535602292091253,hard positive,1,test,
+wd_7002,oa_44729,0.55367846912223,hard positive,1,train_val,0
+wd_17195,oa_67159,0.5543650793650794,hard positive,1,train_val,3
+wd_5863,oa_83654,0.5546712618407468,hard positive,1,train_val,0
 wd_814,oa_65197,0.5553571428571429,hard positive,1,test,
-wd_813,oa_65196,0.5553571428571429,hard positive,1,test,
+wd_813,oa_65196,0.5553571428571429,hard positive,1,train_val,4
 wd_5496,oa_28473,0.5565625,hard positive,1,test,
 wd_21812,oa_80486,0.5569141294207522,hard positive,1,train_val,0
 wd_8006,oa_31210,0.5575,hard positive,1,test,
-wd_2372,oa_30357,0.5583029357539273,hard positive,1,train_val,3
-wd_9253,oa_31225,0.5590909090909091,hard positive,1,train_val,1
-wd_23998,oa_81835,0.5592857142857143,hard positive,1,test,
-wd_1898,oa_24642,0.5594962583955505,hard positive,1,train_val,1
-wd_837,oa_28295,0.5595833333333333,hard positive,1,test,
-wd_1541,oa_28560,0.5598214285714286,hard positive,1,train_val,4
-wd_5500,oa_28626,0.5598958333333334,hard positive,1,train_val,1
-wd_4829,oa_28475,0.5600320512820512,hard positive,1,test,
-wd_32,oa_25919,0.5603253255188284,hard positive,1,train_val,2
-wd_5901,oa_28480,0.5615625,hard positive,1,test,
-wd_911,oa_28312,0.5620833333333334,hard positive,1,test,
-wd_4989,oa_82465,0.5621428571428572,hard positive,1,train_val,0
+wd_2372,oa_30357,0.5583029357539273,hard positive,1,train_val,4
+wd_9253,oa_31225,0.5590909090909091,hard positive,1,train_val,3
+wd_23998,oa_81835,0.5592857142857143,hard positive,1,train_val,4
+wd_1898,oa_24642,0.5594962583955505,hard positive,1,test,
+wd_837,oa_28295,0.5595833333333333,hard positive,1,train_val,4
+wd_1541,oa_28560,0.5598214285714286,hard positive,1,test,
+wd_5500,oa_28626,0.5598958333333334,hard positive,1,train_val,2
+wd_4829,oa_28475,0.5600320512820512,hard positive,1,train_val,0
+wd_32,oa_25919,0.5603253255188284,hard positive,1,train_val,4
+wd_5901,oa_28480,0.5615625,hard positive,1,train_val,4
+wd_911,oa_28312,0.5620833333333334,hard positive,1,train_val,4
+wd_4989,oa_82465,0.5621428571428572,hard positive,1,test,
 wd_4625,oa_30289,0.5621794871794872,hard positive,1,test,
-wd_20911,oa_23003,0.5621794871794872,hard positive,1,train_val,0
+wd_20911,oa_23003,0.5621794871794872,hard positive,1,test,
 wd_4399,oa_28554,0.5627777777777778,hard positive,1,train_val,0
-wd_1523,oa_28552,0.5630208333333333,hard positive,1,train_val,3
-wd_7852,oa_30277,0.5630701754385965,hard positive,1,train_val,2
+wd_1523,oa_28552,0.5630208333333333,hard positive,1,test,
+wd_7852,oa_30277,0.5630701754385965,hard positive,1,train_val,3
 wd_867,oa_26724,0.5633333333333334,hard positive,1,train_val,1
 wd_1636,oa_30672,0.5633928571428571,hard positive,1,test,
-wd_6816,oa_51717,0.5634920634920635,hard positive,1,test,
-wd_1693,oa_28489,0.56375,hard positive,1,train_val,4
+wd_1693,oa_28489,0.56375,hard positive,1,train_val,1
 wd_897,oa_25636,0.5638888888888889,hard positive,1,test,
-wd_6089,oa_81816,0.5641025641025641,hard positive,1,test,
-wd_1250,oa_28620,0.5645833333333333,hard positive,1,train_val,4
+wd_6089,oa_81816,0.5641025641025641,hard positive,1,train_val,4
+wd_1250,oa_28620,0.5645833333333333,hard positive,1,train_val,1
 wd_3343,oa_85899,0.5645833333333333,hard positive,1,test,
-wd_23910,oa_62779,0.5652777777777778,hard positive,1,test,
-wd_6106,oa_21884,0.5653325536744084,hard positive,1,train_val,2
-wd_1538,oa_26535,0.5654761904761905,hard positive,1,train_val,1
-wd_23865,oa_12375,0.565625,hard positive,1,train_val,3
-wd_6823,oa_51735,0.5662280701754385,hard positive,1,train_val,2
-wd_5224,oa_30747,0.56625,hard positive,1,test,
+wd_23910,oa_62779,0.5652777777777778,hard positive,1,train_val,2
+wd_6106,oa_21884,0.5653325536744084,hard positive,1,test,
+wd_1538,oa_26535,0.5654761904761905,hard positive,1,test,
+wd_23865,oa_12375,0.565625,hard positive,1,train_val,0
+wd_6823,oa_51735,0.5662280701754385,hard positive,1,test,
+wd_5224,oa_30747,0.56625,hard positive,1,train_val,0
 wd_7071,oa_82423,0.5663461538461538,hard positive,1,train_val,0
-wd_6659,oa_30669,0.5666666666666667,hard positive,1,train_val,0
-wd_4759,oa_32353,0.5669569939316601,hard positive,1,train_val,0
-wd_903,oa_28409,0.5671428571428572,hard positive,1,test,
+wd_6659,oa_30669,0.5666666666666667,hard positive,1,train_val,3
+wd_4759,oa_32353,0.5669569939316601,hard positive,1,train_val,2
+wd_903,oa_28409,0.5671428571428572,hard positive,1,train_val,1
 wd_21441,oa_82474,0.5671428571428572,hard positive,1,test,
-wd_24549,oa_82603,0.5672222222222222,hard positive,1,train_val,4
-wd_20468,oa_26131,0.5672619047619047,hard positive,1,train_val,0
+wd_24549,oa_82603,0.5672222222222222,hard positive,1,test,
+wd_20468,oa_26131,0.5672619047619047,hard positive,1,train_val,4
 wd_5117,oa_16654,0.5676738014964263,hard positive,1,test,
-wd_17507,oa_28541,0.5680208333333333,hard positive,1,train_val,3
-wd_5384,oa_28619,0.5680208333333333,hard positive,1,train_val,3
+wd_17507,oa_28541,0.5680208333333333,hard positive,1,test,
+wd_5384,oa_28619,0.5680208333333333,hard positive,1,train_val,4
 wd_9275,oa_63303,0.5682539682539682,hard positive,1,test,
 wd_5422,oa_26515,0.5683333333333334,hard positive,1,test,
-wd_4252,oa_62223,0.5683982683982683,hard positive,1,test,
-wd_3344,oa_85890,0.56859477124183,hard positive,1,train_val,0
-wd_5572,oa_28650,0.56875,hard positive,1,train_val,1
+wd_4252,oa_62223,0.5683982683982683,hard positive,1,train_val,2
+wd_3344,oa_85890,0.56859477124183,hard positive,1,train_val,1
+wd_5572,oa_28650,0.56875,hard positive,1,train_val,3
 wd_7348,oa_86096,0.56875,hard positive,1,train_val,2
 wd_21536,oa_31006,0.569047619047619,hard positive,1,test,
 wd_20816,oa_26159,0.569047619047619,hard positive,1,train_val,0
-wd_3112,oa_28460,0.5690625,hard positive,1,train_val,4
-wd_17237,oa_28556,0.5694444444444444,hard positive,1,train_val,3
-wd_7380,oa_26290,0.5695833333333333,hard positive,1,train_val,4
-wd_702,oa_52335,0.5696428571428571,hard positive,1,train_val,2
-wd_3333,oa_12064,0.5696428571428571,hard positive,1,test,
-wd_17528,oa_26156,0.5698412698412698,hard positive,1,test,
+wd_3112,oa_28460,0.5690625,hard positive,1,train_val,0
+wd_17237,oa_28556,0.5694444444444444,hard positive,1,train_val,0
+wd_7380,oa_26290,0.5695833333333333,hard positive,1,test,
+wd_702,oa_52335,0.5696428571428571,hard positive,1,test,
+wd_3333,oa_12064,0.5696428571428571,hard positive,1,train_val,4
+wd_17528,oa_26156,0.5698412698412698,hard positive,1,train_val,0
 wd_3373,oa_67283,0.5703619909502262,hard positive,1,test,
-wd_1341,oa_26514,0.5708333333333333,hard positive,1,train_val,1
-wd_5421,oa_26518,0.5708333333333333,hard positive,1,train_val,2
-wd_1339,oa_26520,0.5708333333333333,hard positive,1,train_val,0
-wd_1714,oa_28597,0.57125,hard positive,1,train_val,1
-wd_1529,oa_28675,0.57125,hard positive,1,train_val,4
-wd_22065,oa_28659,0.5714285714285714,hard positive,1,train_val,2
-wd_6569,oa_30338,0.571590909090909,hard positive,1,train_val,2
-wd_6883,oa_30646,0.571590909090909,hard positive,1,train_val,1
-wd_22333,oa_22991,0.5717532467532468,hard positive,1,train_val,2
-wd_20914,oa_26073,0.5719298245614035,hard positive,1,test,
+wd_1341,oa_26514,0.5708333333333333,hard positive,1,train_val,3
+wd_5421,oa_26518,0.5708333333333333,hard positive,1,train_val,3
+wd_1339,oa_26520,0.5708333333333333,hard positive,1,test,
+wd_1714,oa_28597,0.57125,hard positive,1,test,
+wd_1529,oa_28675,0.57125,hard positive,1,test,
+wd_22065,oa_28659,0.5714285714285714,hard positive,1,train_val,0
+wd_6569,oa_30338,0.571590909090909,hard positive,1,train_val,1
+wd_6883,oa_30646,0.571590909090909,hard positive,1,train_val,2
+wd_22333,oa_22991,0.5717532467532468,hard positive,1,test,
+wd_20914,oa_26073,0.5719298245614035,hard positive,1,train_val,0
 wd_5284,oa_82130,0.571969696969697,hard positive,1,train_val,4
-wd_17134,oa_30592,0.5719780219780219,hard positive,1,train_val,2
-wd_6317,oa_82795,0.5720234113712375,hard positive,1,test,
-wd_4880,oa_57462,0.5723550227345826,hard positive,1,test,
-wd_4979,oa_44512,0.5724959278614821,hard positive,1,test,
-wd_5327,oa_85664,0.5726634407127743,hard positive,1,train_val,3
-wd_3334,oa_54928,0.5728571428571428,hard positive,1,train_val,1
-wd_7523,oa_64822,0.5735119047619047,hard positive,1,train_val,2
+wd_17134,oa_30592,0.5719780219780219,hard positive,1,train_val,3
+wd_4880,oa_57462,0.5723550227345826,hard positive,1,train_val,4
+wd_4979,oa_44512,0.5724959278614821,hard positive,1,train_val,2
+wd_5327,oa_85664,0.5726634407127743,hard positive,1,test,
+wd_3334,oa_54928,0.5728571428571428,hard positive,1,test,
+wd_7523,oa_64822,0.5735119047619047,hard positive,1,test,
 wd_1239,oa_28463,0.5735267857142857,hard positive,1,train_val,1
-wd_3979,oa_28526,0.5736111111111111,hard positive,1,train_val,0
-wd_984,oa_26776,0.5742857142857143,hard positive,1,test,
-wd_2242,oa_41285,0.574375,hard positive,1,test,
-wd_8079,oa_52052,0.574601490948596,hard positive,1,train_val,1
+wd_3979,oa_28526,0.5736111111111111,hard positive,1,train_val,2
+wd_984,oa_26776,0.5742857142857143,hard positive,1,train_val,0
+wd_2242,oa_41285,0.574375,hard positive,1,train_val,1
+wd_8079,oa_52052,0.574601490948596,hard positive,1,train_val,4
 wd_21479,oa_26161,0.5747619047619048,hard positive,1,train_val,2
 wd_17021,oa_82448,0.575,hard positive,1,train_val,2
-wd_21407,oa_30279,0.575,hard positive,1,train_val,3
+wd_21407,oa_30279,0.575,hard positive,1,train_val,1
 wd_872,oa_65208,0.5752380952380952,hard positive,1,train_val,2
 wd_17469,oa_28477,0.5754901960784313,hard positive,1,test,
 wd_15817,oa_31398,0.5757142857142857,hard positive,1,train_val,4
-wd_21152,oa_30413,0.5758333333333333,hard positive,1,train_val,0
 wd_22557,oa_22931,0.5758333333333333,hard positive,1,train_val,2
-wd_22790,oa_28605,0.57625,hard positive,1,train_val,2
-wd_927,oa_62273,0.5766666666666667,hard positive,1,train_val,4
+wd_927,oa_62273,0.5766666666666667,hard positive,1,test,
 wd_17522,oa_28542,0.5767857142857142,hard positive,1,test,
 wd_959,oa_54364,0.576875,hard positive,1,test,
-wd_21561,oa_28653,0.576875,hard positive,1,train_val,1
-wd_3880,oa_28490,0.5770833333333333,hard positive,1,train_val,0
-wd_5355,oa_28533,0.5771240899600788,hard positive,1,train_val,3
-wd_21203,oa_82280,0.5772594911977429,hard positive,1,train_val,3
-wd_24449,oa_82463,0.5772841759698419,hard positive,1,train_val,4
-wd_1715,oa_28598,0.5774169537288734,hard positive,1,train_val,0
-wd_15739,oa_30396,0.5775,hard positive,1,train_val,0
-wd_22560,oa_58811,0.5783210309042347,hard positive,1,train_val,0
-wd_2774,oa_26534,0.5783333333333334,hard positive,1,train_val,4
+wd_21561,oa_28653,0.576875,hard positive,1,train_val,3
+wd_3880,oa_28490,0.5770833333333333,hard positive,1,train_val,1
+wd_5355,oa_28533,0.5771240899600788,hard positive,1,train_val,2
+wd_21203,oa_82280,0.5772594911977429,hard positive,1,train_val,1
+wd_24449,oa_82463,0.5772841759698419,hard positive,1,train_val,0
+wd_1715,oa_28598,0.5774169537288734,hard positive,1,test,
+wd_15739,oa_30396,0.5775,hard positive,1,test,
+wd_22560,oa_58811,0.5783210309042347,hard positive,1,train_val,1
+wd_2774,oa_26534,0.5783333333333334,hard positive,1,train_val,2
 wd_21522,oa_26132,0.57875,hard positive,1,train_val,2
 wd_1794,oa_64619,0.5788888888888889,hard positive,1,train_val,3
-wd_21276,oa_26629,0.5788957893614425,hard positive,1,train_val,3
-wd_17480,oa_19862,0.579084249084249,hard positive,1,train_val,0
-wd_6157,oa_30660,0.5791666666666666,hard positive,1,train_val,1
-wd_22266,oa_16556,0.5791666666666666,hard positive,1,test,
+wd_21276,oa_26629,0.5788957893614425,hard positive,1,train_val,2
+wd_17480,oa_19862,0.579084249084249,hard positive,1,test,
+wd_6157,oa_30660,0.5791666666666666,hard positive,1,train_val,4
+wd_22266,oa_16556,0.5791666666666666,hard positive,1,train_val,0
 wd_5420,oa_26519,0.5791666666666666,hard positive,1,train_val,2
-wd_15310,oa_64886,0.5791666666666666,hard positive,1,train_val,1
-wd_5890,oa_28511,0.5794791666666667,hard positive,1,train_val,3
-wd_21798,oa_55587,0.5798728412887713,hard positive,1,train_val,2
-wd_2539,oa_85969,0.58,hard positive,1,train_val,1
-wd_6145,oa_59406,0.5801388888888889,hard positive,1,test,
-wd_3695,oa_26102,0.5802083333333333,hard positive,1,train_val,3
-wd_24,oa_85796,0.5803065561889091,hard positive,1,train_val,3
-wd_20846,oa_28593,0.5804241830808652,hard positive,1,test,
-wd_8046,oa_28665,0.5808035714285714,hard positive,1,test,
-wd_3099,oa_51721,0.5808823529411764,hard positive,1,train_val,3
+wd_15310,oa_64886,0.5791666666666666,hard positive,1,train_val,2
+wd_5890,oa_28511,0.5794791666666667,hard positive,1,train_val,4
+wd_21798,oa_55587,0.5798728412887713,hard positive,1,test,
+wd_2539,oa_85969,0.58,hard positive,1,test,
+wd_6145,oa_59406,0.5801388888888889,hard positive,1,train_val,1
+wd_3695,oa_26102,0.5802083333333333,hard positive,1,train_val,0
+wd_20846,oa_28593,0.5804241830808652,hard positive,1,train_val,3
+wd_8046,oa_28665,0.5808035714285714,hard positive,1,train_val,3
+wd_3099,oa_51721,0.5808823529411764,hard positive,1,train_val,4
 wd_4255,oa_62261,0.580922619047619,hard positive,1,train_val,0
-wd_6065,oa_30337,0.5809523809523809,hard positive,1,test,
-wd_23994,oa_30397,0.5809523809523809,hard positive,1,train_val,3
+wd_6065,oa_30337,0.5809523809523809,hard positive,1,train_val,0
+wd_23994,oa_30397,0.5809523809523809,hard positive,1,train_val,0
 wd_5602,oa_64648,0.5809523809523809,hard positive,1,train_val,4
-wd_1605,oa_82114,0.5816666666666667,hard positive,1,train_val,0
-wd_7123,oa_12393,0.582078437737048,hard positive,1,test,
-wd_1085,oa_19916,0.5820833333333333,hard positive,1,train_val,4
+wd_1605,oa_82114,0.5816666666666667,hard positive,1,train_val,2
+wd_7123,oa_12393,0.582078437737048,hard positive,1,train_val,3
+wd_1085,oa_19916,0.5820833333333333,hard positive,1,train_val,3
 wd_22318,oa_64916,0.5820833333333333,hard positive,1,train_val,0
-wd_2086,oa_84840,0.5821390374331551,hard positive,1,train_val,4
-wd_16296,oa_28155,0.5822748635695317,hard positive,1,train_val,4
-wd_24366,oa_31232,0.5825,hard positive,1,train_val,3
-wd_17506,oa_28472,0.5825980392156862,hard positive,1,test,
-wd_22028,oa_65023,0.5828333333333333,hard positive,1,train_val,1
-wd_6744,oa_80910,0.5829349223291883,hard positive,1,train_val,1
-wd_1626,oa_28613,0.583221872773018,hard positive,1,test,
-wd_816,oa_26531,0.5833333333333333,hard positive,1,train_val,1
+wd_2086,oa_84840,0.5821390374331551,hard positive,1,train_val,1
+wd_16296,oa_28155,0.5822748635695317,hard positive,1,test,
+wd_24366,oa_31232,0.5825,hard positive,1,train_val,2
+wd_17506,oa_28472,0.5825980392156862,hard positive,1,train_val,1
+wd_22028,oa_65023,0.5828333333333333,hard positive,1,train_val,3
+wd_6744,oa_80910,0.5829349223291883,hard positive,1,train_val,2
+wd_1626,oa_28613,0.583221872773018,hard positive,1,train_val,1
+wd_816,oa_26531,0.5833333333333333,hard positive,1,test,
+wd_1627,oa_28671,0.58375,hard positive,1,train_val,3
+wd_7584,oa_28568,0.58375,hard positive,1,train_val,3
+wd_7009,oa_82414,0.5842857142857143,hard positive,1,test,
+wd_707,oa_62151,0.5842857142857143,hard positive,1,test,
+wd_8454,oa_66845,0.5845044381421803,hard positive,1,train_val,3
+wd_3115,oa_18411,0.585,hard positive,1,train_val,0
+wd_4823,oa_82131,0.5857691921702496,hard positive,1,test,
+wd_23672,oa_52415,0.5857875457875458,hard positive,1,train_val,3
+wd_3300,oa_82635,0.5861888111888112,hard positive,1,train_val,4
+wd_630,oa_45221,0.5866666666666667,hard positive,1,train_val,0
+wd_1159,oa_12144,0.5867559523809524,hard positive,1,test,
+wd_2099,oa_60236,0.5871496460201808,hard positive,1,train_val,4
+wd_21236,oa_43609,0.5871719004098801,hard positive,1,train_val,0
+wd_24060,oa_51202,0.5874098981966676,hard positive,1,train_val,4
+wd_24753,oa_63222,0.5875,hard positive,1,train_val,4
+wd_21028,oa_57369,0.5880413501498072,hard positive,1,train_val,3
+wd_7588,oa_85949,0.5883333333333334,hard positive,1,test,
+wd_7663,oa_85756,0.5885305808953761,hard positive,1,train_val,1
+wd_21385,oa_60551,0.5887915819902807,hard positive,1,train_val,1
+wd_871,oa_28280,0.5891077849348421,hard positive,1,test,
+wd_23895,oa_84870,0.5891625088924286,hard positive,1,train_val,1
 wd_6170,oa_28786,0.997777609158099,normal positive,1,train_val,1
 wd_914,oa_45860,0.7297169121638032,normal positive,1,train_val,1
 wd_4531,oa_81507,0.8518296457873078,normal positive,1,train_val,3
@@ -499,74 +499,74 @@ wd_5815,oa_84774,0.9003063001245136,normal positive,1,test,
 wd_16032,oa_21810,0.918649162736657,normal positive,1,train_val,3
 wd_15361,oa_38973,0.7579767261587704,normal positive,1,train_val,1
 wd_1118,oa_44312,0.8993895995255696,normal positive,1,train_val,2
-wd_225,oa_82599,0.9671730383172865,code changed positive,1,train_val,2
-wd_369,oa_84137,0.9147922894897272,code changed positive,1,train_val,2
+wd_24629,oa_31918,0.7873446365258209,code changed positive,1,train_val,2
+wd_1554,oa_82628,0.982021726752046,code changed positive,1,train_val,2
 wd_457,oa_30824,0.999685845756532,code changed positive,1,train_val,3
-wd_1135,oa_82356,0.9352359748182729,code changed positive,1,train_val,3
-wd_1142,oa_82817,0.8430994541367668,code changed positive,1,test,
-wd_1554,oa_82628,0.982021726752046,code changed positive,1,train_val,1
-wd_1864,oa_82370,0.9207778365639945,code changed positive,1,test,
-wd_1948,oa_82825,0.8515225406194953,code changed positive,1,train_val,4
-wd_1995,oa_82339,0.9454925711549957,code changed positive,1,test,
-wd_2097,oa_57606,0.8543767318110103,code changed positive,1,train_val,1
-wd_2535,oa_80501,0.9599745545246918,code changed positive,1,train_val,2
-wd_3069,oa_80504,0.981465490966841,code changed positive,1,train_val,0
-wd_3153,oa_30707,0.7679467165876291,code changed positive,1,train_val,4
-wd_3204,oa_84324,0.9688486191840303,code changed positive,1,test,
-wd_3242,oa_82654,0.9945759517841992,code changed positive,1,train_val,1
-wd_3305,oa_80905,0.9251738963429088,code changed positive,1,train_val,4
-wd_3309,oa_80917,0.9971098305764129,code changed positive,1,train_val,4
-wd_3661,oa_84281,0.774584354543082,code changed positive,1,train_val,2
-wd_3742,oa_26070,0.6097044270785854,code changed positive,1,test,
-wd_4182,oa_51579,0.8937355180406219,code changed positive,1,train_val,0
-wd_4701,oa_84834,0.8166174416033957,code changed positive,1,test,
-wd_4997,oa_82500,0.9154822867754615,code changed positive,1,test,
-wd_5443,oa_57509,0.9290167327872376,code changed positive,1,test,
-wd_5780,oa_34205,0.8215431546494385,code changed positive,1,train_val,0
-wd_6315,oa_82292,0.9539108642537961,code changed positive,1,train_val,0
-wd_6436,oa_82290,0.8679890395871324,code changed positive,1,test,
-wd_6487,oa_28785,0.8443052701039013,code changed positive,1,train_val,4
-wd_6641,oa_82621,0.8585619189167915,code changed positive,1,train_val,1
-wd_6787,oa_82285,0.7529628217350759,code changed positive,1,train_val,1
-wd_7343,oa_30605,0.9565745116897485,code changed positive,1,train_val,2
-wd_7451,oa_82820,0.8537094270167057,code changed positive,1,train_val,0
-wd_7673,oa_52539,0.8282979406456694,code changed positive,1,train_val,1
-wd_7995,oa_81494,0.9038900345014593,code changed positive,1,test,
+wd_3305,oa_80905,0.9251738963429088,code changed positive,1,train_val,3
 wd_15301,oa_82396,0.9693662183152412,code changed positive,1,test,
-wd_15308,oa_57602,0.716570012033616,code changed positive,1,train_val,3
-wd_15989,oa_82363,0.799126314253086,code changed positive,1,test,
-wd_17028,oa_82297,0.8320755418853113,code changed positive,1,test,
-wd_17029,oa_82412,0.8399630044756365,code changed positive,1,train_val,1
-wd_17033,oa_82369,0.8850248640316365,code changed positive,1,train_val,3
-wd_17301,oa_82637,0.9256499931524262,code changed positive,1,train_val,2
+wd_4997,oa_82500,0.9154822867754615,code changed positive,1,train_val,1
+wd_3069,oa_80504,0.981465490966841,code changed positive,1,test,
+wd_21803,oa_9896,0.8986072133937012,code changed positive,1,train_val,4
+wd_21168,oa_81496,0.9267772303028192,code changed positive,1,test,
+wd_3309,oa_80917,0.9971098305764129,code changed positive,1,train_val,1
+wd_22018,oa_84928,0.9185100192170015,code changed positive,1,train_val,2
+wd_5443,oa_57509,0.9290167327872376,code changed positive,1,train_val,0
+wd_3242,oa_82654,0.9945759517841992,code changed positive,1,train_val,4
+wd_6641,oa_82621,0.8585619189167915,code changed positive,1,test,
 wd_20590,oa_82276,0.9886221622542262,code changed positive,1,train_val,1
-wd_20843,oa_28179,0.9054102406831593,code changed positive,1,train_val,0
-wd_20955,oa_26315,0.8817879769378799,code changed positive,1,train_val,2
-wd_21026,oa_45928,0.8123669559047505,code changed positive,1,train_val,1
-wd_21168,oa_81496,0.9267772303028192,code changed positive,1,train_val,0
-wd_21720,oa_82666,0.8382169217415334,code changed positive,1,test,
-wd_21803,oa_9896,0.8986072133937012,code changed positive,1,train_val,2
-wd_21917,oa_82287,0.8396545328923622,code changed positive,1,train_val,2
-wd_22018,oa_84928,0.9185100192170015,code changed positive,1,train_val,1
-wd_22089,oa_86107,0.9765480017806537,code changed positive,1,train_val,4
-wd_22258,oa_82669,0.9624971753735553,code changed positive,1,test,
-wd_22427,oa_82404,0.8701658486336653,code changed positive,1,train_val,4
+wd_225,oa_82599,0.9671730383172865,code changed positive,1,train_val,4
+wd_17301,oa_82637,0.9256499931524262,code changed positive,1,train_val,4
+wd_7673,oa_52539,0.8282979406456694,code changed positive,1,train_val,2
+wd_1864,oa_82370,0.9207778365639945,code changed positive,1,test,
+wd_6436,oa_82290,0.8679890395871324,code changed positive,1,train_val,0
+wd_369,oa_84137,0.9147922894897272,code changed positive,1,test,
+wd_21917,oa_82287,0.8396545328923622,code changed positive,1,test,
+wd_15308,oa_57602,0.716570012033616,code changed positive,1,test,
+wd_22089,oa_86107,0.9765480017806537,code changed positive,1,train_val,0
+wd_7343,oa_30605,0.9565745116897485,code changed positive,1,train_val,0
+wd_24628,oa_82653,0.8863171625902591,code changed positive,1,test,
+wd_3204,oa_84324,0.9688486191840303,code changed positive,1,train_val,4
+wd_2535,oa_80501,0.9599745545246918,code changed positive,1,train_val,1
+wd_3661,oa_84281,0.774584354543082,code changed positive,1,train_val,1
+wd_22258,oa_82669,0.9624971753735553,code changed positive,1,train_val,2
+wd_6787,oa_82285,0.7529628217350759,code changed positive,1,train_val,0
+wd_1995,oa_82339,0.9454925711549957,code changed positive,1,train_val,1
+wd_4182,oa_51579,0.8937355180406219,code changed positive,1,test,
 wd_22492,oa_65188,0.8769838554084708,code changed positive,1,test,
-wd_22788,oa_82314,0.6639099585143593,code changed positive,1,train_val,3
-wd_23908,oa_82305,0.7699677724844995,code changed positive,1,train_val,0
-wd_24628,oa_82653,0.8863171625902591,code changed positive,1,train_val,3
-wd_24629,oa_31918,0.7873446365258209,code changed positive,1,train_val,0
-wd_1962,oa_80514,0.755,code changed positive,1,train_val,4
-wd_6434,oa_81903,0.6436331552894194,code changed positive,1,train_val,3
-wd_6987,oa_31016,0.6925970610681912,code changed positive,1,test,
-wd_21437,oa_81665,0.6225948240023811,code changed positive,1,test,
-wd_15801,oa_82316,0.5,code changed positive,1,train_val,3
-wd_15987,oa_82351,0.5861111111111111,code changed positive,1,test,
-wd_17026,oa_82818,0.5581818181818182,code changed positive,1,train_val,3
+wd_17033,oa_82369,0.8850248640316365,code changed positive,1,train_val,3
+wd_6315,oa_82292,0.9539108642537961,code changed positive,1,test,
+wd_22788,oa_82314,0.6639099585143593,code changed positive,1,test,
+wd_2097,oa_57606,0.8543767318110103,code changed positive,1,train_val,1
+wd_20955,oa_26315,0.8817879769378799,code changed positive,1,train_val,3
+wd_7995,oa_81494,0.9038900345014593,code changed positive,1,train_val,2
+wd_22427,oa_82404,0.8701658486336653,code changed positive,1,train_val,1
+wd_15989,oa_82363,0.799126314253086,code changed positive,1,train_val,0
+wd_17029,oa_82412,0.8399630044756365,code changed positive,1,train_val,2
+wd_1135,oa_82356,0.9352359748182729,code changed positive,1,train_val,1
+wd_1948,oa_82825,0.8515225406194953,code changed positive,1,train_val,0
+wd_7451,oa_82820,0.8537094270167057,code changed positive,1,test,
+wd_23908,oa_82305,0.7699677724844995,code changed positive,1,train_val,2
+wd_21026,oa_45928,0.8123669559047505,code changed positive,1,train_val,2
+wd_1142,oa_82817,0.8430994541367668,code changed positive,1,train_val,1
+wd_5780,oa_34205,0.8215431546494385,code changed positive,1,train_val,4
+wd_3153,oa_30707,0.7679467165876291,code changed positive,1,test,
+wd_20843,oa_28179,0.9054102406831593,code changed positive,1,train_val,4
+wd_6487,oa_28785,0.8443052701039013,code changed positive,1,test,
+wd_3742,oa_26070,0.6097044270785854,code changed positive,1,train_val,3
+wd_21720,oa_82666,0.8382169217415334,code changed positive,1,train_val,0
+wd_17028,oa_82297,0.8320755418853113,code changed positive,1,train_val,3
+wd_4701,oa_84834,0.8166174416033957,code changed positive,1,train_val,0
+wd_20451,oa_31911,0.7017613195230201,code changed positive,1,train_val,4
+wd_6987,oa_31016,0.6925970610681912,code changed positive,1,train_val,3
 wd_17146,oa_85722,0.7837184168120848,code changed positive,1,test,
-wd_20451,oa_31911,0.7017613195230201,code changed positive,1,train_val,0
-wd_20920,oa_82313,0.5827380952380952,code changed positive,1,train_val,2
-wd_21894,oa_31208,0.6883688731792077,code changed positive,1,train_val,4
+wd_21894,oa_31208,0.6883688731792077,code changed positive,1,test,
+wd_6434,oa_81903,0.6436331552894194,code changed positive,1,train_val,3
+wd_21437,oa_81665,0.6225948240023811,code changed positive,1,test,
+wd_20920,oa_82313,0.5827380952380952,code changed positive,1,train_val,3
+wd_17026,oa_82818,0.5581818181818182,code changed positive,1,test,
+wd_15801,oa_82316,0.5,code changed positive,1,train_val,0
+wd_15987,oa_82351,0.5861111111111111,code changed positive,1,train_val,2
+wd_1962,oa_80514,0.755,code changed positive,1,train_val,4
 wd_1479,oa_57121,0.6323529411764706,hard negative,0,train_val,1
 wd_4525,oa_46633,0.5705357142857143,hard negative,0,train_val,1
 wd_22672,oa_40598,0.635,hard negative,0,train_val,4
