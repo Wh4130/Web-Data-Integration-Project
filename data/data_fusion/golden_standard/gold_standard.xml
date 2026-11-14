@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Airports>
+  <Airport id="oa_12269">
+    <name>Misima Island Airport</name>
+    <iata>MIS</iata>
+    <icao>AYMS</icao>
+    <localCode/>
+    <lat>-10.6891318</lat>
+    <lon>152.8377488</lon>
+    <elevation>27</elevation>
+    <countryCode>PG</countryCode>
+    <countryName>Papua New Guinea</countryName>
+    <city>Samarai-Murua District</city>
+    <timezone>Pacific/Port_Moresby</timezone>
+  </Airport>
+  <Airport id="oa_19944">
+    <name>Nanyuan Air Base</name>
+    <iata>NAY</iata>
+    <icao>ZBNY</icao>
+    <localCode/>
+    <lat>39.78235</lat>
+    <lon>116.3877303</lon>
+    <elevation/>
+    <countryCode>CN</countryCode>
+    <countryName>China</countryName>
+    <city>Fengtai District</city>
+    <timezone>Asia/Shanghai</timezone>
+  </Airport>
+  <Airport id="oa_21756">
+    <name/>
+    <iata/>
+    <icao>LKBL</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_21914">
+    <name>Chlef Airport/ AbouBakr Belkaid</name>
+    <iata>CFK</iata>
+    <icao>DAOI</icao>
+    <localCode/>
+    <lat>36.2132967</lat>
+    <lon>1.3414472</lon>
+    <elevation>153</elevation>
+    <countryCode>DZ</countryCode>
+    <countryName>Algeria</countryName>
+    <city>Chlef</city>
+    <timezone>Africa/Algiers</timezone>
+  </Airport>
+  <Airport id="oa_23331">
+    <name>Internationale Luchthaven Kortrijk-Wevelgem</name>
+    <iata>KJK</iata>
+    <icao>EBKT</icao>
+    <localCode/>
+    <lat>50.8184901</lat>
+    <lon>3.2079652</lon>
+    <elevation/>
+    <countryCode>BE</countryCode>
+    <countryName>Belgium</countryName>
+    <city>Wevelgem</city>
+    <timezone>Europe/Brussels</timezone>
+  </Airport>
+  <Airport id="oa_23770">
+    <name>Bamberg-Breitenau Airfield</name>
+    <iata/>
+    <icao>EDQA</icao>
+    <localCode/>
+    <lat>49.9205739</lat>
+    <lon>10.9136644</lon>
+    <elevation>252</elevation>
+    <countryCode>DE</countryCode>
+    <countryName>Germany</countryName>
+    <city>Bamberg</city>
+    <timezone>Europe/Berlin</timezone>
+  </Airport>
+  <Airport id="oa_24986">
+    <name>Om Hajer</name>
+    <iata/>
+    <icao>HHOH</icao>
+    <localCode/>
+    <lat>14.3235922</lat>
+    <lon>36.6299844</lon>
+    <elevation/>
+    <countryCode>ER</countryCode>
+    <countryName>Eritrea</countryName>
+    <city/>
+    <timezone>Africa/Asmara</timezone>
+  </Airport>
+  <Airport id="oa_26173">
+    <name>Aéroport Ngot Nzoungou de Dolisie</name>
+    <iata>DIS</iata>
+    <icao>FCPD</icao>
+    <localCode/>
+    <lat>-4.2059472</lat>
+    <lon>12.6598361</lon>
+    <elevation/>
+    <countryCode>CG</countryCode>
+    <countryName>Congo-Brazzaville</countryName>
+    <city>Dolisie</city>
+    <timezone>Africa/Brazzaville</timezone>
+  </Airport>
+  <Airport id="oa_26388">
+    <name/>
+    <iata/>
+    <icao>SFPH</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_26540">
+    <name>Harry Mwaanga Nkumbula International Airport</name>
+    <iata>LVI</iata>
+    <icao>FLHN</icao>
+    <localCode>Harry Mwaanga Nkumbula Airport</localCode>
+    <lat>-17.8183264</lat>
+    <lon>25.8169788</lon>
+    <elevation>991</elevation>
+    <countryCode>ZM</countryCode>
+    <countryName>Zambia</countryName>
+    <city>Livingstone</city>
+    <timezone>Africa/Lusaka</timezone>
+  </Airport>
+  <Airport id="oa_30358">
+    <name>Mohammed V International Airport</name>
+    <iata>CMN</iata>
+    <icao>GMMN</icao>
+    <localCode/>
+    <lat>33.3692601</lat>
+    <lon>-7.5821439</lon>
+    <elevation>200</elevation>
+    <countryCode>MA</countryCode>
+    <countryName>Morocco</countryName>
+    <city>Nouaceur</city>
+    <timezone>Africa/Casablanca</timezone>
+  </Airport>
+  <Airport id="oa_30707">
+    <name/>
+    <iata/>
+    <icao>HCMW</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_31276">
+    <name>Mafia Island Airport</name>
+    <iata>MFA</iata>
+    <icao>HTMA</icao>
+    <localCode/>
+    <lat>-7.9172652</lat>
+    <lon>39.6685323</lon>
+    <elevation>31</elevation>
+    <countryCode>TZ</countryCode>
+    <countryName>Tanzania</countryName>
+    <city/>
+    <timezone>Africa/Dar_es_Salaam</timezone>
+  </Airport>
+  <Airport id="oa_31835">
+    <name>Nangapinoh Airport</name>
+    <iata>NPO</iata>
+    <icao>WIOG</icao>
+    <localCode/>
+    <lat>-0.3484785</lat>
+    <lon>111.7454222</lon>
+    <elevation>38</elevation>
+    <countryCode>ID</countryCode>
+    <countryName>Indonesia</countryName>
+    <city>Nanga Pinoh</city>
+    <timezone>Asia/Pontianak</timezone>
+  </Airport>
+  <Airport id="oa_38630">
+    <name/>
+    <iata/>
+    <icao>K8A0</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_38953">
+    <name>West Michigan Regional Airport</name>
+    <iata/>
+    <icao>KBIV</icao>
+    <localCode>BIV</localCode>
+    <lat>42.743179</lat>
+    <lon>-86.1090898</lon>
+    <elevation/>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Holland</city>
+    <timezone>America/Detroit</timezone>
+  </Airport>
+  <Airport id="oa_39211">
+    <name/>
+    <iata/>
+    <icao>KCTJ</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_39238">
+    <name>Capital City Airport</name>
+    <iata>HAR</iata>
+    <icao>KCXY</icao>
+    <localCode>CXY</localCode>
+    <lat>40.216891</lat>
+    <lon>-76.8498631</lon>
+    <elevation>104</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Fairview Township</city>
+    <timezone>America/New_York</timezone>
+  </Airport>
+  <Airport id="oa_39718">
+    <name>Belen Regional Airport</name>
+    <iata/>
+    <icao>KBRG</icao>
+    <localCode>BRG</localCode>
+    <lat>34.6453234</lat>
+    <lon>-106.8359491</lon>
+    <elevation>1583</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Valencia County</city>
+    <timezone>America/Denver</timezone>
+  </Airport>
+  <Airport id="oa_39935">
+    <name>Bishop International Airport</name>
+    <iata>FNT</iata>
+    <icao>KFNT</icao>
+    <localCode>FNT</localCode>
+    <lat>42.9605709</lat>
+    <lon>-83.7490207</lon>
+    <elevation>235</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Flint</city>
+    <timezone>America/Detroit</timezone>
+  </Airport>
+  <Airport id="oa_39944">
+    <name>Treasure Coast International Airport</name>
+    <iata>FPR</iata>
+    <icao>KFPR</icao>
+    <localCode>FPR</localCode>
+    <lat>27.4946233</lat>
+    <lon>-80.3730077</lon>
+    <elevation>6</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Saint Lucie County</city>
+    <timezone>America/New_York</timezone>
+  </Airport>
+  <Airport id="oa_40272">
+    <name>East Hampton Airport</name>
+    <iata>HTO</iata>
+    <icao>KJPX</icao>
+    <localCode>HTO</localCode>
+    <lat>40.9606239</lat>
+    <lon>-72.2534695</lon>
+    <elevation>14</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Town of East Hampton</city>
+    <timezone>America/New_York</timezone>
+  </Airport>
+  <Airport id="oa_40286">
+    <name>North Perry Airport</name>
+    <iata>HWO</iata>
+    <icao>KHWO</icao>
+    <localCode>HWO</localCode>
+    <lat>26.0020707</lat>
+    <lon>-80.2394983</lon>
+    <elevation/>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Broward County</city>
+    <timezone>America/New_York</timezone>
+  </Airport>
+  <Airport id="oa_40354">
+    <name>Laughlin/Bullhead International Airport</name>
+    <iata>IFP</iata>
+    <icao>KIFP</icao>
+    <localCode>IFP</localCode>
+    <lat>35.1549496</lat>
+    <lon>-114.5584986</lon>
+    <elevation>215</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Bullhead City</city>
+    <timezone>America/Phoenix</timezone>
+  </Airport>
+  <Airport id="oa_40493">
+    <name/>
+    <iata/>
+    <icao>KL08</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_40810">
+    <name>McMinn County Airport</name>
+    <iata>MMI</iata>
+    <icao>KMMI</icao>
+    <localCode/>
+    <lat>35.4002632</lat>
+    <lon>-84.560965</lon>
+    <elevation/>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>McMinn County</city>
+    <timezone>America/New_York</timezone>
+  </Airport>
+  <Airport id="oa_40995">
+    <name>Yuma International Airport</name>
+    <iata>YUM</iata>
+    <icao>KNYL</icao>
+    <localCode>YUM</localCode>
+    <lat>32.6484196</lat>
+    <lon>-114.6094238</lon>
+    <elevation>61</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Yuma</city>
+    <timezone>America/Phoenix</timezone>
+  </Airport>
+  <Airport id="oa_41082">
+    <name>Ormond Beach Municipal Airport</name>
+    <iata/>
+    <icao>KOMN</icao>
+    <localCode>OMN</localCode>
+    <lat>29.2994563</lat>
+    <lon>-81.1140682</lon>
+    <elevation/>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Ormond Beach</city>
+    <timezone>America/New_York</timezone>
+  </Airport>
+  <Airport id="oa_41249">
+    <name>Pike County Airport</name>
+    <iata>PVL</iata>
+    <icao>KPBX</icao>
+    <localCode>PBX</localCode>
+    <lat>37.564192</lat>
+    <lon>-82.5692313</lon>
+    <elevation>445</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Pike County</city>
+    <timezone>America/New_York</timezone>
+  </Airport>
+  <Airport id="oa_42669">
+    <name>Marquette Sawyer Regional Airport</name>
+    <iata>MQT</iata>
+    <icao>KSAW</icao>
+    <localCode>SAW</localCode>
+    <lat>46.349652</lat>
+    <lon>-87.3871745</lon>
+    <elevation>366</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Forsyth Township</city>
+    <timezone>America/Detroit</timezone>
+  </Airport>
+  <Airport id="oa_42767">
+    <name>Abraham Lincoln Capital Airport</name>
+    <iata>SPI</iata>
+    <icao>KSPI</icao>
+    <localCode/>
+    <lat>39.8436269</lat>
+    <lon>-89.6784454</lon>
+    <elevation>180</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Springfield</city>
+    <timezone>America/Chicago</timezone>
+  </Airport>
+  <Airport id="oa_42861">
+    <name>Taunton Municipal Airport</name>
+    <iata/>
+    <icao>KTAN</icao>
+    <localCode>TAN</localCode>
+    <lat>41.8754887</lat>
+    <lon>-71.0142266</lon>
+    <elevation>11</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Taunton</city>
+    <timezone>America/New_York</timezone>
+  </Airport>
+  <Airport id="oa_42905">
+    <name>Tonopah Test Range Airport</name>
+    <iata>XSD</iata>
+    <icao>KTNX</icao>
+    <localCode>TNX</localCode>
+    <lat>37.7988309</lat>
+    <lon>-116.7791551</lon>
+    <elevation>1690</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Nye County</city>
+    <timezone>America/Los_Angeles</timezone>
+  </Airport>
+  <Airport id="oa_43017">
+    <name>Newport State Airport</name>
+    <iata>NPT</iata>
+    <icao>KUUU</icao>
+    <localCode>UUU</localCode>
+    <lat>41.5313501</lat>
+    <lon>-71.2814989</lon>
+    <elevation>53</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Middletown</city>
+    <timezone>America/New_York</timezone>
+  </Airport>
+  <Airport id="oa_44256">
+    <name>Miquelon Airport</name>
+    <iata>MQC</iata>
+    <icao>LFVM</icao>
+    <localCode/>
+    <lat>47.0959526</lat>
+    <lon>-56.3799717</lon>
+    <elevation/>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Miquelon-Langlade</city>
+    <timezone>America/Miquelon</timezone>
+  </Airport>
+  <Airport id="oa_44257">
+    <name>Saint-Pierre Airport</name>
+    <iata>FSP</iata>
+    <icao>LFVP</icao>
+    <localCode/>
+    <lat>46.7627346</lat>
+    <lon>-56.1756041</lon>
+    <elevation>8</elevation>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Saint-Pierre</city>
+    <timezone>America/Miquelon</timezone>
+  </Airport>
+  <Airport id="oa_44561">
+    <name>Brno-Medlánky</name>
+    <iata/>
+    <icao>LKCM</icao>
+    <localCode/>
+    <lat>49.2375009</lat>
+    <lon>16.5561365</lon>
+    <elevation>282</elevation>
+    <countryCode>CZ</countryCode>
+    <countryName>Czechia</countryName>
+    <city>Brno</city>
+    <timezone>Europe/Prague</timezone>
+  </Airport>
+  <Airport id="oa_45208">
+    <name>Incirlik Air Base</name>
+    <iata>UAB</iata>
+    <icao>LTAG</icao>
+    <localCode/>
+    <lat>37.0056493</lat>
+    <lon>35.4246381</lon>
+    <elevation>58</elevation>
+    <countryCode>TR</countryCode>
+    <countryName>Turkey</countryName>
+    <city>Sarıçam</city>
+    <timezone>Europe/Istanbul</timezone>
+  </Airport>
+  <Airport id="oa_45221">
+    <name>Tokat Airport</name>
+    <iata>TJK</iata>
+    <icao>LTAW</icao>
+    <localCode/>
+    <lat>40.3222579</lat>
+    <lon>36.3885602</lon>
+    <elevation>566</elevation>
+    <countryCode>TR</countryCode>
+    <countryName>Turkey</countryName>
+    <city>Tokat</city>
+    <timezone>Europe/Istanbul</timezone>
+  </Airport>
+  <Airport id="oa_45604">
+    <name>North Caicos International Airport</name>
+    <iata>NCA</iata>
+    <icao>MBNC</icao>
+    <localCode/>
+    <lat>21.9165071</lat>
+    <lon>-71.9427024</lon>
+    <elevation>3</elevation>
+    <countryCode>TC</countryCode>
+    <countryName>Turks and Caicos Islands</countryName>
+    <city>North Caicos</city>
+    <timezone>America/Grand_Turk</timezone>
+  </Airport>
+  <Airport id="oa_45869">
+    <name>Mundo Maya International Airport</name>
+    <iata>FRS</iata>
+    <icao>MGMM</icao>
+    <localCode/>
+    <lat>16.9135973</lat>
+    <lon>-89.8624787</lon>
+    <elevation>130</elevation>
+    <countryCode>GT</countryCode>
+    <countryName>Guatemala</countryName>
+    <city>Flores</city>
+    <timezone>America/Guatemala</timezone>
+  </Airport>
+  <Airport id="oa_46254">
+    <name>Aeropuerto Nacional Ing. Juan Guillermo Villasana</name>
+    <iata/>
+    <icao>MMPC</icao>
+    <localCode/>
+    <lat>20.0780091</lat>
+    <lon>-98.7819627</lon>
+    <elevation>2316</elevation>
+    <countryCode>MX</countryCode>
+    <countryName>Mexico</countryName>
+    <city>Pachuca</city>
+    <timezone>America/Mexico_City</timezone>
+  </Airport>
+  <Airport id="oa_46268">
+    <name>Cabo San Lucas International Airport</name>
+    <iata/>
+    <icao>MMSL</icao>
+    <localCode/>
+    <lat>22.9502742</lat>
+    <lon>-109.9397086</lon>
+    <elevation>140</elevation>
+    <countryCode>MX</countryCode>
+    <countryName>Mexico</countryName>
+    <city>Cabo San Lucas</city>
+    <timezone>America/Mazatlan</timezone>
+  </Airport>
+  <Airport id="oa_46397">
+    <name>Bilwi Airport</name>
+    <iata>PUZ</iata>
+    <icao>MNPC</icao>
+    <localCode>PUZ</localCode>
+    <lat>14.0454425</lat>
+    <lon>-83.387112</lon>
+    <elevation/>
+    <countryCode>NI</countryCode>
+    <countryName>Nicaragua</countryName>
+    <city>Puerto Cabezas</city>
+    <timezone>America/Managua</timezone>
+  </Airport>
+  <Airport id="oa_46520">
+    <name>Panama Pacifico International Airport</name>
+    <iata>BLB</iata>
+    <icao>MPPA</icao>
+    <localCode/>
+    <lat>8.9161773</lat>
+    <lon>-79.5982509</lon>
+    <elevation/>
+    <countryCode>PA</countryCode>
+    <countryName>Panama</countryName>
+    <city>Veracruz</city>
+    <timezone>America/Panama</timezone>
+  </Airport>
+  <Airport id="oa_46578">
+    <name>Aeropuerto de Carrillo</name>
+    <iata>PLD</iata>
+    <icao>MRCR</icao>
+    <localCode/>
+    <lat>9.870619</lat>
+    <lon>-85.480744</lon>
+    <elevation/>
+    <countryCode>CR</countryCode>
+    <countryName>Costa Rica</countryName>
+    <city>Puerto Carrillo</city>
+    <timezone>America/Costa_Rica</timezone>
+  </Airport>
+  <Airport id="oa_47016">
+    <name>Edward Bodden Airfield</name>
+    <iata>LYB</iata>
+    <icao>MWCL</icao>
+    <localCode/>
+    <lat>19.6601615</lat>
+    <lon>-80.0895744</lon>
+    <elevation>1</elevation>
+    <countryCode>KY</countryCode>
+    <countryName>Cayman Islands</countryName>
+    <city>Sister Islands</city>
+    <timezone>America/Cayman</timezone>
+  </Airport>
+  <Airport id="oa_49731">
+    <name>San Salvador Bahamas Airport</name>
+    <iata>ZSA</iata>
+    <icao>MYSM</icao>
+    <localCode/>
+    <lat>24.0640934</lat>
+    <lon>-74.5240494</lon>
+    <elevation/>
+    <countryCode>BS</countryCode>
+    <countryName>Bahamas</countryName>
+    <city>San Salvador</city>
+    <timezone>America/Nassau</timezone>
+  </Airport>
+  <Airport id="oa_50179">
+    <name>Enua Airport</name>
+    <iata>AIU</iata>
+    <icao>NCAT</icao>
+    <localCode/>
+    <lat>-19.9680509</lat>
+    <lon>-158.1196392</lon>
+    <elevation/>
+    <countryCode>CK</countryCode>
+    <countryName>Cook Islands</countryName>
+    <city/>
+    <timezone>Pacific/Rarotonga</timezone>
+  </Airport>
+  <Airport id="oa_50185">
+    <name>Mitiaro Island Airport</name>
+    <iata>MOI</iata>
+    <icao>NCMR</icao>
+    <localCode/>
+    <lat>-19.842595</lat>
+    <lon>-157.7038735</lon>
+    <elevation/>
+    <countryCode>CK</countryCode>
+    <countryName>Cook Islands</countryName>
+    <city/>
+    <timezone>Pacific/Rarotonga</timezone>
+  </Airport>
+  <Airport id="oa_50187">
+    <name>Tongareva Airport</name>
+    <iata>PYE</iata>
+    <icao>NCPY</icao>
+    <localCode/>
+    <lat>-9.015027</lat>
+    <lon>-158.031886</lon>
+    <elevation/>
+    <countryCode>CK</countryCode>
+    <countryName>Cook Islands</countryName>
+    <city/>
+    <timezone>Pacific/Rarotonga</timezone>
+  </Airport>
+  <Airport id="oa_50802">
+    <name>Hihifo Airport</name>
+    <iata>WLS</iata>
+    <icao>NLWW</icao>
+    <localCode/>
+    <lat>-13.2396415</lat>
+    <lon>-176.1997901</lon>
+    <elevation>24</elevation>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Uvea</city>
+    <timezone>Pacific/Wallis</timezone>
+  </Airport>
+  <Airport id="oa_51068">
+    <name>GAM FAA'A</name>
+    <iata/>
+    <icao>NTAA</icao>
+    <localCode/>
+    <lat>-17.5622666</lat>
+    <lon>-149.6146354</lon>
+    <elevation/>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Faʻaʻā</city>
+    <timezone>Pacific/Tahiti</timezone>
+  </Airport>
+  <Airport id="oa_51071">
+    <name>Tubuai – Mataura Airport</name>
+    <iata>TUB</iata>
+    <icao>NTAT</icao>
+    <localCode/>
+    <lat>-23.3642969</lat>
+    <lon>-149.5226735</lon>
+    <elevation>5</elevation>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city/>
+    <timezone>Pacific/Tahiti</timezone>
+  </Airport>
+  <Airport id="oa_51075">
+    <name>Tikehau Airport</name>
+    <iata>TIH</iata>
+    <icao>NTGC</icao>
+    <localCode/>
+    <lat>-15.1199611</lat>
+    <lon>-148.2328483</lon>
+    <elevation>2</elevation>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Rangiroa</city>
+    <timezone>Pacific/Tahiti</timezone>
+  </Airport>
+  <Airport id="oa_51082">
+    <name>Totegegie Airport</name>
+    <iata>GMR</iata>
+    <icao>NTGJ</icao>
+    <localCode/>
+    <lat>-23.0799007</lat>
+    <lon>-134.8899994</lon>
+    <elevation/>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city/>
+    <timezone>Pacific/Gambier</timezone>
+  </Airport>
+  <Airport id="oa_51097">
+    <name>Kauehi Airport</name>
+    <iata>KHZ</iata>
+    <icao>NTKA</icao>
+    <localCode/>
+    <lat>-15.7821774</lat>
+    <lon>-145.1241247</lon>
+    <elevation/>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Fakarava</city>
+    <timezone>Pacific/Tahiti</timezone>
+  </Airport>
+  <Airport id="oa_51111">
+    <name>Bora Bora Airport</name>
+    <iata>BOB</iata>
+    <icao>NTTB</icao>
+    <localCode/>
+    <lat>-16.4443018</lat>
+    <lon>-151.7518571</lon>
+    <elevation>3</elevation>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Bora-Bora</city>
+    <timezone>Pacific/Tahiti</timezone>
+  </Airport>
+  <Airport id="oa_51118">
+    <name>Raiatea Airport</name>
+    <iata>RFP</iata>
+    <icao>NTTR</icao>
+    <localCode>RFP</localCode>
+    <lat>-16.7233772</lat>
+    <lon>-151.4658503</lon>
+    <elevation>2</elevation>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Uturoa</city>
+    <timezone>Pacific/Tahiti</timezone>
+  </Airport>
+  <Airport id="oa_51220">
+    <name>Aérodrome de Koné</name>
+    <iata>KNQ</iata>
+    <icao>NWWD</icao>
+    <localCode/>
+    <lat>-21.0543569</lat>
+    <lon>164.8397788</lon>
+    <elevation/>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Koné</city>
+    <timezone>Pacific/Noumea</timezone>
+  </Airport>
+  <Airport id="oa_51225">
+    <name>Aérodrome de Lifou Wanaham</name>
+    <iata>LIF</iata>
+    <icao>NWWL</icao>
+    <localCode/>
+    <lat>-20.7765449</lat>
+    <lon>167.2393354</lon>
+    <elevation/>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Lifou</city>
+    <timezone>Pacific/Noumea</timezone>
+  </Airport>
+  <Airport id="oa_51579">
+    <name>Picton Aerodrome</name>
+    <iata>PCN</iata>
+    <icao>NZPN</icao>
+    <localCode/>
+    <lat>-41.345793</lat>
+    <lon>173.9571358</lon>
+    <elevation>43</elevation>
+    <countryCode>NZ</countryCode>
+    <countryName>New Zealand</countryName>
+    <city>Marlborough District</city>
+    <timezone>Pacific/Auckland</timezone>
+  </Airport>
+  <Airport id="oa_52318">
+    <name>Sir Bani Yas Airport</name>
+    <iata>XSB</iata>
+    <icao>OMBY</icao>
+    <localCode/>
+    <lat>24.2832335</lat>
+    <lon>52.5804517</lon>
+    <elevation/>
+    <countryCode>AE</countryCode>
+    <countryName>United Arab Emirates</countryName>
+    <city>Sir Bani Yas</city>
+    <timezone>Asia/Dubai</timezone>
+  </Airport>
+  <Airport id="oa_53193">
+    <name>Rota International Airport</name>
+    <iata>ROP</iata>
+    <icao>PGRO</icao>
+    <localCode>GRO</localCode>
+    <lat>14.173734</lat>
+    <lon>145.2410891</lon>
+    <elevation>181</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Rota Municipality</city>
+    <timezone>Pacific/Saipan</timezone>
+  </Airport>
+  <Airport id="oa_53194">
+    <name>Saipan International Airport</name>
+    <iata>SPN</iata>
+    <icao>PGSN</icao>
+    <localCode>GSN</localCode>
+    <lat>15.1203729</lat>
+    <lon>145.7290087</lon>
+    <elevation>65.53</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Saipan Municipality</city>
+    <timezone>Pacific/Saipan</timezone>
+  </Airport>
+  <Airport id="oa_53196">
+    <name>Antonio B. Won Pat International Airport</name>
+    <iata>GUM</iata>
+    <icao>PGUM</icao>
+    <localCode>GUM</localCode>
+    <lat>13.4866002</lat>
+    <lon>144.8001446</lon>
+    <elevation>82</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Barrigada Municipality</city>
+    <timezone>Pacific/Guam</timezone>
+  </Airport>
+  <Airport id="oa_53955">
+    <name>Lihue Airport</name>
+    <iata>LIH</iata>
+    <icao>PHLI</icao>
+    <localCode/>
+    <lat>21.9722552</lat>
+    <lon>-159.3436089</lon>
+    <elevation>42</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Kauaʻi County</city>
+    <timezone>Pacific/Honolulu</timezone>
+  </Airport>
+  <Airport id="oa_53966">
+    <name>Hilo International Airport</name>
+    <iata>ITO</iata>
+    <icao>PHTO</icao>
+    <localCode/>
+    <lat>19.7191426</lat>
+    <lon>-155.0449891</lon>
+    <elevation>10</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Hilo</city>
+    <timezone>Pacific/Honolulu</timezone>
+  </Airport>
+  <Airport id="oa_54368">
+    <name>Henderson Field (Midway Atoll)</name>
+    <iata>MDY</iata>
+    <icao>PMDY</icao>
+    <localCode/>
+    <lat>28.2057751</lat>
+    <lon>-177.3819786</lon>
+    <elevation>4</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city/>
+    <timezone>Pacific/Midway</timezone>
+  </Airport>
+  <Airport id="oa_54861">
+    <name/>
+    <iata/>
+    <icao>Q51</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_56765">
+    <name/>
+    <iata/>
+    <icao>XLLL</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_59411">
+    <name>Mariscal Sucre International Airport</name>
+    <iata>UIO</iata>
+    <icao>SEQM</icao>
+    <localCode/>
+    <lat>-0.1274352</lat>
+    <lon>-78.3553608</lon>
+    <elevation>2400</elevation>
+    <countryCode>EC</countryCode>
+    <countryName>Ecuador</countryName>
+    <city>Tababela</city>
+    <timezone>America/Guayaquil</timezone>
+  </Airport>
+  <Airport id="oa_62268">
+    <name>Rurrenabaque Airport</name>
+    <iata>RBQ</iata>
+    <icao>SLRQ</icao>
+    <localCode>RBQ</localCode>
+    <lat>-14.4267965</lat>
+    <lon>-67.4990399</lon>
+    <elevation>274</elevation>
+    <countryCode>BO</countryCode>
+    <countryName>Bolivia</countryName>
+    <city>Rurrenabaque</city>
+    <timezone>America/La_Paz</timezone>
+  </Airport>
+  <Airport id="oa_62295">
+    <name>Santiago Airport</name>
+    <iata/>
+    <icao>SLTG</icao>
+    <localCode/>
+    <lat>-15.2278004</lat>
+    <lon>-65.4501038</lon>
+    <elevation>305</elevation>
+    <countryCode>BO</countryCode>
+    <countryName>Bolivia</countryName>
+    <city>San Ignacio de Moxos</city>
+    <timezone>America/La_Paz</timezone>
+  </Airport>
+  <Airport id="oa_62311">
+    <name>Joya Andina Airport</name>
+    <iata>UYU</iata>
+    <icao>SLUY</icao>
+    <localCode/>
+    <lat>-20.4413337</lat>
+    <lon>-66.8562577</lon>
+    <elevation>3954</elevation>
+    <countryCode>BO</countryCode>
+    <countryName>Bolivia</countryName>
+    <city>Uyuni</city>
+    <timezone>America/La_Paz</timezone>
+  </Airport>
+  <Airport id="oa_62344">
+    <name/>
+    <iata/>
+    <icao>SMDO</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_64416">
+    <name>General Juan Manuel Valdez Airport</name>
+    <iata>GUI</iata>
+    <icao>SVGI</icao>
+    <localCode/>
+    <lat>10.5739273</lat>
+    <lon>-62.312961</lon>
+    <elevation/>
+    <countryCode>VE</countryCode>
+    <countryName>Venezuela</countryName>
+    <city>Güiria</city>
+    <timezone>America/Caracas</timezone>
+  </Airport>
+  <Airport id="oa_64421">
+    <name>Guanare Airport</name>
+    <iata>GUQ</iata>
+    <icao>SVGU</icao>
+    <localCode>SVGU</localCode>
+    <lat>9.0267604</lat>
+    <lon>-69.7541846</lon>
+    <elevation/>
+    <countryCode>VE</countryCode>
+    <countryName>Venezuela</countryName>
+    <city>Guanare</city>
+    <timezone>America/Caracas</timezone>
+  </Airport>
+  <Airport id="oa_64555">
+    <name>Luepa Airstrip</name>
+    <iata/>
+    <icao>SVPP</icao>
+    <localCode/>
+    <lat>5.7918842</lat>
+    <lon>-61.4405687</lon>
+    <elevation/>
+    <countryCode>VE</countryCode>
+    <countryName>Venezuela</countryName>
+    <city>Parroquia Gran Sabana</city>
+    <timezone>America/Caracas</timezone>
+  </Airport>
+  <Airport id="oa_64619">
+    <name>Aeropuerto Subteniente Nestor Arias</name>
+    <iata>SNF</iata>
+    <icao>SVSP</icao>
+    <localCode/>
+    <lat>10.2786909</lat>
+    <lon>-68.7552403</lon>
+    <elevation/>
+    <countryCode>VE</countryCode>
+    <countryName>Venezuela</countryName>
+    <city>Cocorote</city>
+    <timezone>America/Caracas</timezone>
+  </Airport>
+  <Airport id="oa_65446">
+    <name>Baillif Airport</name>
+    <iata>BBR</iata>
+    <icao>TFFB</icao>
+    <localCode/>
+    <lat>16.0141877</lat>
+    <lon>-61.7432188</lon>
+    <elevation/>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Baillif</city>
+    <timezone>America/Guadeloupe</timezone>
+  </Airport>
+  <Airport id="oa_65450">
+    <name>Aéroport de Saint-Barthélemy-Rémy de Haenen</name>
+    <iata>SBH</iata>
+    <icao>TFFJ</icao>
+    <localCode/>
+    <lat>17.9042872</lat>
+    <lon>-62.8440516</lon>
+    <elevation>15</elevation>
+    <countryCode>FR</countryCode>
+    <countryName>France</countryName>
+    <city>Saint Barthélemy</city>
+    <timezone>America/St_Barthelemy</timezone>
+  </Airport>
+  <Airport id="oa_65525">
+    <name>Cyril E. King Airport</name>
+    <iata>STT</iata>
+    <icao>TIST</icao>
+    <localCode>STT</localCode>
+    <lat>18.3347877</lat>
+    <lon>-64.9715485</lon>
+    <elevation>9</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Charlotte Amalie</city>
+    <timezone>America/St_Thomas</timezone>
+  </Airport>
+  <Airport id="oa_65526">
+    <name>Henry E. Rohlsen Airport</name>
+    <iata>STX</iata>
+    <icao>TISX</icao>
+    <localCode>STX</localCode>
+    <lat>17.700076</lat>
+    <lon>-64.8053843</lon>
+    <elevation>6</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Saint Croix District</city>
+    <timezone>America/St_Thomas</timezone>
+  </Airport>
+  <Airport id="oa_65544">
+    <name>Aeropuerto Benjamín Rivera Noriega</name>
+    <iata>CPX</iata>
+    <icao>TJCP</icao>
+    <localCode>CPX</localCode>
+    <lat>18.3134203</lat>
+    <lon>-65.304174</lon>
+    <elevation>4</elevation>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Culebra</city>
+    <timezone>America/Puerto_Rico</timezone>
+  </Airport>
+  <Airport id="oa_65548">
+    <name>Aeropuerto José Aponte de la Torre</name>
+    <iata>NRR</iata>
+    <icao>TJRV</icao>
+    <localCode>RVR</localCode>
+    <lat>18.2481737</lat>
+    <lon>-65.644038</lon>
+    <elevation/>
+    <countryCode>US</countryCode>
+    <countryName>United States</countryName>
+    <city>Ceiba</city>
+    <timezone>America/Puerto_Rico</timezone>
+  </Airport>
+  <Airport id="oa_65698">
+    <name>F. D. Roosevelt Airport</name>
+    <iata>EUX</iata>
+    <icao>TNCE</icao>
+    <localCode/>
+    <lat>17.4959775</lat>
+    <lon>-62.9800178</lon>
+    <elevation>39.3</elevation>
+    <countryCode>NL</countryCode>
+    <countryName>Netherlands</countryName>
+    <city>Sint Eustatius</city>
+    <timezone>America/Kralendijk</timezone>
+  </Airport>
+  <Airport id="oa_65699">
+    <name>Princess Juliana International Airport</name>
+    <iata>SXM</iata>
+    <icao>TNCM</icao>
+    <localCode>TNCM</localCode>
+    <lat>18.0409671</lat>
+    <lon>-63.1084604</lon>
+    <elevation/>
+    <countryCode>NL</countryCode>
+    <countryName>Sint Maarten</countryName>
+    <city/>
+    <timezone>America/Lower_Princes</timezone>
+  </Airport>
+  <Airport id="oa_65704">
+    <name>Clayton J. Lloyd International Airport</name>
+    <iata>AXA</iata>
+    <icao>TQPF</icao>
+    <localCode>AXA</localCode>
+    <lat>18.2054699</lat>
+    <lon>-63.0539256</lon>
+    <elevation>38.7</elevation>
+    <countryCode>AI</countryCode>
+    <countryName>Anguilla</countryName>
+    <city/>
+    <timezone>America/Anguilla</timezone>
+  </Airport>
+  <Airport id="oa_66182">
+    <name>Auguste George Airport</name>
+    <iata>NGD</iata>
+    <icao>TUPA</icao>
+    <localCode/>
+    <lat>18.7277245</lat>
+    <lon>-64.3284971</lon>
+    <elevation>9.1</elevation>
+    <countryCode>VG</countryCode>
+    <countryName>British Virgin Islands</countryName>
+    <city/>
+    <timezone>America/Tortola</timezone>
+  </Airport>
+  <Airport id="oa_66363">
+    <name>L.F. Wade International Airport</name>
+    <iata>BDA</iata>
+    <icao>TXKF</icao>
+    <localCode>BDA</localCode>
+    <lat>32.361621</lat>
+    <lon>-64.6834441</lon>
+    <elevation>5</elevation>
+    <countryCode>BM</countryCode>
+    <countryName>Bermuda</countryName>
+    <city/>
+    <timezone>Atlantic/Bermuda</timezone>
+  </Airport>
+  <Airport id="oa_66858">
+    <name>Ust-Kuyga Airport</name>
+    <iata>UKG</iata>
+    <icao>UEBT</icao>
+    <localCode/>
+    <lat>70.0115203</lat>
+    <lon>135.6454645</lon>
+    <elevation>82</elevation>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>Силянняхский национальный наслег</city>
+    <timezone>Asia/Vladivostok</timezone>
+  </Airport>
+  <Airport id="oa_66917">
+    <name>Belaya Gora</name>
+    <iata>BGN</iata>
+    <icao>UESG</icao>
+    <localCode/>
+    <lat>68.5565941</lat>
+    <lon>146.2307559</lon>
+    <elevation>25</elevation>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>городское поселение Белая Гора</city>
+    <timezone>Asia/Srednekolymsk</timezone>
+  </Airport>
+  <Airport id="oa_66920">
+    <name>Srednekolymsk Airport</name>
+    <iata>SEK</iata>
+    <icao>UESK</icao>
+    <localCode/>
+    <lat>67.4746804</lat>
+    <lon>153.728115</lon>
+    <elevation>30</elevation>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>городское поселение Среднеколымск</city>
+    <timezone>Asia/Srednekolymsk</timezone>
+  </Airport>
+  <Airport id="oa_66970">
+    <name/>
+    <iata/>
+    <icao>UGSS</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_67050">
+    <name>Yasny Airport</name>
+    <iata>ITU</iata>
+    <icao>UHSI</icao>
+    <localCode>ITU</localCode>
+    <lat>45.254796</lat>
+    <lon>147.9603062</lon>
+    <elevation>120</elevation>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>Kurilsky District</city>
+    <timezone>Asia/Magadan</timezone>
+  </Airport>
+  <Airport id="oa_67052">
+    <name>Yuzhno-Kurilsk Mendeleyevo Airport</name>
+    <iata>DEE</iata>
+    <icao>UHSM</icao>
+    <localCode/>
+    <lat>43.9613923</lat>
+    <lon>145.6845421</lon>
+    <elevation/>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>Yuzhno-Kurilsky District</city>
+    <timezone>Asia/Magadan</timezone>
+  </Airport>
+  <Airport id="oa_67105">
+    <name/>
+    <iata/>
+    <icao>UKFB</icao>
+    <localCode/>
+    <lat/>
+    <lon/>
+    <elevation/>
+    <countryCode/>
+    <countryName/>
+    <city/>
+    <timezone/>
+  </Airport>
+  <Airport id="oa_67223">
+    <name>Baykit Airport</name>
+    <iata/>
+    <icao>UNIB</icao>
+    <localCode>БКТ</localCode>
+    <lat>61.6779006</lat>
+    <lon>96.3535487</lon>
+    <elevation>260</elevation>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>Evenkiysky Rayon</city>
+    <timezone>Asia/Krasnoyarsk</timezone>
+  </Airport>
+  <Airport id="oa_67230">
+    <name>Boguchany Airport</name>
+    <iata/>
+    <icao>UNKB</icao>
+    <localCode/>
+    <lat>58.3802361</lat>
+    <lon>97.4708135</lon>
+    <elevation>130</elevation>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>Boguchansky Rayon</city>
+    <timezone>Asia/Krasnoyarsk</timezone>
+  </Airport>
+  <Airport id="oa_67233">
+    <name>Cheremshanka Airport</name>
+    <iata/>
+    <icao>UNKM</icao>
+    <localCode/>
+    <lat>56.1758928</lat>
+    <lon>92.5486676</lon>
+    <elevation/>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>Yemelyanovsky Rayon</city>
+    <timezone>Asia/Krasnoyarsk</timezone>
+  </Airport>
+  <Airport id="oa_80493">
+    <name>Namangan Airport</name>
+    <iata>NMA</iata>
+    <icao>UZFN</icao>
+    <localCode/>
+    <lat>40.9841855</lat>
+    <lon>71.5588467</lon>
+    <elevation>470</elevation>
+    <countryCode>UZ</countryCode>
+    <countryName>Uzbekistan</countryName>
+    <city>Namangan City</city>
+    <timezone>Asia/Tashkent</timezone>
+  </Airport>
+  <Airport id="oa_80523">
+    <name>Bryansk International Airport</name>
+    <iata>BZK</iata>
+    <icao>UUBP</icao>
+    <localCode/>
+    <lat>53.21423</lat>
+    <lon>34.1788739</lon>
+    <elevation>202.7</elevation>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>Добрунское сельское поселение</city>
+    <timezone>Europe/Moscow</timezone>
+  </Airport>
+  <Airport id="oa_80602">
+    <name>Kurumoch International Airport</name>
+    <iata>KUF</iata>
+    <icao>UWWW</icao>
+    <localCode/>
+    <lat>53.5057532</lat>
+    <lon>50.1550063</lon>
+    <elevation>145</elevation>
+    <countryCode>RU</countryCode>
+    <countryName>Russia</countryName>
+    <city>Samara</city>
+    <timezone>Europe/Samara</timezone>
+  </Airport>
+  <Airport id="oa_81713">
+    <name>Sayaboury Airport</name>
+    <iata>ZBY</iata>
+    <icao>VLSB</icao>
+    <localCode/>
+    <lat>19.2433525</lat>
+    <lon>101.7092157</lon>
+    <elevation/>
+    <countryCode>LA</countryCode>
+    <countryName>Laos</countryName>
+    <city>Xayabury District</city>
+    <timezone>Asia/Vientiane</timezone>
+  </Airport>
+  <Airport id="oa_81721">
+    <name>Xienglom Airport</name>
+    <iata>XIE</iata>
+    <icao>VLXL</icao>
+    <localCode/>
+    <lat>19.6199582</lat>
+    <lon>100.8121238</lon>
+    <elevation/>
+    <countryCode>LA</countryCode>
+    <countryName>Laos</countryName>
+    <city>Xienghone District</city>
+    <timezone>Asia/Vientiane</timezone>
+  </Airport>
+  <Airport id="oa_81833">
+    <name>Thamkharka Airport</name>
+    <iata/>
+    <icao>VNTH</icao>
+    <localCode/>
+    <lat>27.0481746</lat>
+    <lon>86.8577331</lon>
+    <elevation>1585</elevation>
+    <countryCode>NP</countryCode>
+    <countryName>Nepal</countryName>
+    <city>Khotehang</city>
+    <timezone>Asia/Kathmandu</timezone>
+  </Airport>
+  <Airport id="oa_82068">
+    <name>Phu Quoc International Airport</name>
+    <iata>PQC</iata>
+    <icao>VVPQ</icao>
+    <localCode>PQC</localCode>
+    <lat>10.1721625</lat>
+    <lon>103.9926358</lon>
+    <elevation/>
+    <countryCode>VN</countryCode>
+    <countryName>Vietnam</countryName>
+    <city>Phú Quốc</city>
+    <timezone>Asia/Ho_Chi_Minh</timezone>
+  </Airport>
+  <Airport id="oa_82121">
+    <name>Nay Pyi Taw International Airport</name>
+    <iata>NYT</iata>
+    <icao>VYNT</icao>
+    <localCode/>
+    <lat>19.6255128</lat>
+    <lon>96.2016259</lon>
+    <elevation>33</elevation>
+    <countryCode>MM</countryCode>
+    <countryName>Myanmar</countryName>
+    <city>Lewe Township</city>
+    <timezone>Asia/Yangon</timezone>
+  </Airport>
+  <Airport id="oa_82287">
+    <name>Dabrawan</name>
+    <iata/>
+    <icao>WADW</icao>
+    <localCode>WX50</localCode>
+    <lat>-3.3985189</lat>
+    <lon>138.6133045</lon>
+    <elevation>486</elevation>
+    <countryCode>ID</countryCode>
+    <countryName>Indonesia</countryName>
+    <city>Mamberamo Tengah</city>
+    <timezone>Asia/Jayapura</timezone>
+  </Airport>
+  <Airport id="oa_82372">
+    <name>Bandar Udara H. Asan</name>
+    <iata>SMQ</iata>
+    <icao>WAGS</icao>
+    <localCode/>
+    <lat>-2.4977599</lat>
+    <lon>112.9736453</lon>
+    <elevation>5.87</elevation>
+    <countryCode>ID</countryCode>
+    <countryName>Indonesia</countryName>
+    <city>Sampit</city>
+    <timezone>Asia/Pontianak</timezone>
+  </Airport>
+  <Airport id="oa_82639">
+    <name>H.A.S. Hanandjoeddin International Airport</name>
+    <iata>TJQ</iata>
+    <icao>WIKT</icao>
+    <localCode/>
+    <lat>-2.7450839</lat>
+    <lon>107.7539398</lon>
+    <elevation>53</elevation>
+    <countryCode>ID</countryCode>
+    <countryName>Indonesia</countryName>
+    <city>Tanjung Pandan</city>
+    <timezone>Asia/Jakarta</timezone>
+  </Airport>
+  <Airport id="oa_84818">
+    <name>Whitsunday Airstrip</name>
+    <iata>WSY</iata>
+    <icao>YSHR</icao>
+    <localCode/>
+    <lat>-20.2764458</lat>
+    <lon>148.7551734</lon>
+    <elevation/>
+    <countryCode>AU</countryCode>
+    <countryName>Australia</countryName>
+    <city/>
+    <timezone>Australia/Brisbane</timezone>
+  </Airport>
+  <Airport id="oa_84836">
+    <name>Norfolk Island Airport</name>
+    <iata>NLK</iata>
+    <icao>YSNF</icao>
+    <localCode/>
+    <lat>-29.0416016</lat>
+    <lon>167.937733</lon>
+    <elevation>113</elevation>
+    <countryCode>AU</countryCode>
+    <countryName>Australia</countryName>
+    <city/>
+    <timezone>Pacific/Norfolk</timezone>
+  </Airport>
+  <Airport id="oa_85978">
+    <name>Dazhou Heshi Airport</name>
+    <iata>DAX</iata>
+    <icao>ZUDX</icao>
+    <localCode/>
+    <lat>31.1306793</lat>
+    <lon>107.4293544</lon>
+    <elevation/>
+    <countryCode>CN</countryCode>
+    <countryName>China</countryName>
+    <city>Dachuan</city>
+    <timezone>Asia/Shanghai</timezone>
+  </Airport>
+  <Airport id="oa_86135">
+    <name>Mohe Gulian Airport</name>
+    <iata>OHE</iata>
+    <icao>ZYMH</icao>
+    <localCode>OHE</localCode>
+    <lat>52.9132534</lat>
+    <lon>122.4293567</lon>
+    <elevation/>
+    <countryCode>CN</countryCode>
+    <countryName>China</countryName>
+    <city>Gulian</city>
+    <timezone>Asia/Shanghai</timezone>
+  </Airport>
+  <Airport id="oa_9893">
+    <name>Ballalae Airport</name>
+    <iata>BAS</iata>
+    <icao>AGGE</icao>
+    <localCode/>
+    <lat>-6.9911804</lat>
+    <lon>155.8855471</lon>
+    <elevation/>
+    <countryCode>SB</countryCode>
+    <countryName>Solomon Islands</countryName>
+    <city/>
+    <timezone>Pacific/Guadalcanal</timezone>
+  </Airport>
+</Airports>
