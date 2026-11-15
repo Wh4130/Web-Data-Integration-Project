@@ -26,19 +26,6 @@
     <city>Fengtai District</city>
     <timezone>Asia/Shanghai</timezone>
   </Airport>
-  <Airport id="oa_21756">
-    <name/>
-    <iata/>
-    <icao>LKBL</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
-  </Airport>
   <Airport id="oa_21914">
     <name>Chlef Airport/ AbouBakr Belkaid</name>
     <iata>CFK</iata>
@@ -65,32 +52,6 @@
     <city>Wevelgem</city>
     <timezone>Europe/Brussels</timezone>
   </Airport>
-  <Airport id="oa_23770">
-    <name>Bamberg-Breitenau Airfield</name>
-    <iata/>
-    <icao>EDQA</icao>
-    <localCode/>
-    <lat>49.9205739</lat>
-    <lon>10.9136644</lon>
-    <elevation>252</elevation>
-    <countryCode>DE</countryCode>
-    <countryName>Germany</countryName>
-    <city>Bamberg</city>
-    <timezone>Europe/Berlin</timezone>
-  </Airport>
-  <Airport id="oa_24986">
-    <name>Om Hajer</name>
-    <iata/>
-    <icao>HHOH</icao>
-    <localCode/>
-    <lat>14.3235922</lat>
-    <lon>36.6299844</lon>
-    <elevation/>
-    <countryCode>ER</countryCode>
-    <countryName>Eritrea</countryName>
-    <city/>
-    <timezone>Africa/Asmara</timezone>
-  </Airport>
   <Airport id="oa_26173">
     <name>Aéroport Ngot Nzoungou de Dolisie</name>
     <iata>DIS</iata>
@@ -103,19 +64,6 @@
     <countryName>Congo-Brazzaville</countryName>
     <city>Dolisie</city>
     <timezone>Africa/Brazzaville</timezone>
-  </Airport>
-  <Airport id="oa_26388">
-    <name/>
-    <iata/>
-    <icao>SFPH</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
   </Airport>
   <Airport id="oa_26540">
     <name>Harry Mwaanga Nkumbula International Airport</name>
@@ -143,19 +91,6 @@
     <city>Nouaceur</city>
     <timezone>Africa/Casablanca</timezone>
   </Airport>
-  <Airport id="oa_30707">
-    <name/>
-    <iata/>
-    <icao>HCMW</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
-  </Airport>
   <Airport id="oa_31276">
     <name>Mafia Island Airport</name>
     <iata>MFA</iata>
@@ -169,32 +104,6 @@
     <city/>
     <timezone>Africa/Dar_es_Salaam</timezone>
   </Airport>
-  <Airport id="oa_31835">
-    <name>Nangapinoh Airport</name>
-    <iata>NPO</iata>
-    <icao>WIOG</icao>
-    <localCode/>
-    <lat>-0.3484785</lat>
-    <lon>111.7454222</lon>
-    <elevation>38</elevation>
-    <countryCode>ID</countryCode>
-    <countryName>Indonesia</countryName>
-    <city>Nanga Pinoh</city>
-    <timezone>Asia/Pontianak</timezone>
-  </Airport>
-  <Airport id="oa_38630">
-    <name/>
-    <iata/>
-    <icao>K8A0</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
-  </Airport>
   <Airport id="oa_38953">
     <name>West Michigan Regional Airport</name>
     <iata/>
@@ -207,19 +116,6 @@
     <countryName>United States</countryName>
     <city>Holland</city>
     <timezone>America/Detroit</timezone>
-  </Airport>
-  <Airport id="oa_39211">
-    <name/>
-    <iata/>
-    <icao>KCTJ</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
   </Airport>
   <Airport id="oa_39238">
     <name>Capital City Airport</name>
@@ -312,19 +208,6 @@
     <city>Bullhead City</city>
     <timezone>America/Phoenix</timezone>
   </Airport>
-  <Airport id="oa_40493">
-    <name/>
-    <iata/>
-    <icao>KL08</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
-  </Airport>
   <Airport id="oa_40810">
     <name>McMinn County Airport</name>
     <iata>MMI</iata>
@@ -350,19 +233,6 @@
     <countryName>United States</countryName>
     <city>Yuma</city>
     <timezone>America/Phoenix</timezone>
-  </Airport>
-  <Airport id="oa_41082">
-    <name>Ormond Beach Municipal Airport</name>
-    <iata/>
-    <icao>KOMN</icao>
-    <localCode>OMN</localCode>
-    <lat>29.2994563</lat>
-    <lon>-81.1140682</lon>
-    <elevation/>
-    <countryCode>US</countryCode>
-    <countryName>United States</countryName>
-    <city>Ormond Beach</city>
-    <timezone>America/New_York</timezone>
   </Airport>
   <Airport id="oa_41249">
     <name>Pike County Airport</name>
@@ -481,19 +351,6 @@
     <city>Brno</city>
     <timezone>Europe/Prague</timezone>
   </Airport>
-  <Airport id="oa_45208">
-    <name>Incirlik Air Base</name>
-    <iata>UAB</iata>
-    <icao>LTAG</icao>
-    <localCode/>
-    <lat>37.0056493</lat>
-    <lon>35.4246381</lon>
-    <elevation>58</elevation>
-    <countryCode>TR</countryCode>
-    <countryName>Turkey</countryName>
-    <city>Sarıçam</city>
-    <timezone>Europe/Istanbul</timezone>
-  </Airport>
   <Airport id="oa_45221">
     <name>Tokat Airport</name>
     <iata>TJK</iata>
@@ -520,19 +377,6 @@
     <city>North Caicos</city>
     <timezone>America/Grand_Turk</timezone>
   </Airport>
-  <Airport id="oa_45869">
-    <name>Mundo Maya International Airport</name>
-    <iata>FRS</iata>
-    <icao>MGMM</icao>
-    <localCode/>
-    <lat>16.9135973</lat>
-    <lon>-89.8624787</lon>
-    <elevation>130</elevation>
-    <countryCode>GT</countryCode>
-    <countryName>Guatemala</countryName>
-    <city>Flores</city>
-    <timezone>America/Guatemala</timezone>
-  </Airport>
   <Airport id="oa_46254">
     <name>Aeropuerto Nacional Ing. Juan Guillermo Villasana</name>
     <iata/>
@@ -545,19 +389,6 @@
     <countryName>Mexico</countryName>
     <city>Pachuca</city>
     <timezone>America/Mexico_City</timezone>
-  </Airport>
-  <Airport id="oa_46268">
-    <name>Cabo San Lucas International Airport</name>
-    <iata/>
-    <icao>MMSL</icao>
-    <localCode/>
-    <lat>22.9502742</lat>
-    <lon>-109.9397086</lon>
-    <elevation>140</elevation>
-    <countryCode>MX</countryCode>
-    <countryName>Mexico</countryName>
-    <city>Cabo San Lucas</city>
-    <timezone>America/Mazatlan</timezone>
   </Airport>
   <Airport id="oa_46397">
     <name>Bilwi Airport</name>
@@ -897,32 +728,6 @@
     <city/>
     <timezone>Pacific/Midway</timezone>
   </Airport>
-  <Airport id="oa_54861">
-    <name/>
-    <iata/>
-    <icao>Q51</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
-  </Airport>
-  <Airport id="oa_56765">
-    <name/>
-    <iata/>
-    <icao>XLLL</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
-  </Airport>
   <Airport id="oa_59411">
     <name>Mariscal Sucre International Airport</name>
     <iata>UIO</iata>
@@ -975,19 +780,6 @@
     <city>Uyuni</city>
     <timezone>America/La_Paz</timezone>
   </Airport>
-  <Airport id="oa_62344">
-    <name/>
-    <iata/>
-    <icao>SMDO</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
-  </Airport>
   <Airport id="oa_64416">
     <name>General Juan Manuel Valdez Airport</name>
     <iata>GUI</iata>
@@ -1012,19 +804,6 @@
     <countryCode>VE</countryCode>
     <countryName>Venezuela</countryName>
     <city>Guanare</city>
-    <timezone>America/Caracas</timezone>
-  </Airport>
-  <Airport id="oa_64555">
-    <name>Luepa Airstrip</name>
-    <iata/>
-    <icao>SVPP</icao>
-    <localCode/>
-    <lat>5.7918842</lat>
-    <lon>-61.4405687</lon>
-    <elevation/>
-    <countryCode>VE</countryCode>
-    <countryName>Venezuela</countryName>
-    <city>Parroquia Gran Sabana</city>
     <timezone>America/Caracas</timezone>
   </Airport>
   <Airport id="oa_64619">
@@ -1222,19 +1001,6 @@
     <city>городское поселение Среднеколымск</city>
     <timezone>Asia/Srednekolymsk</timezone>
   </Airport>
-  <Airport id="oa_66970">
-    <name/>
-    <iata/>
-    <icao>UGSS</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
-  </Airport>
   <Airport id="oa_67050">
     <name>Yasny Airport</name>
     <iata>ITU</iata>
@@ -1260,19 +1026,6 @@
     <countryName>Russia</countryName>
     <city>Yuzhno-Kurilsky District</city>
     <timezone>Asia/Magadan</timezone>
-  </Airport>
-  <Airport id="oa_67105">
-    <name/>
-    <iata/>
-    <icao>UKFB</icao>
-    <localCode/>
-    <lat/>
-    <lon/>
-    <elevation/>
-    <countryCode/>
-    <countryName/>
-    <city/>
-    <timezone/>
   </Airport>
   <Airport id="oa_67223">
     <name>Baykit Airport</name>
@@ -1391,19 +1144,6 @@
     <city>Khotehang</city>
     <timezone>Asia/Kathmandu</timezone>
   </Airport>
-  <Airport id="oa_82068">
-    <name>Phu Quoc International Airport</name>
-    <iata>PQC</iata>
-    <icao>VVPQ</icao>
-    <localCode>PQC</localCode>
-    <lat>10.1721625</lat>
-    <lon>103.9926358</lon>
-    <elevation/>
-    <countryCode>VN</countryCode>
-    <countryName>Vietnam</countryName>
-    <city>Phú Quốc</city>
-    <timezone>Asia/Ho_Chi_Minh</timezone>
-  </Airport>
   <Airport id="oa_82121">
     <name>Nay Pyi Taw International Airport</name>
     <iata>NYT</iata>
@@ -1416,19 +1156,6 @@
     <countryName>Myanmar</countryName>
     <city>Lewe Township</city>
     <timezone>Asia/Yangon</timezone>
-  </Airport>
-  <Airport id="oa_82287">
-    <name>Dabrawan</name>
-    <iata/>
-    <icao>WADW</icao>
-    <localCode>WX50</localCode>
-    <lat>-3.3985189</lat>
-    <lon>138.6133045</lon>
-    <elevation>486</elevation>
-    <countryCode>ID</countryCode>
-    <countryName>Indonesia</countryName>
-    <city>Mamberamo Tengah</city>
-    <timezone>Asia/Jayapura</timezone>
   </Airport>
   <Airport id="oa_82372">
     <name>Bandar Udara H. Asan</name>
