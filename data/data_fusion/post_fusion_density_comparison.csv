@@ -1,0 +1,12 @@
+attribute,OurAirports_density,Fused_density,density_change
+name,1.0,1.0,0.0
+iata,0.1051,0.117,0.0119
+icao,0.1222,0.1637,0.0415
+localCode,0.4191,0.4215,0.0024
+lat,1.0,0.9994,-0.0006
+lon,1.0,0.9994,-0.0006
+elevation,0.8265,0.8112,-0.0153
+countryCode,0.9965,0.9964,-0.0001
+countryName,0.9999,0.9998,-0.0001
+city,0.9449,0.9514,0.0065
+timezone,0.0,0.1257,0.1257

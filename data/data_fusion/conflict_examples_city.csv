@@ -1,0 +1,150 @@
+id,cluster_id,city
+kg_3402,1,lecce
+oa_44407,1,galatina le
+kg_364,3,yazd
+oa_52110,3,yazd
+wd_587,3,fajr rural district
+kg_4936,4,van
+oa_45255,4,van
+wd_2381,4,edremit
+kg_2980,5,epinal
+oa_44230,5,epinal
+wd_6869,5,juvaincourt
+kg_4625,7,pantelleria
+oa_44415,7,pantelleria tp
+wd_20365,7,pantelleria
+kg_3626,8,spring point
+oa_49691,8,spring point
+wd_23773,8,acklins
+kg_5792,9,fort nelson
+oa_21455,9,fort nelson
+wd_17043,9,british columbia
+kg_4855,10,surat thani
+oa_82014,10,surat thani
+wd_23958,10,hua toei
+kg_2277,11,phitsanulok
+oa_82008,11,phitsanulok
+wd_2061,11,aranyik
+kg_5909,12,riviere du loup
+oa_21365,12,riviere du loup
+wd_6921,12,notre dame du portage
+kg_3507,13,treasure cay
+oa_49693,13,treasure cay
+wd_22051,13,the bahamas
+kg_3150,15,farnborough
+oa_24277,15,farnborough hampshire
+wd_1116,15,rushmoor
+kg_88,16,nakashibetsu
+oa_54972,16,nakashibetsu
+wd_2528,16,hokkaido
+kg_522,17,santa fe
+oa_57277,17,santa fe
+wd_9284,17,santa fe province
+kg_5583,19,rankin inlet
+oa_21373,19,rankin inlet
+wd_2092,19,nunavut
+kg_574,20,ranchi
+oa_81538,20,ranchi
+wd_21174,20,jharkhand
+kg_5669,21,resolute
+oa_21363,21,resolute bay
+wd_9238,21,nunavut
+kg_2047,22,cruzeiro do sul
+oa_57474,22,cruzeiro do sul
+wd_3765,22,acre
+kg_1449,23,saidu sharif
+oa_52440,23,saidu sharif
+wd_9300,23,khyber pakhtunkhwa
+kg_5496,24,pau
+oa_43869,24,pau pyrenees uzein
+wd_2572,24,uzein
+kg_5581,25,baie comeau
+oa_21132,25,baie comeau
+wd_7243,25,pointe lebel
+kg_4314,27,new plymouth
+oa_51555,27,new plymouth
+wd_22411,27,new plymouth district
+kg_1240,28,baracoa
+oa_46956,28,baracoa
+wd_15562,28,guantanamo province
+kg_1154,29,villa gesell
+oa_57423,29,villa gesell
+wd_1999,29,villa gesell partido
+kg_911,30,southampton
+oa_24251,30,southampton
+wd_24567,30,eastleigh
+kg_3032,31,barra do garcas
+oa_57454,31,barra do garcas
+wd_6664,31,mato grosso
+kg_2240,32,deadmans cay
+oa_49723,32,deadmans cay
+wd_4494,32,the bahamas
+kg_688,33,bimini
+oa_49699,33,south bimini
+wd_6637,33,the bahamas
+kg_4144,36,pickle lake
+oa_21327,36,pickle lake
+wd_16391,36,ontario
+kg_1458,37,monteria
+oa_62079,37,monteria
+wd_5957,37,cordoba department
+kg_771,38,neiva
+oa_62085,38,neiva
+wd_21331,38,huila department
+kg_5143,39,ocana
+oa_62086,39,ocana
+wd_24616,39,norte de santander department
+kg_3240,40,fianarantsoa
+oa_26645,40,fianarantsoa
+wd_6437,40,haute matsiatra
+kg_5037,41,miandrivazo
+oa_26607,41,miandrivazo
+wd_15378,41,menabe
+kg_1089,42,caucasia
+oa_62038,42,caucasia
+wd_20844,42,antioquia
+kg_35,44,dawson city
+oa_21170,44,dawson city
+wd_4536,44,yukon
+kg_424,45,meadow lake
+oa_21275,45,meadow lake
+wd_22327,45,saskatchewan
+kg_3540,46,fort simpson
+oa_21204,46,fort simpson
+wd_9312,46,northwest territories
+kg_5693,47,keetmanshoop
+oa_28380,47,keetmanshoop
+wd_24500,47,karas region
+kg_5045,49,faya
+oa_28167,49,faya largeau
+wd_282,49,chad
+kg_5380,50,port menier
+oa_21329,50,port menier
+wd_16646,50,lile danticosti
+kg_4951,51,paulo afonso
+oa_57634,51,paulo afonso
+wd_6425,51,bahia
+kg_402,53,egilsstadir
+oa_13064,53,egilsstadir
+wd_24819,53,eastern region
+kg_1890,54,leaf rapids
+oa_21279,54,leaf rapids
+wd_16752,54,manitoba
+kg_2698,57,peace river
+oa_21323,57,peace river
+wd_7308,57,alberta
+kg_3494,58,ornskoldsvik
+oa_25473,58,ornskoldsvik
+wd_6540,58,ornskoldsvik municipality
+kg_2128,59,kristianstad
+oa_25450,59,kristianstad
+wd_9302,59,kristianstad municipality
+kg_1118,60,uruguaiana
+oa_57635,60,uruguaiana
+wd_6627,60,rio grande do sul
+kg_5367,61,jos
+oa_23124,61,jos
+wd_24339,61,riyom
+kg_191,64,lake manyara
+oa_31275,64,lake manyara national park
+wd_22719,64,arusha region

@@ -1,0 +1,94 @@
+id,attribute,fused_value,gold_value,pass_relaxed
+oa_12269,elevation,17.4624,27.0,True
+oa_21914,name,chlef international airport,chlef aboubakr belkaid,True
+oa_21914,elevation,147.06119999999999,153.0,True
+oa_23331,timezone,America/Montevideo,Europe/Brussels,False
+oa_26173,name,loubomo airport,aeroport ngot nzoungou dolisie,False
+oa_26540,name,harry mwanga nkumbula international airport,harry mwaanga nkumbula international airport,True
+oa_26540,elevation,970.7248,991.0,False
+oa_30358,elevation,337.87080000000003,200.0,False
+oa_31276,elevation,21.1836,31.0,True
+oa_38953,timezone,America/New_York,America/Detroit,True
+oa_39935,timezone,America/New_York,America/Detroit,True
+oa_39944,timezone,America/Anchorage,America/New_York,False
+oa_40995,name,yuma mcas yuma international,yuma international airport,True
+oa_42669,timezone,America/New_York,America/Detroit,True
+oa_42861,name,taunton municipal king field,taunton municipal airport,True
+oa_42905,timezone,Asia/Phnom_Penh,America/Los_Angeles,False
+oa_44256,countryCode,PM,FR,True
+oa_44257,countryCode,PM,FR,True
+oa_44561,name,medlanky airfield,medlanky airport,True
+oa_44561,timezone,,Europe/Prague,False
+oa_44561,elevation,270.9672,282.0,False
+oa_45221,timezone,Asia/Istanbul,Europe/Istanbul,True
+oa_45604,name,north caicos airport,north caicos international airport,True
+oa_46254,name,engineer juan guillermo villasana national airport,juan guillermo villasana pachuca national airport,False
+oa_46254,timezone,America/Anchorage,America/Mexico_City,False
+oa_46254,elevation,2341.24,2316.0,False
+oa_46397,name,puerto cabezas airport,bilwi airport,False
+oa_47016,timezone,Europe/London,America/Cayman,False
+oa_49731,name,san salvador international airport,san salvador bahamas airport,True
+oa_50802,countryCode,WF,FR,True
+oa_51068,countryCode,PF,FR,True
+oa_51071,name,tubuai airport,tubuai mataura airport,True
+oa_51071,countryCode,PF,FR,True
+oa_51075,countryCode,PF,FR,True
+oa_51082,countryCode,PF,FR,True
+oa_51097,countryCode,PF,FR,True
+oa_51097,timezone,,Pacific/Tahiti,False
+oa_51111,countryCode,PF,FR,True
+oa_51118,countryCode,PF,FR,True
+oa_51220,countryCode,NC,FR,True
+oa_51225,countryCode,NC,FR,True
+oa_51579,elevation,94.5364,43.0,False
+oa_53193,countryCode,MP,US,True
+oa_53194,countryCode,MP,US,True
+oa_53196,countryCode,GU,US,True
+oa_53196,elevation,90.9152,82.0,True
+oa_54368,name,henderson field,henderson field midway atoll,True
+oa_54368,countryCode,UM,US,True
+oa_59411,elevation,2394.9683999999997,2400.0,True
+oa_62268,elevation,240.0224,274.0,False
+oa_62295,timezone,,America/La_Paz,False
+oa_62295,elevation,271.272,305.0,False
+oa_62311,name,joya andina international airport,joya andina airport,True
+oa_62311,timezone,,America/La_Paz,False
+oa_62311,elevation,3533.1264,3954.0,False
+oa_64416,name,guiria airport,general juan manuel valdez airport,False
+oa_64619,timezone,America/Santa_Isabel,America/Caracas,False
+oa_65446,countryCode,GP,FR,True
+oa_65450,name,saint jean airport,gustaf iii airport,False
+oa_65450,countryCode,BL,FR,True
+oa_65525,countryCode,VI,US,True
+oa_65526,countryCode,VI,US,True
+oa_65526,elevation,14.7776,6.0,True
+oa_65544,countryCode,PR,US,True
+oa_65548,timezone,America/Denver,America/Puerto_Rico,False
+oa_65698,countryCode,BQ,NL,True
+oa_65699,timezone,America/St_Kitts,America/Lower_Princes,True
+oa_66182,name,captain auguste george airport,auguste george airport,True
+oa_66182,timezone,,America/Tortola,False
+oa_66858,elevation,90.8348,82.0,True
+oa_66917,name,belaya gora airport,belaya gora,True
+oa_66917,elevation,30.4832,25.0,True
+oa_66920,elevation,18.288,30.0,False
+oa_67050,name,iturup airport,yasny airport,False
+oa_67050,timezone,Asia/Sakhalin,Asia/Magadan,True
+oa_67052,timezone,Asia/Tokyo,Asia/Magadan,False
+oa_67223,timezone,Asia/Bangkok,Asia/Krasnoyarsk,True
+oa_67223,elevation,253.4972,260.0,True
+oa_67233,name,krasnoyarsk cheremshanka airport,cheremshanka airport,True
+oa_80493,name,namangan international airport,namangan airport,True
+oa_80493,elevation,485.48199999999997,470.0,False
+oa_80602,timezone,Australia/Adelaide,Europe/Samara,False
+oa_81833,elevation,1088.076,1585.0,False
+oa_82121,timezone,America/Chicago,Asia/Yangon,False
+oa_82121,elevation,91.0248,33.0,False
+oa_82372,name,sampithasan airport,h asan airport,False
+oa_82639,name,h hanandjoeddin,hanandjoeddin international airport,True
+oa_82639,elevation,46.9936,53.0,True
+oa_84818,name,whitsunday airport,whitsunday airstrip,True
+oa_84836,name,norfolk island international airport,norfolk island airport,True
+oa_84836,countryCode,NF,AU,True
+oa_85978,name,dazhou jinya airport,dazhou heshi airport,False
+oa_86135,timezone,,Asia/Shanghai,False

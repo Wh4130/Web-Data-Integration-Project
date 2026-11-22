@@ -1,0 +1,143 @@
+id,cluster_id,name
+kg_4411,0,leh
+oa_81685,0,leh kushok bakula rimpochee airport
+wd_2481,0,kushok bakula rimpochee airport
+kg_3402,1,lecce
+oa_44407,1,lecce galatina air base galatina fortunato cesari airport
+kg_1183,2,masirah
+oa_52346,2,rafo masirah
+kg_364,3,yazd shahid sadooghi
+oa_52110,3,shahid sadooghi airport
+wd_587,3,shahid sadooghi airport
+kg_4936,4,van
+oa_45255,4,van ferit melen airport
+wd_2381,4,van ferit melen airport
+kg_2980,5,mirecourt
+oa_44230,5,epinal mirecourt airport
+wd_6869,5,epinal mirecourt airport
+kg_1376,6,teniente jaime montreuil morales
+oa_63331,6,fap lieutenant jaime andres montreuil morales airport
+wd_9261,6,tnte fap jaime montreuil morales airport
+kg_6080,52,geilenkirchen
+oa_25586,52,geilenkirchen air base
+kg_402,53,egilsstadir
+oa_13064,53,egilsstadir airport
+wd_24819,53,egilsstair airport
+kg_1118,60,rubem berta
+oa_57635,60,rubem berta airport
+wd_6627,60,ruben berta international airport
+kg_518,62,juana azurduy padilla
+oa_62290,62,juana azurduy padilla air force base
+kg_5659,69,general urquiza
+oa_57274,69,general urquiza airport
+wd_24602,69,general justo jose urquiza airport
+kg_2870,78,aviador c campos
+oa_57426,78,aviador c campos airport
+wd_7043,78,aviador carlos campos airport
+kg_1580,79,north battleford
+oa_21358,79,north battleford airport
+wd_16786,79,north battleford cameron mcintosh airport
+kg_2541,82,illizi takhamalt
+oa_21888,82,illizi takhamalt airport
+wd_6864,82,takhamalt airport
+kg_3321,83,bartolomeu lisandro
+oa_57468,83,bartolomeu lisandro airport
+wd_6700,83,bartolomeu lysandro airport
+kg_3176,94,lauro carneiro loyola
+oa_57513,94,lauro carneiro loyola airport
+wd_1984,94,joinville lauro carneiro loyola airport
+kg_4575,97,prefeito renato moreira
+oa_57503,97,prefeito renato moreira airport
+wd_6428,97,imperatriz airport
+kg_3158,105,gobernador castello
+oa_57380,105,gobernador castello airport
+wd_7985,105,gobernador edgardo castello airport
+kg_3095,107,general pedro jose mendez international
+oa_46213,107,general pedro jose mendez international airport
+wd_7703,107,general pedro j mendez international airport
+kg_4795,108,sundsvall harnosand
+oa_25472,108,sundsvall harnosand airport
+wd_6541,108,sundsvall timra airport
+kg_4025,117,coronel e carvajal
+oa_59377,117,coronel e carvajal airport
+wd_6131,117,edmundo carvajal airport
+kg_1570,121,prince mangosuthu buthelezi
+oa_26020,121,prince mangosuthu buthelezi airport
+wd_1706,121,prince m buthelezi airport
+kg_487,126,senador nilo coelho
+oa_57570,126,senador nilo coelho airport
+wd_6445,126,petrolina airport
+kg_5951,127,monclova international
+oa_46245,127,monclova international airport
+wd_5032,127,venustiano carranza international airport
+kg_4579,128,taiz international
+oa_52596,128,taiz international airport
+wd_20415,128,taizz international airport
+kg_2700,133,shahid ashrafi esfahani
+oa_52038,133,shahid ashrafi esfahani airport
+wd_593,133,kermanshah airport
+kg_137,158,moulay ali cherif
+oa_30347,158,moulay ali cherif airport
+wd_2520,158,errachidia moulay ali cherif airport
+kg_90,160,arturo merino benitez international
+oa_57814,160,comodoro arturo merino benitez international airport
+wd_1900,160,arturo merino benitez international airport
+kg_575,161,cote dazur
+oa_44100,161,nice cote dazur airport
+wd_24442,161,nice cote dazur airport
+kg_4695,164,thohoyandou
+oa_26007,164,thohoyandou airport
+wd_1658,164,prmphephu airport
+kg_3390,168,saudarkrokur
+oa_13094,168,saudarkrokur airport
+wd_8109,168,sauarkrokur airport
+kg_1400,170,tumling tar
+oa_81836,170,tumling tar airport
+wd_22181,170,tumlingtar airport
+kg_583,174,granada
+oa_43703,174,fgl airport granada jaen airport
+wd_2404,174,federico garcia lorca granada airport
+kg_4092,175,capitan corbeta c curbelo international airport
+oa_64273,175,capitan corbeta ca curbelo international airport
+wd_24588,175,capitan corbeta carlos curbelo international airport
+kg_3094,176,brize norton
+oa_24381,176,raf brize norton
+kg_1070,178,paraparaumu
+oa_51581,178,paraparaumu airport
+wd_21442,178,kapiti coast airport
+kg_2792,179,totness airstrip
+oa_62340,179,totness airport
+wd_24016,179,totness airstrip
+kg_593,180,papa stour airport
+oa_30165,180,papa stour airstrip
+kg_3218,182,koblenz winningen
+oa_23801,182,koblenz winningen airfield
+kg_4907,184,licenciado y gen ignacio lopez rayon
+oa_46258,184,uruapan licenciado y general ignacio lopez rayon international airport
+wd_5964,184,lic y gen ignacio lopez rayon international airport
+kg_1684,185,biggin hill
+oa_24267,185,london biggin hill airport
+wd_2494,185,london biggin hill airport
+kg_3365,186,yining airport
+oa_86110,186,ili yining international airport
+wd_6476,186,ili yining international airport
+kg_3357,187,stanley airport
+oa_59499,187,port stanley airport
+wd_2593,187,port stanley airport
+kg_6308,188,nyingchi airport
+oa_85996,188,nyingchi mainling airport
+wd_21282,188,nyingchi mainling airport
+kg_5799,189,weifang airport
+oa_85956,189,weifang nanyuan airport
+wd_21,189,weifang airport
+kg_3230,190,ohio state university airport
+oa_41111,190,ohio state university airport don scott field
+wd_7206,190,ohio state university airport
+kg_6340,191,luliang airport
+oa_85716,191,luliang dawu airport
+wd_22225,191,luliang airport
+kg_888,192,koulamoutou airport
+oa_26726,192,koulamoutou mabimbi airport
+kg_4968,193,mykolaiv international airport
+oa_67137,193,mykolaiv international airport closed
+wd_3217,193,mykolaiv airport
