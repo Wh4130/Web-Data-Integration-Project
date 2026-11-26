@@ -1,0 +1,606 @@
+group_id,size,icao_conflict,icao_odd,iata_conflict,iata_odd,country_conflict,country_odd,max_dist_km,dist_flag,members,n_flags,suspicious
+g1935,3,True,Kaggle,True,Kaggle,True,Kaggle,0.5,False,oa_82121:nay pyi taw international airport:VYNT:NYT:MM | kg_3496:naypyidaw:VYEL:ELA:US | wd_7443:nay pyi taw international airport:VYNT:NYT:MM,3,True
+g5224,3,True,ambiguous,True,Wikidata,False,,16320.21,True,wd_11529:kabwum airport:AYKB:KBM:PG | kg_4607:satwag:<NA>:SWG:PG | oa_12377:satwag airport:AYSW:SWG:PG,3,True
+g5521,3,True,ambiguous,False,,False,,16581.03,True,oa_12207:witu airport:AYIX:WIU:PG | wd_5630:witu airport:WITU:<NA>:PG | kg_4196:witu:<NA>:WIU:PG,2,True
+g5564,3,False,,False,,True,Wikidata,35.4,True,oa_67050:iturup airport:UHSI:ITU:RU | kg_6281:iturup:UHSI:ITU:RU | wd_4745:iturup airport:UHSI:ITU:JP,2,True
+g3566,3,False,,True,Kaggle,True,Kaggle,0.71,False,wd_24657:kurumoch international airport:UWWW:KUF:RU | oa_80602:kurumoch international airport:UWWW:KUF:RU | kg_1530:kurumoch:UWWW:KBY:AU,2,True
+g3428,3,False,,True,Kaggle,True,Kaggle,0.01,False,wd_2519:mosul international airport:ORBM:OSM:IQ | kg_515:mosul international airport:ORBM:OSB:US | oa_52529:mosul international airport:ORBM:OSM:IQ,2,True
+g3355,3,True,Kaggle,False,,True,Kaggle,0.0,False,oa_13133:pristina adem jashari international airport:BKPR:PRN:XK | wd_21599:pristina international airport adem jashari:BKPR:PRN:XK | kg_2826:pristina:LYPR:PRN:RS,2,True
+g5486,3,True,ambiguous,False,,True,Kaggle,2.23,False,wd_22538:ormond beach municipal airport:KOMN:<NA>:US | oa_41082:ormond beach municipal airport:<NA>:<NA>:US | kg_1539:flagler county airport:KXFL:XFL:CA,2,True
+g5502,3,True,Kaggle,False,,False,,28.77,True,oa_51769:dawadmi domestic airport:OEDM:DWD:SA | kg_6188:dawadmi domestic airport:OEDW:DWD:SA | wd_24788:dawadmi domestic airport:OEDM:DWD:SA,2,True
+g23062,2,True,ambiguous,True,ambiguous,False,,3.38,False,oa_51734:salerno airport:OASL:OLR:AF | wd_6816:khost airfield:OAKS:KHT:AF,2,True
+g3825,3,True,Kaggle,True,Kaggle,False,,0.96,False,wd_6741:sea airport cuxhaven nordholz:ETMN:FCN:DE | oa_25584:sea airport cuxhaven nordholz nordholz naval airbase:ETMN:FCN:DE | kg_5562:cuxhaven airport:KNDZ:NDZ:DE,2,True
+g5584,2,True,ambiguous,False,,True,ambiguous,1.46,False,oa_23770:bamberg breitenau airfield:EDQA:<NA>:DE | kg_193:bamberg bf:BAMB:BAM:US,2,True
+g5642,3,False,,True,Kaggle,False,,21.42,True,wd_4521:daqing sartu airport:ZYDQ:DQA:CN | kg_6211:daqing saertu airport:<NA>:DAQ:CN | oa_86119:daqing sartu airport:ZYDQ:DQA:CN,2,True
+g2044,3,True,Kaggle,True,Kaggle,False,,0.01,False,oa_66801:manas international airport:UCFM:BSZ:KG | kg_915:manas:UAFM:FRU:KG | wd_8014:manas international airport:UCFM:BSZ:KG,2,True
+g5654,3,False,,True,Kaggle,False,,6194.18,True,oa_61131:novo progresso airport:SJNP:NPR:BR | wd_22481:novo progresso airport:SJNP:NPR:BR | kg_4124:progresso:<NA>:PGG:BR,2,True
+g1956,2,False,,True,ambiguous,True,ambiguous,0.01,False,kg_4482:santa cruz:SBSC:STU:BZ | oa_57607:santa cruz air force base:<NA>:SNZ:BR,2,True
+g5665,3,False,,True,Kaggle,False,,22.76,True,oa_43411:grand canyon caverns airport:<NA>:PGS:US | wd_16262:grand canyon caverns airport:KL37:PGS:US | kg_6309:grand canyon west airport:<NA>:GCW:US,2,True
+g3735,3,False,,True,Kaggle,True,Kaggle,0.03,False,wd_23658:sierra blanca regional airport:KSRR:RUI:US | oa_42778:sierra blanca regional airport:KSRR:RUI:US | kg_5949:sierra blanca regional airport:KSRR:SRR:AU,2,True
+g5283,3,True,Kaggle,True,Wikidata,False,,1.65,False,kg_1737:borg arab international:HEBA:HBE:EG | oa_30750:alexandria international airport:HEAX:HBE:EG | wd_1020:alexandria international airport:HEAX:ALY:EG,2,True
+g5681,2,True,ambiguous,False,,True,ambiguous,2.82,False,kg_2679:humera airport:HAHU:HUE:ET | oa_24986:omhajer airport:HHOH:<NA>:ER,2,True
+g3906,3,True,Kaggle,True,OurAirports,False,,0.0,False,wd_2567:president donald j trump international airport:KDJT:PBI:US | oa_41248:president donald j trump international airport:KDJT:DJT:US | kg_1184:palm beach international:KPBI:PBI:US,2,True
+g5268,3,False,,True,ambiguous,True,Kaggle,0.3,False,kg_2049:osullivan army air field:<NA>:CSL:US | oa_46268:cabo san lucas international airport:MMSL:CSW:MX | wd_5029:cabo san lucas international airport:MMSL:<NA>:MX,2,True
+g5225,3,True,ambiguous,False,,False,,4037.1,True,kg_5945:merowe:<NA>:MWE:SD | wd_21894:merowe airport:HSMR:MWE:SD | oa_31208:merowe airport:HSMN:MWE:SD,2,True
+g4073,3,False,,True,Kaggle,True,Kaggle,0.5,False,kg_3846:tonopah test range:KTNX:TNX:KH | wd_20981:tonopah test range airport:KTNX:XSD:US | oa_42905:tonopah test range airport:KTNX:XSD:US,2,True
+g4122,3,True,Kaggle,True,Kaggle,False,,0.29,False,oa_85978:dachuan airport:ZUDX:DAX:CN | kg_6175:dazhou jinya airport:ZUDA:DZH:CN | wd_15602:dazhou heshi airport:ZUDX:DAX:CN,2,True
+g4165,3,False,,True,Kaggle,True,Kaggle,0.01,False,wd_22727:pompano beach airpark:KPMP:PPM:US | kg_1239:pompano beach airpark:KPMP:PMP:PG | oa_41301:pompano beach airpark:KPMP:PPM:US,2,True
+g4167,3,False,,True,Kaggle,True,Kaggle,0.01,False,kg_5049:capital city airport:KCXY:CXY:BS | oa_39238:capital city airport:KCXY:HAR:US | wd_7875:capital city airport:KCXY:HAR:US,2,True
+g4359,2,False,,True,ambiguous,True,ambiguous,0.17,False,oa_46521:mamitupu airport:<NA>:MPI:PA | kg_1669:mamitupo:<NA>:MPU:PG,2,True
+g4412,3,False,,True,Kaggle,True,Kaggle,0.01,False,kg_4800:saint augustine airport:<NA>:SGJ:PG | wd_22467:northeast florida regional airport:KSGJ:UST:US | oa_42711:northeast florida regional airport:KSGJ:UST:US,2,True
+g4451,3,False,,True,Kaggle,True,Kaggle,0.39,False,kg_2871:wevelgem:EBKT:QKT:GL | oa_23331:kortrijk wevelgem international airport:EBKT:KJK:BE | wd_6349:kortrijk wevelgem international airport:EBKT:KJK:BE,2,True
+g5090,3,False,,True,Kaggle,True,Kaggle,0.34,False,wd_22675:pike county airport:KPBX:PVL:US | kg_4757:pike county airport hatcher field:KPBX:PBX:BR | oa_41249:pike county airport hatcher field:KPBX:PVL:US,2,True
+g4923,3,False,,True,Kaggle,True,Kaggle,0.14,False,wd_6911:newport state airport:KUUU:NPT:US | kg_5967:newport state:<NA>:UUU:PG | oa_43017:newport state airport:KUUU:NPT:US,2,True
+g4706,3,True,Kaggle,True,Kaggle,False,,0.03,False,wd_5762:panama pacifico international airport:MPPA:BLB:PA | kg_59:howard:MPHO:HOW:PA | oa_46520:panama pacifico international airport:MPPA:BLB:PA,2,True
+g4813,3,False,,True,Kaggle,True,Kaggle,0.04,False,oa_63441:maria reiche neuman airport:SPZA:NZC:PE | wd_80:maria reiche neuman airport:SPZA:NZC:PE | kg_2512:maria reiche neuman airport:SPZA:NZA:AO,2,True
+g5670,3,True,ambiguous,False,,False,,39.59,True,wd_3153:garowe international airport:HCMW:GGR:SO | oa_30707:garowe airport:HCGR:GGR:SO | kg_4346:garowe international:<NA>:GGR:SO,2,True
+g4815,3,True,Kaggle,False,,True,Kaggle,0.24,False,oa_86002:tengchong tuofeng airport:ZPTC:TCZ:CN | kg_901:tengchong tuofeng airport:ZUTC:TCZ:MN | wd_2703:tengchong tuofeng airport:ZPTC:TCZ:CN,2,True
+g720,3,True,ambiguous,True,ambiguous,False,,0.07,False,kg_894:susilo airport:WIOS:SQG:ID | oa_31835:susilo airport:<NA>:<NA>:ID | wd_15427:nanga pinoh airport:WIOG:NPO:ID,2,True
+g136,3,False,,True,Kaggle,True,Kaggle,2.47,False,wd_1794:sub teniente nestor arias airport:SVSP:SNF:VE | kg_1507:sub teniente nestor arias:SVSP:SFH:MX | oa_64619:sub teniente nestor arias airport:SVSP:SNF:VE,2,True
+g5789,3,False,,True,Kaggle,False,,4335.04,True,wd_24820:albacete airport:LEAB:ABC:ES | kg_2928:albacete rail station:<NA>:EEM:ES | oa_43653:albacete airport los llanos air base:LEAB:ABC:ES,2,True
+g5813,3,True,Kaggle,False,,False,,23.7,True,kg_347:nouakchott:GQNN:NKC:MR | oa_30407:nouakchott oumtounsy international airport:GQNO:NKC:MR | wd_6348:nouakchott oumtounsy international airport:GQNO:NKC:MR,2,True
+g5756,2,False,,False,,False,,5786.49,True,kg_4206:central railway station:<NA>:KYN:GB | oa_29427:hulcote farm airstrip:<NA>:<NA>:GB,1,True
+g5365,3,False,,False,,False,,42.32,True,wd_15288:ordos ejin horo airport:ZBDS:DSN:CN | kg_2146:ordos ejin horo:ZBDS:DSN:CN | oa_85707:ordos ejin horo international airport:ZBDS:DSN:CN,1,True
+g5326,3,False,,True,Kaggle,False,,0.95,False,wd_5932:chlef international airport:DAOI:CFK:DZ | oa_21914:chlef aboubakr belkaid international airport:DAOI:CFK:DZ | kg_6184:ech cheliff:DAOI:QAS:DZ,1,True
+g5329,3,True,Kaggle,False,,False,,9.28,False,kg_2511:marmul:OONR:OMM:OM | wd_859:marmul oomx airport:OOMX:OMM:OM | oa_52348:marmul airport:OOMX:OMM:OM,1,True
+g534,3,True,Kaggle,False,,False,,0.03,False,oa_82424:rendani airport:WAUU:MKW:ID | kg_269:rendani:WASR:MKW:ID | wd_24795:rendani airport:WAUU:MKW:ID,1,True
+g5341,3,True,Kaggle,False,,False,,0.7,False,oa_84552:northern peninsula airport:YNPE:ABM:AU | wd_22472:northern peninsula airport:YNPE:ABM:AU | kg_4181:bamaga injinoo:YBAM:ABM:AU,1,True
+g5352,2,False,,False,,True,ambiguous,0.39,False,kg_6318:fussen:FUSS:FUS:CN | oa_22042:fussen glider airfield:<NA>:<NA>:DE,1,True
+g5373,3,False,,False,,True,Kaggle,0.04,False,oa_38953:west michigan regional airport:<NA>:<NA>:US | wd_6016:west michigan regional airport:KBIV:<NA>:US | kg_5694:tulip city airport:KBIV:BIV:CF,1,True
+g5369,2,False,,False,,False,,16645.01,True,oa_53951:hickam air force base:PHIK:<NA>:US | kg_5273:hickam air force base:<NA>:HIK:US,1,True
+g5324,2,False,,False,,False,,12881.48,True,oa_2680:lime village airport:<NA>:LVD:US | kg_3500:lime village:<NA>:LVD:US,1,True
+g5374,3,True,Kaggle,False,,False,,0.03,False,kg_1862:camilo ponce enriquez airport:SETM:LOH:EC | oa_59438:ciudad catamayo airport:SECA:LOH:EC | wd_6128:ciudad catamayo airport:SECA:LOH:EC,1,True
+g5386,3,False,,False,,False,,12349.19,True,oa_7410:center island airport:<NA>:CWS:US | wd_3921:center island airport:78WA:CWS:US | kg_1438:center island:<NA>:CWS:US,1,True
+g5387,3,False,,True,Kaggle,False,,0.48,False,oa_46578:playa samara carrillo airport:MRCR:PLD:CR | kg_3469:carrillo airport:MRCR:RIK:CR | wd_5156:carrillo airport:MRCR:PLD:CR,1,True
+g5388,3,False,,False,,False,,16347.85,True,kg_5308:asapa:<NA>:APP:PG | wd_9332:asapa:<NA>:APP:PG | oa_10210:asapa airport:<NA>:APP:PG,1,True
+g5325,3,False,,False,,True,Kaggle,0.06,False,oa_46254:engineer juan guillermo villasana national airport:MMPC:<NA>:MX | kg_6037:ingeniero juan guillermo villasana:MMPC:PCA:US | wd_6655:juan guillermo villasana national airport:<NA>:<NA>:MX,1,True
+g685,3,True,Kaggle,False,,False,,0.18,False,oa_80510:termez airport:UZST:TMJ:UZ | wd_24833:termez airport:UZST:TMJ:UZ | kg_6120:termez airport:UTST:TMJ:UZ,1,True
+g5323,2,False,,False,,False,,9042.27,True,kg_5880:long island:<NA>:LIJ:US | oa_79022:long island airport:<NA>:<NA>:US,1,True
+g5322,3,False,,False,,False,,11820.71,True,kg_2259:hot springs:<NA>:HSP:US | oa_57086:hot springs airport:<NA>:<NA>:US | wd_7617:hot springs airport:<NA>:<NA>:US,1,True
+g5393,3,True,OurAirports,False,,False,,0.29,False,wd_3661:belmont airport:YPEC:BEO:AU | kg_1129:belmont airport:YPEC:BEO:AU | oa_84281:lake macquarie airport:YLMQ:BEO:AU,1,True
+g5317,3,False,,False,,False,,17028.03,True,oa_13177:boang airport:<NA>:BOV:PG | wd_9495:boang:<NA>:BOV:PG | kg_3509:boang:<NA>:BOV:PG,1,True
+g5316,3,False,,False,,False,,3422.16,True,wd_856:mansa airport:FLMA:MNS:ZM | oa_26544:mansa airport:FLMA:MNS:ZM | kg_2734:mansa:<NA>:MNS:ZM,1,True
+g5315,3,False,,False,,False,,16453.45,True,kg_5599:agaun:<NA>:AUP:PG | wd_1157:agaun airport:AYAG:AUP:PG | oa_12069:agaun airport:AYAG:AUP:PG,1,True
+g5314,3,False,,False,,False,,16982.29,True,wd_12154:manga airport:<NA>:MGP:PG | kg_4858:manga:<NA>:MGP:PG | oa_45857:manga airport:<NA>:MGP:PG,1,True
+g5294,2,False,,False,,False,,14072.83,True,oa_84635:parndana airport:<NA>:PDN:AU | kg_2422:parndana:<NA>:PDN:AU,1,True
+g701,3,False,,False,,True,OurAirports,0.11,False,kg_4034:smara airport:GMMA:SMW:MA | wd_238:smara airport:GMMA:SMW:MA | oa_30351:smara airport:GMMA:SMW:EH,1,True
+g5293,3,False,,False,,False,,16826.69,True,wd_12846:open bay:<NA>:OPB:PG | oa_12315:open bay airport:<NA>:OPB:PG | kg_4355:open bay:<NA>:OPB:PG,1,True
+g5292,3,False,,False,,False,,14901.38,True,kg_5438:arrabury:<NA>:AAB:AU | oa_83400:arrabury airport:YARY:AAB:AU | wd_2751:arrabury airport:YARY:AAB:AU,1,True
+g5291,2,False,,False,,False,,17054.36,True,oa_12271:malekolon airport:AYMV:MKN:PG | kg_4680:malekolon:<NA>:MKN:PG,1,True
+g5290,3,False,,False,,False,,16465.89,True,kg_2555:aragip:<NA>:ARP:PG | oa_11126:aragip airport:<NA>:ARP:PG | wd_9329:aragip airport:<NA>:ARP:PG,1,True
+g5282,2,False,,False,,True,ambiguous,0.75,False,oa_64280:jaguel punta este airport:SUPE:<NA>:UY | kg_3467:jaguel punta este airport:SUPE:MDO:US,1,True
+g675,3,False,,False,,True,Kaggle,0.08,False,kg_1291:zaporizhzhia international airport:UKDE:OZH:RU | oa_67103:zaporizhzhia international airport:UKDE:OZH:UA | wd_2645:zaporizhzhia international airport:UKDE:OZH:UA,1,True
+g5394,3,False,,False,,True,ambiguous,1.48,False,kg_4438:babushara:UGSS:SUI:AB | wd_6097:sukhumi babushara airport:UGSS:SUI:<NA> | oa_66970:vladislav ardzinba sukhum international airport:UGSS:SUI:GE,1,True
+g5261,3,True,OurAirports,False,,False,,0.54,False,kg_5276:j m nkomo international:FVBU:BUQ:ZW | oa_28179:joshua mqabuko nkomo international airport:FVJN:BUQ:ZW | wd_20843:joshua mqabuko nkomo international airport:FVBU:BUQ:ZW,1,True
+g5440,3,False,,False,,False,,7815.16,True,wd_4854:charlottetown airport:CCH4:YHG:CA | oa_18348:charlottetown airport:<NA>:YHG:CA | kg_4737:charlottetown:<NA>:YHG:CA,1,True
+g5429,3,False,,False,,False,,8274.76,True,wd_3070:chos malal airport:SAHC:HOS:AR | kg_3247:chos malal:<NA>:HOS:AR | oa_57305:chos malal airport:SAHC:HOS:AR,1,True
+g5430,2,False,,False,,False,,5573.67,True,kg_3644:andriamena:<NA>:WAD:MG | oa_82279:andriamena airport:<NA>:WAD:MG,1,True
+g5432,3,False,,False,,True,Kaggle,17.27,False,wd_21163:bijie feixiong airport:ZUBJ:BFJ:CN | kg_1607:bijie feixiong airport:<NA>:BFJ:FJ | oa_85973:bijie feixiong airport:ZUBJ:BFJ:CN,1,True
+g5433,3,True,Kaggle,False,,False,,0.17,False,oa_82275:mozes kilangin airport:WAYY:TIM:ID | wd_24643:mozes kilangin airport:WAYY:TIM:ID | kg_5305:moses kilangin:WABP:TIM:ID,1,True
+g5436,3,True,OurAirports,False,,False,,0.33,False,oa_82369:gusti syamsir alam airport:WAOK:KBU:ID | wd_17033:gusti syamsir alam airport:WRBK:KBU:ID | kg_3298:stagen airport:WRBK:KBU:ID,1,True
+g5437,3,False,,False,,False,,33.22,True,kg_4004:kerio valley:<NA>:KRV:KE | oa_39660:kerio valley airport:<NA>:KRV:KE | wd_21521:kimwarer airport:<NA>:KRV:KE,1,True
+g5444,3,False,,False,,False,,16325.0,True,oa_12451:wasu airport:AYWS:WSU:PG | wd_14850:wasu:AYWS:WSU:PG | kg_5784:wasu:<NA>:WSU:PG,1,True
+g5401,3,True,OurAirports,False,,False,,19.68,False,oa_82316:bokondini airport:WAVB:BUI:ID | kg_1936:bokondini airport:WAJB:BUI:ID | wd_15801:bokondini airport:WAJB:BUI:ID,1,True
+g5445,2,False,,False,,False,,17190.87,True,oa_12433:tonu airport:AYVO:TON:PG | kg_4342:tonu:<NA>:TON:PG,1,True
+g5446,3,False,,False,,False,,15865.9,True,wd_11733:kuri airport:AYKU:KUQ:PG | kg_369:kuri:<NA>:KUQ:PG | oa_12229:kuri airport:AYKU:KUQ:PG,1,True
+g5447,2,False,,False,,False,,16722.84,True,kg_240:uvol:<NA>:UVO:PG | oa_12426:uvol airport:AYUZ:UVO:PG,1,True
+g5452,3,True,Kaggle,False,,False,,0.71,False,oa_40995:yuma international airport marine corps air station yuma:KNYL:YUM:US | kg_5268:yuma mcas yuma international:KYUM:YUM:US | wd_22004:yuma international airport:KNYL:YUM:US,1,True
+g5458,3,True,Kaggle,False,,False,,5.21,False,wd_7896:hilton head airport:KHXD:HHH:US | oa_40290:hilton head airport:KHXD:HHH:US | kg_5853:hilton head:KHHH:HHH:US,1,True
+g5465,3,False,,False,,False,,12363.02,True,wd_19910:stuart island airpark:<NA>:<NA>:US | oa_7845:stuart island airpark:<NA>:SSW:US | kg_1142:stuart island:<NA>:SSW:US,1,True
+g5428,3,False,,False,,False,,14650.53,True,oa_83793:deniliquin airport:YDLQ:DNQ:AU | wd_4647:deniliquin airport:YDLQ:DNQ:AU | kg_2720:deniliquin:<NA>:DNQ:AU,1,True
+g5427,2,False,,False,,False,,8294.43,True,oa_61762:candilejas airport:<NA>:CJD:CO | kg_2020:candilejas:<NA>:CJD:CO,1,True
+g5426,2,False,,False,,False,,8253.65,True,kg_3268:caquetania:<NA>:CQT:CO | oa_61764:caquetania airport:<NA>:CQT:CO,1,True
+g5425,3,False,,False,,False,,2096.75,True,kg_830:waco kungo:<NA>:CEO:AO | oa_26706:waco kungo airport:FNWK:CEO:AO | wd_24146:waco kungo airport:FNWK:CEO:AO,1,True
+g5424,3,False,,False,,False,,7919.57,True,wd_1595:mirpur khas north airport:OPMK:<NA>:PK | kg_3463:mirpur khas:<NA>:MPD:PK | oa_52413:mirpur khas air base:<NA>:<NA>:PK,1,True
+g5419,3,False,,False,,False,,9377.99,True,kg_6279:urdzhar:<NA>:UZR:KZ | oa_80803:urzhar airport:UASU:UZR:KZ | wd_6620:urzhar airport:UASU:UZR:KZ,1,True
+g5418,2,True,ambiguous,False,,False,,4.48,False,oa_60236:municipal bom futuro airport:SILC:LVR:BR | kg_6321:bom futuro airport:SWFE:LVR:BR,1,True
+g5417,2,False,,False,,False,,4002.38,True,kg_4543:tum:<NA>:TUJ:ET | oa_66181:tum airport:<NA>:TUJ:ET,1,True
+g5416,3,False,,False,,False,,16235.49,True,wd_24207:wau airport papua new guinea:AYWU:WUG:PG | kg_651:wau:<NA>:WUG:PG | oa_12453:wau airport:AYWU:WUG:PG,1,True
+g5412,2,False,,False,,False,,13244.0,True,kg_5889:coffee point:<NA>:CFA:US | oa_73674:coffee point airstrip:<NA>:<NA>:US,1,True
+g615,3,False,,False,,True,Wikidata,0.02,False,oa_50178:aitutaki airport:NCAI:AIT:CK | kg_1757:aitutaki:NCAI:AIT:CK | wd_17283:aitutaki airport:NCAI:AIT:NZ,1,True
+g5411,2,False,,False,,False,,36.74,True,kg_921:majkin airport:<NA>:MJE:MH | oa_45885:majkin airport:<NA>:MJE:MH,1,True
+g5410,3,False,,False,,False,,28.7,True,kg_6133:losinj airport:LDLO:LSZ:HR | wd_2499:losinj airport:LDLO:LSZ:HR | oa_43619:losinj airport:LDLO:LSZ:HR,1,True
+g5409,3,False,,False,,False,,32.45,True,kg_5826:tabiteuea south airport:NGTS:TSU:KI | oa_50402:tabiteuea south airport:NGTS:TSU:KI | wd_2765:tabiteuea sud airport:NGTS:TSU:KI,1,True
+g5408,3,False,,False,,False,,33.46,True,kg_5727:jiujiang lushan airport:ZSJJ:JIU:CN | wd_3:jiujiang lushan airport:ZSJJ:JIU:CN | oa_85933:jiujiang lushan airport:ZSJJ:JIU:CN,1,True
+g656,3,True,OurAirports,False,,False,,0.08,False,oa_82290:sultan babullah airport:WAEE:TTE:ID | wd_6436:babullah airport:WAMT:TTE:ID | kg_4802:sultan babullah:WAMT:TTE:ID,1,True
+g5402,2,True,ambiguous,False,,False,,0.23,False,kg_5203:vancouver coal harbour:CAQ3:CXH:CA | oa_21225:vancouver harbour water aerodrome:CYHC:CXH:CA,1,True
+g742,2,True,ambiguous,False,,False,,0.0,False,kg_2744:kenitra:GMMY:NNA:MA | oa_30363:kenitra air base:GMMP:NNA:MA,1,True
+g5256,3,True,ambiguous,False,,False,,12.61,False,kg_519:dourados airport:SSDO:DOU:BR | oa_57477:dourados airport:<NA>:DOU:BR | wd_3769:dourados airport:SBDO:DOU:BR,1,True
+g5473,2,False,,False,,False,,10787.42,True,kg_2164:flushing:<NA>:FLU:US | oa_77903:flushing field:<NA>:<NA>:US,1,True
+g5102,3,True,ambiguous,False,,False,,0.37,False,kg_3449:kau:<NA>:KAZ:ID | wd_1135:kuabang airport:WAMK:KAZ:ID | oa_82356:kuabang airport:WAEK:KAZ:ID,1,True
+g5055,3,True,Kaggle,False,,False,,0.13,False,oa_82411:jenderal ahmad yani airport:WAHS:SRG:ID | wd_2799:jenderal ahmad yani international airport:WAHS:SRG:ID | kg_1706:achmad yani:WARS:SRG:ID,1,True
+g5069,3,True,ambiguous,False,,False,,0.88,False,kg_4451:saumlaki:<NA>:SXK:ID | oa_82384:saumlaki olilit airport:WAPI:<NA>:ID | wd_6317:mathilda batyaleri airport:WAPS:SXK:ID,1,True
+g5084,3,True,OurAirports,False,,False,,0.32,False,oa_81494:lal bahadur shastri international airport:VEBN:VNS:IN | wd_7995:lal bahadur shastri airport:VIBN:VNS:IN | kg_21:varanasi:VIBN:VNS:IN,1,True
+g901,3,True,ambiguous,False,,False,,0.26,False,kg_154:mili island airport:MLIP:MIJ:MH | wd_15448:mili airport:K1Q9:MIJ:MH | oa_46133:mili island airport:<NA>:MIJ:MH,1,True
+g5091,2,False,,False,,True,ambiguous,0.28,False,kg_6042:robinson army air field:KRBM:RBM:DE | oa_42518:robinson army air field:KRBM:<NA>:US,1,True
+g5101,3,True,Kaggle,False,,False,,5.89,False,kg_3379:qaqortoq heliport:BGJH:JJU:GL | wd_20931:qaqortoq airport:BGQO:JJU:GL | oa_30318:qaqortoq airport:BGQO:JJU:GL,1,True
+g5120,2,False,,False,,False,,4436.04,True,oa_13648:belo horizonte airport:<NA>:<NA>:BR | kg_4718:belo horizonte:<NA>:BHZ:BR,1,True
+g5254,3,False,,True,Kaggle,False,,0.28,False,wd_24320:woja airport:<NA>:WJA:MH | kg_2079:jabot airport:<NA>:JAT:MH | oa_45890:woja airport:<NA>:WJA:MH,1,True
+g5121,3,False,,True,Kaggle,False,,0.51,False,kg_233:saint lucie county international airport:KFPR:FRP:US | wd_23796:treasure coast international airport:KFPR:FPR:US | oa_39944:treasure coast international airport:KFPR:FPR:US,1,True
+g895,3,True,Kaggle,False,,False,,0.15,False,oa_80832:diu airport:VADU:DIU:IN | kg_3675:diu airport:VA1P:DIU:IN | wd_3751:diu airport:VADU:DIU:IN,1,True
+g5132,2,False,,True,ambiguous,False,,0.03,False,oa_82918:san juan uganik seaplane base:<NA>:UGI:US | kg_755:san juan uganik seaplane base:<NA>:WSJ:US,1,True
+g5141,3,False,,True,ambiguous,False,,0.02,False,oa_42892:mckinney national airport:KTKI:DTX:US | kg_2360:collin county regional airport mc kinney:KTKI:TKI:US | wd_3707:mckinney national airport:KTKI:<NA>:US,1,True
+g5150,2,True,ambiguous,False,,False,,1.49,False,kg_5716:termal:SANH:RHD:AR | oa_57327:termas rio hondo international airport:SANR:RHD:AR,1,True
+g5155,3,False,,False,,False,,7840.82,True,kg_5046:primavera:<NA>:LPE:CO | oa_62058:primavera airport:SKIM:LPE:CO | wd_6122:primavera:SKIM:LPE:CO,1,True
+g5041,3,False,,False,,True,Kaggle,0.27,False,wd_22430:haeju airport:<NA>:HAE:KP | kg_983:haeju airport:<NA>:HAE:US | oa_41140:haeju airfield:<NA>:<NA>:KP,1,True
+g5036,3,True,Kaggle,False,,False,,0.22,False,kg_5329:dabolim:VAGO:GOI:IN | oa_81858:goa dabolim international airport:VOGO:GOI:IN | wd_2355:dabolim airport:VOGO:GOI:IN,1,True
+g5032,3,False,,False,,True,Kaggle,0.04,False,kg_2207:redlands municipal airport:KREI:REI:GF | wd_22885:redlands municipal airport:KREI:<NA>:US | oa_42536:redlands municipal airport:<NA>:<NA>:US,1,True
+g5018,3,False,,False,,True,Kaggle,0.08,False,oa_39211:west georgia regional airport o v gray field:<NA>:<NA>:US | wd_24233:west georgia regional airport:KCTJ:<NA>:US | kg_1364:west georgia regional airport o v gray field:KCTJ:CTJ:IT,1,True
+g5015,3,False,,False,,True,Kaggle,0.17,False,wd_15590:koyukuk airport:PFKU:KYU:US | oa_53023:koyukuk airport:PFKU:KYU:US | kg_2697:koyukuk airport:PFKU:KYU:TR,1,True
+g5008,3,True,Wikidata,False,,False,,1.17,False,kg_432:sannvhe:ZBSN:TVS:CN | oa_85722:tangshan sannuhe airport:ZBSN:TVS:CN | wd_17146:tangshan sannuhe airport:ZBTS:TVS:CN,1,True
+g4972,3,True,Kaggle,False,,False,,0.33,False,oa_26540:harry mwanga nkumbula international airport:FLHN:LVI:ZM | wd_2487:harry mwaanga nkumbula international airport:FLHN:LVI:ZM | kg_2675:livingstone:FLLI:LVI:ZM,1,True
+g4971,3,True,Kaggle,False,,False,,7.4,False,wd_20908:guarapuava airport:SSGG:GPB:BR | oa_57494:tancredo thomas faria airport:SSGG:GPB:BR | kg_3813:tancredo thomaz faria airport:SBGU:GPB:BR,1,True
+g4927,3,False,,False,,False,,28.95,True,oa_82429:aa bere tallo haliwen airport:WATA:ABU:ID | wd_16023:bere tallo airport:WATA:ABU:ID | kg_554:atambua:<NA>:ABU:ID,1,True
+g920,3,True,OurAirports,False,,False,,0.18,False,oa_84324:murray island airport:YMAE:MYI:AU | kg_3053:murray island airport:YMUI:MYI:AU | wd_3204:murray island airport:YMUI:MYI:AU,1,True
+g492,3,False,,True,Kaggle,False,,0.02,False,oa_58051:maquehue airport:SCTC:PZS:CL | kg_1213:maquehue:SCTC:ZCO:CL | wd_68:maquehue airport:SCTC:PZS:CL,1,True
+g923,3,True,ambiguous,False,,False,,0.1,False,wd_4528:rukumkot airport:VNCJ:RUK:NP | kg_5501:rukum chaurjahari:VNRK:RUK:NP | oa_81824:rukum chaurjahari airport:<NA>:RUK:NP,1,True
+g4918,3,False,,True,Kaggle,False,,0.43,False,oa_65548:jose aponte torre airport:TJRV:NRR:PR | wd_7145:jose aponte torre airport:TJRV:NRR:US | kg_4617:jose aponte torre airport:TJRV:RVR:US,1,True
+g4906,3,False,,False,,True,ambiguous,0.03,False,wd_2625:lesperance airport:TFFG:SFG:FR | kg_5301:grand case:TFFG:SFG:GP | oa_65449:grand case lesperance airport:TFFG:SFG:MF,1,True
+g4846,3,True,Wikidata,False,,False,,0.46,False,oa_51579:picton aerodrome:NZPN:PCN:NZ | wd_4182:picton aerodrome:NZOK:PCN:NZ | kg_2728:koromiko:NZPN:PCN:NZ,1,True
+g4834,3,False,,False,,False,,7889.08,True,wd_6731:santa rosalia airport:SKSL:SSL:CO | kg_5573:santa rosalia:<NA>:SSL:CO | oa_62115:santa rosalia airport:SKSL:SSL:CO,1,True
+g926,3,False,,False,,True,Wikidata,0.18,False,oa_50181:mangaia island airport:NCMG:MGS:CK | wd_22291:mangaia airport:NCMG:MGS:NZ | kg_4479:mangaia island airport:NCMG:MGS:CK,1,True
+g5156,2,False,,False,,False,,16453.13,True,kg_1032:biniguni:<NA>:XBN:PG | oa_12102:biniguni airport:AYBZ:XBN:PG,1,True
+g892,3,True,OurAirports,False,,False,,0.22,False,wd_1995:tanjung harapan airport:WALG:TJS:ID | kg_4140:tanjung harapan airport:WALG:TJS:ID | oa_82339:tanjung harapan airport:WAGD:TJS:ID,1,True
+g5157,2,False,,False,,False,,16684.29,True,kg_788:fulleborn:<NA>:FUB:PG | oa_28169:fulleborn airport:<NA>:FUB:PG,1,True
+g881,3,False,,True,Kaggle,False,,0.07,False,wd_15679:borongan airport:RPVW:BPA:PH | kg_6331:borongan airport:RPVW:BPR:PH | oa_55671:borongan airport:<NA>:BPA:PH,1,True
+g5249,3,False,,False,,True,Wikidata,1.0,False,oa_50187:tongareva airport:NCPY:PYE:CK | wd_24012:tongareva airport:NCPY:PYE:NZ | kg_5327:penrhyn island airport:NCPY:PYE:CK,1,True
+g5240,3,True,OurAirports,False,,False,,0.59,False,wd_3742:francistown airport:FBFT:FRW:BW | kg_4871:francistown:FBFT:FRW:BW | oa_26070:phillip gaonwe matante international airport:FBPM:FRW:BW,1,True
+g762,3,True,OurAirports,False,,False,,0.07,False,oa_82599:japura airport:WIBJ:RGT:ID | wd_225:japura airport:WIPR:RGT:ID | kg_2753:japura:WIPR:RGT:ID,1,True
+g764,3,True,Kaggle,False,,False,,0.0,False,oa_24769:mehamn airport:ENMH:MEH:NO | kg_168:mehamn:ENMR:MEH:NO | wd_21811:mehamn airport:ENMH:MEH:NO,1,True
+g5223,2,False,,False,,False,,8098.52,True,oa_51708:gardez airport:OAGZ:GRG:AF | kg_4576:gardez:<NA>:GRG:AF,1,True
+g5222,3,False,,False,,False,,19479.08,True,kg_1935:onotoa:<NA>:OOT:KI | wd_2762:onotoa airport:NGON:OOT:KI | oa_50395:onotoa airport:NGON:OOT:KI,1,True
+g5221,3,False,,False,,False,,1050.23,True,oa_23104:akwa ibom international airport:DNAI:QUO:NG | kg_5831:akwa ibom airport:<NA>:QUO:NG | wd_17018:akwa ibom airport:DNAI:QUO:NG,1,True
+g5220,2,False,,False,,False,,16642.39,True,kg_4631:mussau:<NA>:MWU:PG | oa_47019:mussau airport:<NA>:MWU:PG,1,True
+g805,3,True,Kaggle,False,,False,,0.26,False,oa_82309:tjilik riwut airport:WAGG:PKY:ID | wd_5962:tjilik riwut airport:WAGG:PKY:ID | kg_1869:tjilik riwut:WAOP:PKY:ID,1,True
+g5219,3,False,,False,,False,,16741.94,True,oa_12090:bialla airport:AYBL:BAA:PG | kg_3257:bialla:<NA>:BAA:PG | wd_1229:bialla airport:<NA>:BAA:PG,1,True
+g5218,2,False,,False,,False,,16671.95,True,oa_12126:emirau airport:AYEE:EMI:PG | kg_914:emirau:<NA>:EMI:PG,1,True
+g5217,2,False,,False,,False,,7918.81,True,oa_61533:rondon airport:<NA>:<NA>:CO | kg_1646:rondon:<NA>:RON:CO,1,True
+g8563,2,True,ambiguous,False,,False,,0.0,False,wd_20602:erden airfield:LBED:<NA>:BG | oa_43595:erden airfield:LBRD:<NA>:BG,1,True
+g5203,3,True,OurAirports,False,,False,,0.46,False,kg_189:bubung:WAMW:LUW:ID | oa_82305:syukuran aminuddin amir airport:WAFW:LUW:ID | wd_23908:syukuran aminuddin amir airport:WAMW:LUW:ID,1,True
+g884,3,True,Kaggle,False,,False,,0.13,False,oa_19944:beijing nanyuan airport:ZBNY:NAY:CN | kg_1305:beijing nanyuan:ZBBB:NAY:CN | wd_1051:beijing nanyuan airport:ZBNY:NAY:CN,1,True
+g5158,3,False,,False,,False,,16925.84,True,kg_5723:namatanai:<NA>:ATN:PG | oa_12293:namatanai airport:AYNX:ATN:PG | wd_15344:namatanai airport:AYNX:ATN:PG,1,True
+g5202,3,True,Kaggle,False,,False,,0.18,False,oa_82639:h s hanandjoeddin international airport:WIKT:TJQ:ID | kg_1029:h hanandjoeddin:WIOD:TJQ:ID | wd_2036:hanandjoeddin international airport:WIKT:TJQ:ID,1,True
+g520,3,True,OurAirports,False,,False,,0.02,False,oa_81496:bilaspur airport:VEBU:PAB:IN | kg_5774:bilaspur:VABI:PAB:IN | wd_21168:bilaspur airport:VABI:PAB:IN,1,True
+g5170,3,True,Kaggle,False,,False,,2.81,False,wd_7345:aasiaat airport:BGAA:JEG:GL | oa_12956:aasiaat airport:BGAA:JEG:GL | kg_4878:aasiaat:BGEM:JEG:GL,1,True
+g5168,3,False,,False,,False,,17188.66,True,wd_4964:wakunai airport:AYWQ:WKN:PG | kg_1075:wakunai:<NA>:WKN:PG | oa_12450:wakunai airport:AYWQ:WKN:PG,1,True
+g5167,2,False,,False,,False,,5418.89,True,kg_639:ankazoabo:<NA>:WAK:MG | oa_26658:ankazoabo airport:FMSZ:WAK:MG,1,True
+g5166,3,False,,False,,False,,15784.06,True,kg_38:sissano:<NA>:SIZ:PG | oa_12492:sissano airport:AYZN:SIZ:PG | wd_13947:sissano:<NA>:SIZ:PG,1,True
+g5165,3,False,,False,,False,,9466.77,True,oa_45975:palacios airport:MHPC:PCH:HN | kg_1661:palacios:<NA>:PCH:HN | wd_6299:palacios airport:MHPC:PCH:HN,1,True
+g5164,2,False,,False,,False,,4121.01,True,oa_85425:tshipise airport:<NA>:TSD:ZA | kg_2401:tshipise:<NA>:TSD:ZA,1,True
+g5163,3,False,,False,,False,,6589.43,True,wd_1843:vastervik airport:ESSW:VVK:SE | kg_2420:vastervik:<NA>:VVK:SE | oa_25509:vastervik airport:ESSW:VVK:SE,1,True
+g5162,2,False,,False,,False,,14520.08,True,kg_1343:welshpool:<NA>:WHL:AU | oa_82503:welshpool airport:<NA>:WHL:AU,1,True
+g5161,2,False,,False,,False,,8313.69,True,kg_176:leguizamo:<NA>:LGZ:CO | oa_61853:leguizamo airport:<NA>:<NA>:CO,1,True
+g5160,2,False,,False,,False,,7917.74,True,kg_833:guerima:<NA>:GMC:CO | oa_61780:guerima airport:<NA>:<NA>:CO,1,True
+g890,3,True,Kaggle,False,,False,,0.05,False,wd_16078:arctic bay airport:CYAB:YAB:CA | kg_5307:arctic bay airport:CJX7:YAB:CA | oa_21113:arctic bay airport:CYAB:YAB:CA,1,True
+g5159,2,False,,False,,False,,5750.07,True,oa_26602:mahanoro airport:FMMH:VVB:MG | kg_2499:mahanoro:<NA>:VVB:MG,1,True
+g5472,3,False,,False,,False,,5952.92,True,oa_45249:ordu giresun airport:LTCB:OGU:TR | wd_3169:ordu giresun airport:LTCB:OGU:TR | kg_6333:ordu giresun:<NA>:OGU:TR,1,True
+g5477,3,False,,False,,False,,1011.47,True,wd_7248:asaba international airport:DNAS:ABB:NG | oa_23107:asaba international airport:DNAS:ABB:NG | kg_6203:asaba:<NA>:ABB:NG,1,True
+g5474,2,False,,False,,False,,5609.96,True,oa_23597:mainz finthen airfield:EDFZ:<NA>:DE | kg_847:mainz finthen:<NA>:QFZ:DE,1,True
+g5763,3,True,ambiguous,False,,False,,4.25,False,kg_4487:sanana:<NA>:SQN:ID | wd_6315:emalamo airport:WAPN:SQN:ID | oa_82292:emalamo airport:WAES:SQN:ID,1,True
+g5770,3,False,,True,ambiguous,False,,0.0,False,kg_3581:scatsta:EGPM:SDZ:GB | oa_30014:scatsta airport:<NA>:<NA>:GB | wd_4984:scatsta airport:EGPM:SCS:GB,1,True
+g5765,2,False,,False,,False,,4973.84,True,kg_1682:presidente dutra:<NA>:PDR:BR | oa_52947:presidente jose sarney airport:<NA>:PDR:BR,1,True
+g5661,2,False,,False,,False,,11808.77,True,kg_1092:cabin creek:<NA>:CBZ:US | oa_8978:cabin creek landing airport:<NA>:<NA>:US,1,True
+g5662,3,False,,False,,False,,38.14,True,kg_4396:luoyang airport:ZHLY:LYA:CN | wd_6285:luoyang beijiao airport:ZHLY:LYA:CN | oa_85777:luoyang beijiao airport:ZHLY:LYA:CN,1,True
+g5663,2,False,,False,,False,,10818.19,True,kg_2439:martindale:<NA>:MDA:US | oa_40737:martindale army heliport:<NA>:MDA:US,1,True
+g5664,3,True,ambiguous,False,,False,,6.51,False,wd_15989:buol airport:WAMQ:UOL:ID | oa_82363:buol pogogul airport:WAFY:UOL:ID | kg_266:buol:<NA>:UOL:ID,1,True
+g5666,2,False,,False,,False,,15202.85,True,oa_55715:rose bay seaplane base:<NA>:RSE:AU | kg_2990:au rose bay:<NA>:RSE:AU,1,True
+g5632,3,False,,False,,False,,44.69,True,oa_80946:siem reap angkor international airport:VDSA:SAI:KH | kg_884:siem reap angkor:<NA>:SAI:KH | wd_158:siem reap angkor international airport:VDSA:SAI:KH,1,True
+g5668,2,False,,False,,False,,18018.1,True,kg_3804:castaway:<NA>:CST:FJ | oa_50326:castaway island seaplane base:NFCS:CST:FJ,1,True
+g5669,2,False,,False,,False,,7443.0,True,oa_54472:fajardo harbor seaplane base:<NA>:<NA>:PR | kg_763:fajardo:<NA>:NNJ:PR,1,True
+g5760,2,False,,False,,False,,5264.89,True,kg_1279:tucuma:<NA>:TUZ:BR | oa_14488:fazenda tucuma airport:<NA>:<NA>:BR,1,True
+g5671,3,False,,False,,False,,13417.35,True,wd_24461:bajawa soa airport:WATB:BJW:ID | oa_82430:bajawa soa turelelo airport:<NA>:BJW:ID | kg_3206:bajawa:<NA>:BJW:ID,1,True
+g5673,3,False,,False,,False,,20.27,True,oa_51474:great barrier aerodrome:NZGB:GBZ:NZ | wd_16407:great barrier aerodrome:NZGB:GBZ:NZ | kg_3560:great barrier island:NZGB:GBZ:NZ,1,True
+g5676,3,False,,False,,False,,10711.81,True,oa_40615:decatur municipal airport:<NA>:<NA>:US | wd_3550:decatur municipal airport:KLUD:<NA>:US | kg_839:decatur island:<NA>:DTR:US,1,True
+g5660,2,False,,False,,False,,20.91,True,kg_3410:kebar:<NA>:KEQ:ID | oa_82417:kebar airport:<NA>:KEQ:ID,1,True
+g5659,3,False,,False,,False,,8184.57,True,wd_1928:captain luis f gomez nino air base:<NA>:<NA>:CO | oa_62011:gomez nino apiay air base:SKAP:API:CO | kg_5947:apiay:<NA>:API:CO,1,True
+g5655,3,False,,False,,False,,45.64,True,wd_21195:bob quinn lake airport:CBW4:YBO:CA | kg_3688:bob quinn lake:CBW4:YBO:CA | oa_18305:bob quinn lake airport:<NA>:YBO:CA,1,True
+g5787,2,False,,False,,False,,15675.0,True,oa_11741:thursday island hospital heliport:<NA>:<NA>:AU | kg_2186:thursday island:<NA>:TIS:AU,1,True
+g5651,3,False,,False,,False,,20.32,True,kg_1246:yuba county airport:KMYV:MYV:US | wd_24361:yuba county airport:KMYV:MYV:US | oa_40897:yuba county airport:KMYV:MYV:US,1,True
+g5648,3,False,,False,,True,ambiguous,1.24,False,wd_15781:gustaf iii airport:TFFJ:SBH:FR | kg_293:saint barthelemy:TFFJ:SBH:GP | oa_65450:saint jean airport:TFFJ:SBH:BL,1,True
+g5788,2,False,,False,,False,,11357.09,True,oa_49473:ojitos santa lucia airport:<NA>:<NA>:MX | kg_5613:santa lucia:<NA>:NLU:MX,1,True
+g5647,3,False,,False,,False,,9081.74,True,oa_40794:berkeley county airport:<NA>:<NA>:US | kg_5729:berkeley:<NA>:JBK:US | wd_21304:berkeley county airport:KMKS:<NA>:US,1,True
+g5646,3,False,,False,,False,,30.92,True,oa_82319:batom airport:<NA>:BXM:ID | kg_2062:batom:<NA>:BXM:ID | wd_6022:batom airport:WABM:BXM:ID,1,True
+g5645,2,False,,False,,False,,28.84,True,oa_65177:seal bay seaplane base:<NA>:SYB:US | kg_2386:seal bay seaplane base:<NA>:SYB:US,1,True
+g5644,2,False,,False,,False,,33.39,True,oa_23919:wyk auf fohr airport:EDXY:OHR:DE | kg_1080:wyk auf foehr:<NA>:OHR:DE,1,True
+g5643,2,False,,False,,False,,15424.78,True,kg_3099:sarmi:<NA>:ZRM:ID | oa_82320:mararena sarmi airport:WAJI:ZRM:ID,1,True
+g5638,2,False,,False,,False,,31.91,True,kg_670:jining airport:<NA>:JNG:CN | oa_85932:jining daan airport:ZSJG:JNG:CN,1,True
+g5637,2,False,,False,,False,,11197.72,True,kg_3868:pattaya:<NA>:PYX:TH | oa_65488:pattaya huai yai airport:<NA>:<NA>:TH,1,True
+g5636,2,False,,False,,False,,5703.39,True,oa_22169:siegen eisernhardt airfield:<NA>:<NA>:DE | kg_4862:siegen:<NA>:SGE:DE,1,True
+g5635,2,False,,False,,False,,5349.89,True,kg_3794:bursa:<NA>:BTZ:TR | oa_45226:bursa yunuseli airport:LTBE:<NA>:TR,1,True
+g5634,3,False,,False,,False,,9193.08,True,oa_25725:oak harbor seaplane base:<NA>:<NA>:US | kg_1243:oak harbor:<NA>:ODW:US | wd_12762:oak harbor seaplane base:<NA>:<NA>:US,1,True
+g5759,3,False,,False,,False,,11063.67,True,wd_6046:beach airport:<NA>:<NA>:US | kg_2385:palm beach spb:<NA>:LBH:US | oa_38087:beach airport:<NA>:<NA>:US,1,True
+g5682,3,False,,False,,False,,1548.93,True,kg_804:nkayi:<NA>:NKY:CG | oa_26139:yokangassi airport:FCBY:NKY:CG | wd_24356:yokangassi airport:FCBY:NKY:CG,1,True
+g5685,3,False,,False,,False,,25.72,True,wd_6575:brest airport:UMBB:BQT:BY | kg_773:brest:UMBB:BQT:BY | oa_67191:brest international airport:UMBB:BQT:BY,1,True
+g5721,3,False,,False,,False,,38.89,True,oa_52322:maktoum international airport:OMDW:DWC:AE | wd_159:dubai world central dwc:OMDW:DWC:AE | kg_5556:dubai maktoum:OMDW:DWC:AE,1,True
+g5753,3,False,,False,,False,,10548.16,True,kg_3489:duck:<NA>:DUF:US | oa_2505:duck creek airport:<NA>:<NA>:US | wd_10196:duckcreek airport:<NA>:<NA>:US,1,True
+g5752,3,False,,False,,False,,22.92,True,oa_85911:lijiang sanyi international airport:ZPLJ:LJG:CN | kg_2445:lijiang airport:ZPLJ:LJG:CN | wd_2483:lijiang sanyi airport:ZPLJ:LJG:CN,1,True
+g5745,3,False,,False,,False,,7064.12,True,kg_4381:kievskiy rail:<NA>:<NA>:RU | oa_56771:myachkovo airfield:<NA>:<NA>:RU | wd_17060:myachkovo airport:UUBM:<NA>:RU,1,True
+g5744,3,False,,False,,False,,21.14,True,wd_3268:luzhou yunlong airport:ZULZ:LZO:CN | oa_85991:luzhou yunlong airport:ZULZ:LZO:CN | kg_457:luzhou airport:ZULZ:LZO:CN,1,True
+g5737,3,False,,False,,False,,4208.77,True,oa_43747:los martinez puerto airfield:<NA>:<NA>:ES | kg_667:railway station:<NA>:XUT:ES | wd_21002:los martinez puerto airport:LEMP:<NA>:ES,1,True
+g5736,2,False,,False,,False,,5703.32,True,oa_29801:chipstead private airstrip:<NA>:<NA>:GB | kg_1688:victoria railway station:<NA>:ZEP:GB,1,True
+g5735,2,False,,False,,False,,5721.19,True,oa_29291:avon lane airfield:<NA>:<NA>:GB | kg_2394:temple meads rail saint:<NA>:TPB:GB,1,True
+g5734,2,False,,False,,False,,5719.33,True,kg_3264:reading railway:<NA>:XRE:GB | oa_29303:englefield airstrip:<NA>:<NA>:GB,1,True
+g5733,2,False,,False,,False,,4284.96,True,oa_43700:altarejos guadalcanal private airfield:<NA>:<NA>:ES | kg_3882:santa justa railway station:<NA>:XQA:ES,1,True
+g5732,3,False,,False,,False,,12307.43,True,wd_16807:squamish airport:CYSE:YSE:CA | kg_3959:swan river:<NA>:YSE:CA | oa_21380:squamish airport:CYSE:YSE:CA,1,True
+g5731,3,False,,False,,False,,4830.64,True,kg_3161:<NA>:<NA>:IRT:IT | wd_22197:rome urbe airport:LIRU:<NA>:IT | oa_44523:rome urbe airport:LIRU:<NA>:IT,1,True
+g5730,2,True,ambiguous,False,,False,,9.17,False,oa_25818:ellisras matimba airport:FAER:ELL:ZA | kg_4538:ellisras:FAEA:ELL:ZA,1,True
+g5723,2,True,ambiguous,False,,False,,3.81,False,kg_1904:long bawan airport:WRLB:LBW:ID | oa_82818:yuvai semaring airport:WAQJ:LBW:ID,1,True
+g5722,3,False,,False,,False,,8036.95,True,oa_51701:sardeh band airport:OADS:SBF:AF | kg_4000:<NA>:<NA>:SBF:AF | wd_23108:sardeh band airport:OADS:SBF:AF,1,True
+g5720,3,True,OurAirports,False,,False,,12.15,False,kg_6217:turpan:ZWTP:TLQ:CN | oa_86107:turpan jiaohe airport:ZWTL:TLQ:CN | wd_22089:turpan jiaohe airport:ZWTP:TLQ:CN,1,True
+g5686,2,False,,False,,True,ambiguous,0.0,False,kg_1202:hernesaari heliport:EFHE:HEN:GB | oa_23994:hernesaari heliport:<NA>:HEN:FI,1,True
+g5719,3,True,Kaggle,False,,False,,7.49,False,wd_24524:glauber rocha airport:SBVC:VDC:BR | kg_5240:vitoria conquista airport:SBQV:VDC:BR | oa_13744:glauber andrade rocha airport:SBVC:VDC:BR,1,True
+g5715,2,False,,False,,False,,15942.57,True,oa_83768:daydream island helipad:<NA>:DDI:AU | kg_5929:daydream island:<NA>:DDI:AU,1,True
+g5713,2,False,,False,,False,,5951.17,True,oa_23880:oldenburg hatten airfield:<NA>:<NA>:DE | kg_1501:oldenburg rail:<NA>:ZPD:DE,1,True
+g5712,3,False,,False,,False,,38.32,True,wd_24199:eastern wv regional airport:KMRB:MRB:US | kg_172:eastern wv regional airport:KMRB:MRB:US | oa_40847:eastern wv regional airport shepherd field:KMRB:MRB:US,1,True
+g5711,3,True,Kaggle,False,,False,,16.86,False,oa_83546:broome international airport:YBRM:BME:AU | wd_2321:broome international airport:YBRM:BME:AU | kg_2294:broome:YPBR:BME:AU,1,True
+g5707,3,False,,False,,False,,33.3,True,kg_1098:kirkuk air base:ORKK:KIK:IQ | oa_52533:kirkuk international airport:ORKK:KIK:IQ | wd_21535:kirkuk international airport:ORKK:KIK:IQ,1,True
+g5702,3,False,,False,,False,,9956.73,True,wd_14034:smith county airport:<NA>:<NA>:US | oa_46718:smith county airport:<NA>:<NA>:US | kg_2339:smith cove:<NA>:SCJ:US,1,True
+g5701,2,False,,False,,False,,5959.54,True,oa_29066:ince blundell microlight airfield:<NA>:<NA>:GB | kg_780:liverpool lime street:<NA>:QЛС:GB,1,True
+g5700,2,False,,False,,False,,5740.39,True,kg_2497:swindon railway:<NA>:<NA>:GB | oa_29018:sandhill farm airstrip:<NA>:<NA>:GB,1,True
+g5697,3,True,Kaggle,False,,False,,4.52,False,oa_26173:ngot nzoungou airport:FCPD:DIS:CG | kg_3281:loubomo airport:FCPL:DIS:CG | wd_6321:dolisie airport:FCPD:DIS:CG,1,True
+g5696,3,True,Kaggle,False,,False,,3.59,False,kg_3665:codrington airport:TAPH:BBQ:AG | oa_9880:burton nibbs international airport:TAPB:BBQ:AG | wd_1929:burton nibbs international airport:TAPB:<NA>:AG,1,True
+g5692,2,False,,False,,False,,13482.94,True,kg_1663:sawu:<NA>:SAU:ID | oa_82439:sabu tardanu airport:WATS:SAU:ID,1,True
+g5691,3,False,,False,,False,,31.33,True,kg_1705:ternopol:UKLT:TNL:UA | oa_67133:ternopil international airport:UKLT:TNL:UA | wd_22046:ternopil airport:UKLT:TNL:UA,1,True
+g5688,2,False,,False,,False,,12933.79,True,kg_5901:point lookout apt:<NA>:PLK:US | oa_52258:lookout airport:<NA>:<NA>:US,1,True
+g5633,2,False,,False,,False,,43.59,True,oa_51711:bagram airfield:OAIX:OAI:AF | kg_6316:bagram air force base:OAIX:OAI:AF,1,True
+g5630,2,False,,False,,True,ambiguous,1.89,False,oa_22020:kaufbeuren air base:<NA>:<NA>:DE | kg_1191:biessenhofen bf:BIES:BIE:US,1,True
+g5755,3,False,,False,,False,,5168.92,True,oa_44492:verona boscomantico airfield:LIPN:<NA>:IT | wd_4792:verona boscomantico:LIPN:<NA>:IT | kg_5956:porta nuova rail station:<NA>:XIX:IT,1,True
+g5535,3,False,,False,,False,,22.98,True,kg_1110:tonghua sanyuanpu:<NA>:TNH:CN | oa_86141:tonghua sanyuanpu airport:ZYTN:TNH:CN | wd_22098:tonghua sanyuanpu airport:ZYTN:TNH:CN,1,True
+g5522,3,True,Kaggle,False,,False,,14.99,False,wd_3248:mariscal sucre international airport:SEQM:<NA>:EC | oa_59411:mariscal sucre international airport:SEQM:UIO:EC | kg_1127:mariscal sucre international:SEQU:UIO:EC,1,True
+g5524,3,False,,False,,False,,12470.88,True,kg_5262:hartley bay:<NA>:YTB:CA | wd_15938:hartley bay water aerodrome:<NA>:YTB:CA | oa_18188:hartley bay seaplane base:<NA>:YTB:CA,1,True
+g5527,3,False,,False,,False,,24.45,True,wd_7235:jefferson county international airport:K0S9:TWD:US | oa_37959:jefferson county international airport:<NA>:TWD:US | kg_727:jefferson county international:<NA>:TWD:US,1,True
+g5528,3,False,,False,,False,,26.79,True,kg_4845:ann arbor municipal airport:KARB:ARB:US | oa_38842:ann arbor municipal airport:KARB:ARB:US | wd_15924:ann arbor municipal airport:KARB:ARB:US,1,True
+g5533,3,False,,False,,False,,41.1,True,oa_19693:changchun air base:<NA>:<NA>:CN | kg_1000:changchun:ZYCC:CGQ:CN | wd_24284:changchun dafangshen airport:<NA>:<NA>:CN,1,True
+g5534,3,False,,False,,False,,42.5,True,kg_4780:xuzhou guanyin airport:ZSXZ:XUZ:CN | wd_5044:xuzhou guanyin airport:ZSXZ:XUZ:CN | oa_85962:xuzhou guanyin international airport:ZSXZ:XUZ:CN,1,True
+g5539,3,False,,False,,False,,35.47,True,wd_6364:kambuaya airport:WASU:KBX:ID | oa_82427:kambuaya airport:WASU:KBX:ID | kg_3797:kambuaya:<NA>:KBX:ID,1,True
+g5629,2,False,,False,,False,,15944.85,True,kg_1203:south molle island:<NA>:SOI:AU | oa_84830:south molle island helipad:<NA>:SOI:AU,1,True
+g5540,3,False,,False,,False,,35.52,True,oa_12076:ambunti airport:AYAT:AUJ:PG | wd_9325:ambunti airport:AYAT:AUJ:PG | kg_5911:ambunti:<NA>:AUJ:PG,1,True
+g5549,3,False,,False,,False,,10352.13,True,wd_12540:mount vernon municipal airport:<NA>:<NA>:US | oa_38162:mount vernon municipal airport:<NA>:<NA>:US | kg_1776:mount vernon:<NA>:MVN:US,1,True
+g5550,3,False,,False,,False,,12546.96,True,oa_9996:candle 2 airport:<NA>:CDL:US | kg_4142:candle:<NA>:CDL:US | wd_17913:candle 2 airport:<NA>:<NA>:US,1,True
+g5551,3,False,,False,,False,,10456.56,True,oa_41113:worthington municipal airport:KOTG:OTG:US | kg_6130:worthington:<NA>:OTG:US | wd_15187:worthington municipal airport:KOTG:OTG:US,1,True
+g5552,3,False,,False,,False,,10403.11,True,kg_1280:parks:<NA>:KPK:US | wd_23531:parks field airport:<NA>:<NA>:US | oa_8784:parks field:<NA>:<NA>:US,1,True
+g5553,2,False,,False,,False,,12380.34,True,oa_83540:telegraph harbour seaplane base:<NA>:YBQ:CA | kg_5457:telegraph harbour:<NA>:YBQ:CA,1,True
+g4824,3,True,Kaggle,False,,False,,0.06,False,wd_169:soderhamn airport:ESNY:SOO:SE | oa_25481:soderhamn airport:ESNY:SOO:SE | kg_5689:soderhamn airport:ESCL:SOO:SE,1,True
+g5520,3,False,,False,,False,,16544.37,True,wd_9361:bali:<NA>:BAJ:PG | kg_2483:bali:<NA>:BAJ:PG | oa_12632:bali airport:<NA>:BAJ:PG,1,True
+g5519,3,False,,False,,False,,26.33,True,kg_5624:renmark:YREN:RMK:AU | wd_3125:renmark airport:YREN:RMK:AU | oa_84743:renmark airport:YREN:RMK:AU,1,True
+g5513,2,False,,False,,False,,5450.43,True,oa_43974:strasbourg neuhof airfield:<NA>:<NA>:FR | kg_377:strasbourg:<NA>:XER:FR,1,True
+g5511,2,False,,False,,False,,8901.6,True,oa_45657:barnes airport:<NA>:<NA>:US | kg_5333:barnes:<NA>:BNH:US,1,True
+g5510,3,False,,False,,False,,9403.52,True,oa_38554:marine city airport:<NA>:<NA>:US | wd_12183:marine city airport:<NA>:<NA>:US | kg_2166:marine air:<NA>:QNY:US,1,True
+g5508,3,False,,False,,False,,12061.45,True,wd_19228:mountain home municipal airport:<NA>:<NA>:US | oa_42981:mountain home municipal airport:<NA>:<NA>:US | kg_2963:mountain home:<NA>:WMH:US,1,True
+g5507,3,False,,False,,False,,12345.06,True,wd_19976:tetlin airport:<NA>:<NA>:US | kg_4261:tetlin:<NA>:TEH:US | oa_4174:tetlin airport:<NA>:TEH:US,1,True
+g5506,3,False,,False,,False,,8790.63,True,oa_52628:san miguel airport:<NA>:NMG:PA | kg_160:san miguel:<NA>:NMG:PA | wd_5086:san miguel airport:<NA>:NMG:PA,1,True
+g5501,3,False,,False,,False,,33.4,True,oa_28429:tsumeb airport:FYTM:TSB:<NA> | wd_2702:tsumeb airport:FYTM:TSB:<NA> | kg_5081:tsumeb airport:FYTM:TSB:<NA>,1,True
+g5494,2,False,,False,,False,,12284.84,True,kg_204:telegraph creek:<NA>:YTX:CA | oa_18114:telegraph creek seaplane base:<NA>:<NA>:CA,1,True
+g5490,2,False,,False,,False,,12219.9,True,oa_16633:boundary airport:<NA>:BYA:US | kg_1358:boundary:<NA>:BYA:US,1,True
+g5489,3,False,,False,,False,,8524.81,True,kg_2415:sterling:<NA>:SQI:US | oa_3819:sterling airport:<NA>:<NA>:US | wd_23826:sterling airport:<NA>:<NA>:US,1,True
+g5488,3,False,,False,,False,,12247.52,True,kg_4925:chicken:<NA>:CKX:US | oa_19279:chicken airport:<NA>:CKX:US | wd_4491:chicken airport:KCKX:CKX:US,1,True
+g5816,3,False,,False,,False,,7964.56,True,wd_16992:krayniy airport:UAOL:BXY:KZ | kg_6162:krayniy:<NA>:BXY:KZ | oa_66810:baikonur krayniy international airport:UAOL:BXY:KZ,1,True
+g5485,3,False,,False,,True,Kaggle,0.64,False,wd_3835:thamkharka airport:VNTH:<NA>:NP | oa_81833:thamkharka airport:<NA>:<NA>:NP | kg_5315:thamkharka:<NA>:TMK:VN,1,True
+g5478,3,False,,False,,False,,16436.29,True,wd_9324:amazon bay:<NA>:AZB:PG | oa_12608:amazon bay airport:<NA>:AZB:PG | kg_1697:amazon bay:<NA>:AZB:PG,1,True
+g5558,2,True,ambiguous,False,,False,,2.45,False,oa_21416:tommy kochon airport:CYVL:YCK:CA | kg_2230:colville lake airport:CEB3:YCK:CA,1,True
+g5561,2,False,,False,,False,,12384.35,True,oa_83387:maple bay seaplane base:<NA>:YAQ:CA | kg_4488:maple bay:<NA>:YAQ:CA,1,True
+g5562,3,False,,False,,False,,32.61,True,kg_5409:senggo:<NA>:ZEG:ID | oa_82336:senggo airport:WAKQ:ZEG:ID | wd_1144:senggo airport:WAKQ:ZEG:ID,1,True
+g5592,2,False,,False,,False,,12543.18,True,kg_3772:port alice:<NA>:PTC:US | oa_1419:port alice seaplane base:<NA>:PTC:US,1,True
+g5628,2,False,,True,ambiguous,False,,1.46,False,kg_660:singita sabi sands:<NA>:INY:ZA | oa_85465:singita safari lodge airport:FASP:SSX:ZA,1,True
+g5627,2,False,,False,,True,ambiguous,1.81,False,oa_28853:roche barton farm airstrip:<NA>:<NA>:GB | kg_5789:roche railway station:<NA>:XPJ:FR,1,True
+g5626,2,False,,False,,False,,4971.4,True,kg_2935:saint jean railway station:<NA>:ZFQ:FR | oa_27403:saint jean duras airfield:<NA>:<NA>:FR,1,True
+g5625,3,False,,False,,False,,11698.09,True,kg_3606:xinzhou:<NA>:ZYI:CN | wd_24381:zunyi xinzhou airport:ZUZY:ZYI:CN | oa_86013:zunyi xinzhou airport:ZUZY:ZYI:CN,1,True
+g5623,2,False,,False,,False,,12511.9,True,oa_18142:kitkatla seaplane base:<NA>:YKK:CA | kg_4406:kitkatla:<NA>:YKK:CA,1,True
+g5622,2,False,,False,,False,,40.43,True,kg_859:mindiptana:<NA>:MDP:ID | oa_82328:mindiptana airport:WAKD:MDP:ID,1,True
+g5610,3,False,,False,,False,,27.57,True,oa_52944:yakutat airport:PAYA:YAK:US | wd_24662:yakutat airport:PAYA:YAK:US | kg_3075:yakutat:PAYA:YAK:US,1,True
+g5605,2,False,,False,,False,,5151.2,True,kg_468:santa lucia rail station:<NA>:XVQ:IT | oa_33354:santa lucia airfield:<NA>:<NA>:IT,1,True
+g5604,2,False,,False,,False,,12830.75,True,oa_26575:flat airport:PAFT:FLT:US | kg_1212:flat:<NA>:FLT:US,1,True
+g5601,2,True,ambiguous,False,,False,,0.81,False,oa_30259:ceuta heliport:GECE:JCU:ES | kg_4736:ceuta heliport:GECT:JCU:ES,1,True
+g5598,2,False,,False,,False,,15882.91,True,kg_143:mechanics bay:<NA>:MHB:NZ | oa_51534:mechanics bay heliport:<NA>:MHB:NZ,1,True
+g5597,2,False,,False,,False,,8890.87,True,oa_37827:pentagon army heliport:<NA>:JPN:US | kg_1974:pentagon army:<NA>:JPN:US,1,True
+g5594,3,False,,False,,False,,12635.62,True,oa_18148:queen charlotte city seaplane base:<NA>:ZQS:CA | kg_633:queen charlotte:<NA>:ZQS:CA | wd_16558:queen charlotte city water aerodrome:<NA>:ZQS:CA,1,True
+g5593,2,False,,False,,False,,13529.87,True,oa_40341:ivanof bay seaplane base:<NA>:KIB:US | kg_3392:ivanof bay:<NA>:KIB:US,1,True
+g5591,2,False,,False,,False,,5597.94,True,kg_4864:xinguara:<NA>:XIG:BR | oa_83184:xinguara municipal airport:<NA>:XIG:BR,1,True
+g5563,2,False,,False,,False,,36.47,True,oa_66583:poltava air base:<NA>:<NA>:UA | kg_6114:poltava:UKHP:PLV:UA,1,True
+g5794,2,False,,False,,False,,10182.53,True,oa_79522:pack airport:<NA>:<NA>:US | kg_989:pack creek:<NA>:PBK:US,1,True
+g5796,2,False,,False,,False,,5122.18,True,kg_4927:jerusalem:<NA>:JRS:IL | oa_32193:jerusalem airport helipad:<NA>:<NA>:IL,1,True
+g5583,3,False,,False,,False,,13096.51,True,oa_86122:fuyuan dongji airport:ZYFY:FYJ:CN | kg_6271:fuyuan:<NA>:FYJ:CN | wd_16872:fuyuan dongji airport:ZYFY:FYJ:CN,1,True
+g5582,3,False,,False,,False,,12676.13,True,oa_86146:yingkou lanqi airport:ZYYK:YKH:CN | kg_6262:yingkou:<NA>:YKH:CN | wd_4966:yingkou lanqi airport:ZYYK:YKH:CN,1,True
+g5580,2,False,,False,,False,,12497.84,True,kg_4584:false island:<NA>:FAK:US | oa_3283:false island seaplane base:<NA>:FAK:US,1,True
+g5579,2,False,,False,,False,,12563.14,True,kg_422:port alexander:<NA>:PTD:US | oa_52749:port alexander seaplane base:PAAP:PTD:US,1,True
+g5575,3,False,,False,,False,,42.53,True,wd_17088:livermore municipal airport:KLVK:LVK:US | kg_5824:livermore municipal:KLVK:LVK:US | oa_40623:livermore municipal airport:KLVK:LVK:US,1,True
+g5574,2,False,,False,,False,,12589.38,True,kg_6009:century city:<NA>:CCD:US | oa_8036:century city heliport:<NA>:CCD:US,1,True
+g5571,3,True,Kaggle,False,,False,,0.47,False,oa_80568:ust tsylma airport:UUYX:UTS:RU | kg_6218:ust tsilma:УУЫЬ:UTS:RU | wd_17177:ust tsylma airport:UUYX:UTS:RU,1,True
+g5569,3,False,,False,,False,,22.8,True,wd_714:attopeu:VLAP:AOU:LA | oa_81705:attopeu airport:VLAP:AOU:LA | kg_2018:attopeu:<NA>:AOU:LA,1,True
+g5568,3,False,,False,,False,,20.58,True,wd_1139:oksibil airport:WAJO:OKL:ID | kg_5270:oksibil:<NA>:OKL:ID | oa_82325:oksibil airport:WAJO:OKL:ID,1,True
+g5567,3,False,,False,,False,,42.98,True,kg_1071:niigata:RJSN:KIJ:JP | oa_55046:niigata airport:RJSN:KIJ:JP | wd_1032:niigata airport:RJSN:KIJ:JP,1,True
+g5565,2,False,,False,,False,,8244.35,True,oa_61771:recreo airport:<NA>:ELJ:CO | kg_694:recreo:<NA>:ELJ:CO,1,True
+g5811,3,False,,False,,False,,9555.88,True,oa_7306:buzzards roost airport:<NA>:<NA>:US | kg_1971:buzzards point s:<NA>:BZS:US | wd_17886:buzzards roost airport:<NA>:<NA>:US,1,True
+g1047,3,True,Kaggle,False,,False,,0.11,False,oa_82649:sultan thaha airport:WIJJ:DJB:ID | wd_3243:sultan thaha airport:WIJJ:DJB:ID | kg_680:sultan thaha:WIPA:DJB:ID,1,True
+g4644,3,False,,False,,True,Kaggle,1.17,False,kg_1610:hassan i airport:GMML:EUN:MA | oa_30357:laayoune hassan i international airport:GMML:EUN:EH | wd_2372:hassan i airport:GMML:EUN:EH,1,True
+g4810,3,False,,True,Kaggle,False,,1.15,False,kg_5655:lille:<NA>:XDB:FR | wd_2486:lille airport:LFQQ:LIL:FR | oa_44195:lille airport:LFQQ:LIL:FR,1,True
+g1823,2,False,,False,,True,ambiguous,0.09,False,oa_23652:arnsberg menden airfield:<NA>:<NA>:DE | kg_2752:arnsberg menden:EDLA:ZCA:CN,1,True
+g21310,2,True,ambiguous,False,,False,,0.28,False,wd_3209:pithorgarh airport:VIDF:NNS:IN | oa_81667:pithoragarh airport:VIPG:<NA>:IN,1,True
+g21317,2,False,,False,,False,,42.56,True,wd_5700:chehalis centralia airport:KCLS:CLS:US | oa_39151:chehalis centralia airport:KCLS:CLS:US,1,True
+g2147,3,False,,False,,True,Kaggle,0.03,False,oa_30355:dakhla airport:GMMH:VIL:EH | kg_1741:dakhla airport:GMMH:VIL:MA | wd_2356:dakhla airport:GMMH:VIL:EH,1,True
+g21521,2,True,ambiguous,False,,False,,0.03,False,wd_1199:apruna airport:SVCE:<NA>:VE | oa_64347:cuenca unare airport:SVUR:<NA>:VE,1,True
+g2155,3,False,,True,Kaggle,False,,0.12,False,wd_15806:mount cook aerodrome:NZMC:MON:NZ | kg_2718:glentanner:NZMC:GTN:NZ | oa_51535:mount cook airport:NZMC:MON:NZ,1,True
+g2177,3,False,,False,,True,Kaggle,1.17,False,wd_7353:sevastopol international airport:UKFB:UKS:UA | oa_67105:sevastopol international airport belbek air base:UKFB:UKS:UA | kg_556:belbek sevastopol international airport:UKFB:UKS:RU,1,True
+g21779,2,True,ambiguous,False,,False,,0.4,False,oa_85060:william creek aerodrome:YWMC:<NA>:AU | wd_24282:william creek airport:YYWC:<NA>:AU,1,True
+g21827,2,False,,False,,False,,45.3,True,wd_21813:melalan airport:WALE:GHS:ID | oa_82338:melalan airport:WALE:GHS:ID,1,True
+g21830,2,True,ambiguous,False,,False,,0.0,False,wd_17493:rangeilunda airport:VEBM:<NA>:IN | oa_81493:berhampur rangeilunda airport:VEBP:<NA>:IN,1,True
+g2185,3,False,,True,Kaggle,False,,0.03,False,kg_1574:congo town airport:MYAK:COX:BS | oa_49688:congo town airport:MYAK:TZN:BS | wd_3588:south andros airport:MYAK:TZN:BS,1,True
+g22012,2,False,,False,,True,ambiguous,0.16,False,oa_8634:scobey border station east poplar international airport:<NA>:<NA>:US | wd_3667:coronach scobey border station airport:<NA>:<NA>:CA,1,True
+g22097,2,True,ambiguous,False,,False,,0.2,False,oa_26049:cape winelands airport:FAWN:<NA>:ZA | wd_20704:fisantekraal airfield:FAFK:<NA>:ZA,1,True
+g22144,2,True,ambiguous,False,,False,,0.05,False,oa_64555:luepa airport:SVLP:<NA>:VE | wd_1533:luepa airstrip:SVPP:<NA>:VE,1,True
+g22162,2,False,,False,,True,ambiguous,0.19,False,wd_5655:kourou arkenne:Z23L:<NA>:LY | oa_50256:kourou arkenne airfield:<NA>:<NA>:NE,1,True
+g22241,2,False,,True,ambiguous,False,,0.01,False,oa_31258:chato geita airport:HTGE:GTC:TZ | wd_10730:geita airport:HTGE:GIT:TZ,1,True
+g21119,2,False,,False,,False,,33.78,True,wd_7130:lago huachi airport:SLLH:<NA>:BO | oa_62227:lago huachi airport:<NA>:<NA>:BO,1,True
+g21001,2,False,,False,,False,,25.8,True,oa_55620:cesar lim rodriguez taytay sandoval airport:RPSD:RZP:PH | wd_23948:taytay airport:RPSD:RZP:PH,1,True
+g20868,2,False,,False,,False,,22.35,True,wd_2009:nagoya airfield:RJNA:NKM:JP | oa_36400:nagoya airfield:<NA>:<NA>:JP,1,True
+g1919,3,True,Wikidata,False,,False,,0.21,False,kg_699:pingtung south:RCDC:PIF:TW | wd_22504:pingtung airport:RCSQ:PIF:TW | oa_54890:pingtung air force base:RCDC:<NA>:TW,1,True
+g1840,3,False,,True,Kaggle,False,,0.15,False,oa_55606:sanga sanga airport:RPMN:TWT:PH | kg_1954:sanga sanga airport:RPMN:SGS:PH | wd_1990:sanga sanga airport:RPMN:TWT:PH,1,True
+g1842,3,False,,False,,True,Wikidata,0.16,False,wd_6610:norfolk island airport:YSNF:NLK:AU | oa_84836:norfolk island international airport:YSNF:NLK:NF | kg_5021:norfolk island international:YSNF:NLK:NF,1,True
+g18514,2,False,,False,,False,,26.26,True,oa_57820:avellano airport:<NA>:FRT:CL | wd_5743:avellano airport:SCEV:<NA>:CL,1,True
+g18713,2,False,,False,,True,ambiguous,0.0,False,wd_17475:battlefield airport:<NA>:<NA>:US | oa_85394:battlefields airport:<NA>:<NA>:ZA,1,True
+g18735,2,True,ambiguous,False,,False,,0.0,False,wd_24629:rokot airport:WIBR:RKI:ID | oa_31918:mentawai airport:WIEB:RKI:ID,1,True
+g18806,2,True,ambiguous,False,,False,,0.02,False,wd_21242:razzaqov airport:UAFI:<NA>:KG | oa_66800:razzakov airport:UCFR:<NA>:KG,1,True
+g19274,2,False,,False,,False,,22.46,True,oa_26132:kindamba airport:FCBK:KNJ:CG | wd_21522:kindamba airport:FCBK:KNJ:CG,1,True
+g2054,3,True,OurAirports,False,,False,,0.22,False,wd_6787:lede kalumbang airport:WADT:TMC:ID | oa_82285:tambolaka airport:WATK:TMC:ID | kg_4507:tambolaka airport:WADT:TMC:ID,1,True
+g20004,2,True,ambiguous,False,,False,,0.3,False,wd_2097:barreirinhas airport:SBRR:BRB:BR | oa_57606:barreirinhas national airport:SSRS:BRB:BR,1,True
+g20077,2,False,,False,,False,,20.5,True,wd_984:xai xai chongoene airport:FQXA:VJB:MZ | oa_26776:xai xai chongoene airport:FQXA:VJB:MZ,1,True
+g20251,2,True,ambiguous,False,,False,,0.28,False,wd_22788:wirasaba airport:WICP:PWL:ID | oa_82314:jenderal besar soedirman airport:WAHP:PWL:ID,1,True
+g20259,2,True,ambiguous,False,,False,,0.14,False,oa_24968:tomaszow mazowiecki military air base:EPTM:<NA>:PL | wd_673:lotnisko tomaszow mazowiecki:EP63:<NA>:PL,1,True
+g2035,3,True,OurAirports,False,,False,,0.0,False,wd_457:juba international airport:HSSJ:JUB:SS | kg_4156:juba:HSSJ:JUB:SS | oa_30824:juba international airport:HJJJ:JUB:SS,1,True
+g2043,3,True,Kaggle,False,,False,,0.02,False,kg_822:osh:UAFO:OSS:KG | wd_6189:osh airport:UCFO:OSS:KG | oa_66802:osh international airport:UCFO:OSS:KG,1,True
+g2231,3,True,Kaggle,False,,False,,0.0,False,wd_117:khartoum international airport:HSSK:KRT:SD | oa_31221:khartoum international airport:HSSK:KRT:SD | kg_4440:khartoum:HSSS:KRT:SD,1,True
+g22329,2,False,,False,,True,ambiguous,0.18,False,wd_17231:31st air base:<NA>:<NA>:DE | oa_24914:krzesiny military air base:<NA>:<NA>:PL,1,True
+g22392,2,False,,False,,False,,47.76,True,oa_62335:bakhuys airstrip:<NA>:<NA>:SR | wd_7202:bakhuys airstrip:SMBG:<NA>:SR,1,True
+g23427,2,False,,False,,False,,21.68,True,oa_12136:erume airport:AYER:ERU:PG | wd_10365:erume:<NA>:ERU:PG,1,True
+g23346,2,False,,False,,False,,104.46,True,oa_62156:buena hora airport:<NA>:<NA>:BO | wd_3877:buena hora airport:SLBH:<NA>:BO,1,True
+g23347,2,False,,False,,False,,29.48,True,wd_13196:prairie ronde airport:<NA>:<NA>:US | oa_80224:larry d boven airport:<NA>:<NA>:US,1,True
+g23392,2,False,,False,,False,,45.77,True,wd_15208:yalumet:<NA>:KYX:PG | oa_12471:yalumet airport:AYYE:KYX:PG,1,True
+g23404,2,True,ambiguous,False,,False,,0.01,False,wd_15301:robert atty bessing airport:WRLM:LNU:ID | oa_82396:robert atty bessing:WAQM:LNU:ID,1,True
+g23409,2,True,ambiguous,False,,False,,0.03,False,oa_38630:albertville regional airport thomas j brumlik field:KBFZ:<NA>:US | wd_5690:albertville regional airport:K8A0:<NA>:US,1,True
+g23412,2,False,,False,,False,,61.84,True,oa_82317:dabra airport:WAJC:DRH:ID | wd_3425:dabra airport:WAJC:DRH:ID,1,True
+g23433,2,False,,False,,True,ambiguous,0.5,False,wd_24659:frunze international airport:<NA>:<NA>:SU | oa_39990:frunze airport:<NA>:<NA>:KG,1,True
+g23338,2,False,,False,,False,,23.83,True,oa_85719:shuozhou zirun airport:ZBSG:SZH:CN | wd_1087:shuozhou zirun airport:ZBSG:SZH:CN,1,True
+g23446,2,False,,False,,False,,118.99,True,oa_19300:monaco airport:<NA>:<NA>:CL | wd_4891:monaco aerodrome:SCMN:<NA>:CL,1,True
+g23454,2,False,,False,,False,,74.95,True,wd_10124:dodoima:<NA>:DDM:PG | oa_21960:dodoima airport:<NA>:DDM:PG,1,True
+g23459,2,False,,False,,False,,45.12,True,wd_9445:biaru:<NA>:BRP:PG | oa_12095:biaru airport:AYBR:BRP:PG,1,True
+g23461,2,False,,False,,False,,56.98,True,wd_721:barentu:HHBA:<NA>:ER | oa_30786:barentu airport:HHBA:<NA>:ER,1,True
+g23463,2,False,,False,,False,,93.52,True,wd_6336:maikwak:<NA>:<NA>:GY | oa_65207:maikwak airport:SYMK:VEG:GY,1,True
+g23464,2,False,,False,,False,,51.63,True,wd_22559:oum hadjer airport:<NA>:OUM:TD | oa_52572:oum hadjer airport:<NA>:OUM:TD,1,True
+g23341,2,False,,False,,False,,1922.14,True,oa_63855:fazenda fortaleza guapore airport:<NA>:<NA>:BR | wd_5398:dom pedrito airport:SSDP:<NA>:BR,1,True
+g23322,2,False,,False,,False,,40.74,True,oa_57831:russfin airport:<NA>:<NA>:CL | wd_4237:russfin airport:SCFN:<NA>:CL,1,True
+g22412,2,False,,False,,True,ambiguous,0.35,False,oa_7780:ross international airport:<NA>:<NA>:US | wd_3656:coutts ross airport:<NA>:<NA>:CA,1,True
+g22964,2,False,,False,,False,,20.39,True,wd_930:ruinas copan airport:MHRU:RUY:HN | oa_45986:rioamarillo airport:<NA>:RUY:HN,1,True
+g22422,2,False,,False,,True,ambiguous,0.0,False,oa_83209:yongxing dao woody island air base:<NA>:<NA>:XP | wd_193:yongxing island airport:ZJYX:<NA>:CN,1,True
+g22473,2,True,ambiguous,False,,False,,0.38,False,wd_672:krepa airport:EPSR:<NA>:PL | oa_24961:slupsk krepa airfield:EPSK:<NA>:PL,1,True
+g226,3,True,Kaggle,False,,False,,0.02,False,oa_63350:jorge chavez international airport:SPJC:LIM:PE | wd_559:jorge chavez international airport:SPJC:LIM:PE | kg_4657:jorge chavez international:SPIM:LIM:PE,1,True
+g22855,2,False,,False,,False,,20.73,True,wd_9977:dadu airport:OPZM:DDU:PK | oa_54018:dadu airport:<NA>:<NA>:PK,1,True
+g2289,3,True,Kaggle,False,,False,,0.01,False,oa_52893:point hope airport:PAPO:PHO:US | kg_2103:point hope airport:PPHO:PHO:US | wd_17093:point hope airport:PAPO:PHO:US,1,True
+g22960,2,False,,False,,False,,25.48,True,wd_17416:argyle downs airport:<NA>:<NA>:AU | oa_9923:argyle downs airport:<NA>:<NA>:AU,1,True
+g2300,3,True,ambiguous,False,,False,,0.02,False,kg_3289:borrego valley airport:KBXS:BXS:US | wd_15471:borrego valley airport:KL08:BXS:US | oa_40493:borrego valley airport:<NA>:BXS:US,1,True
+g23234,2,False,,True,ambiguous,False,,1.11,False,oa_32753:iokea airport:<NA>:IOK:PG | wd_11344:iboki:<NA>:IBI:PG,1,True
+g23029,2,False,,False,,False,,55.31,True,oa_2613:parrett mountain airport:<NA>:<NA>:US | wd_349:parrett mountain airport:<NA>:<NA>:US,1,True
+g23077,2,True,ambiguous,False,,False,,0.13,False,oa_57602:maestro marinho franco airport:SBRD:ROO:BR | wd_15308:rondonopolis airport:SWRD:ROO:BR,1,True
+g23078,2,False,,False,,False,,62.23,True,oa_28519:ingende airport:FZEI:<NA>:CD | wd_1434:ingende airport:FZEI:<NA>:CD,1,True
+g23125,2,False,,False,,False,,24.7,True,oa_26050:willowmore airport:FAWO:<NA>:ZA | wd_7577:willowmore north:FAWO:<NA>:ZA,1,True
+g23188,2,False,,False,,False,,36.17,True,oa_19250:bryant airport:<NA>:<NA>:CA | wd_16463:estevan bryant airport:CKS6:<NA>:CA,1,True
+g23225,2,False,,True,ambiguous,False,,2.6,False,oa_52633:yaviza airport:<NA>:PYV:PA | wd_775:real santa maria airport:<NA>:ELE:PA,1,True
+g18365,2,False,,False,,True,ambiguous,0.32,False,oa_24425:tarfaya airport:<NA>:<NA>:EH | wd_624:tarfaya airport:<NA>:TFY:MA,1,True
+g18127,2,True,ambiguous,False,,False,,0.07,False,wd_17301:alas leuser airport:WILD:LSR:ID | oa_82637:alas leuser airport:WIMU:LSR:ID,1,True
+g23503,2,False,,False,,False,,25.14,True,oa_53161:kurwina airport:<NA>:<NA>:PG | wd_11734:kurwina airport:<NA>:KWV:PG,1,True
+g18053,2,False,,False,,False,,25.23,True,oa_64707:lucas rio verde airport:<NA>:<NA>:BR | wd_2099:lucas rio verde airport:SILC:LVR:BR,1,True
+g13735,2,True,ambiguous,False,,False,,0.48,False,oa_82817:sangkimah airport:WALA:SGQ:ID | wd_1142:sangkimah airport:WRLA:SGQ:ID,1,True
+g13756,2,False,,False,,False,,35.88,True,oa_28554:dungu uye airport:FZJC:<NA>:CD | wd_4399:dungu uye airport:FZJC:<NA>:CD,1,True
+g13764,2,False,,False,,False,,32.06,True,wd_4318:tres cruces airport:SLTC:<NA>:BO | oa_62293:tres cruces airport:<NA>:<NA>:BO,1,True
+g13810,2,True,ambiguous,False,,False,,0.61,False,oa_82666:lasikin airport:WIML:LKI:ID | wd_21720:lasikin airport:WITG:LKI:ID,1,True
+g14082,2,True,ambiguous,False,,False,,0.53,False,wd_5780:jamba airport:FNJA:JMB:AO | oa_34205:jamba airport:FNJM:JMB:AO,1,True
+g14140,2,True,ambiguous,False,,False,,0.16,False,wd_24628:muara bungo airport:WIPI:BUU:ID | oa_82653:muara bungo airport:WIJB:BUU:ID,1,True
+g14149,2,True,ambiguous,False,,False,,0.0,False,oa_84263:lyndhurst airport:YLHS:LTP:AU | wd_5823:lyndhurst airport:YLYH:<NA>:AU,1,True
+g1439,3,True,Kaggle,False,,False,,0.09,False,kg_3990:coffs harbour:YSCH:CFS:AU | oa_83647:coffs harbour airport:YCFS:CFS:AU | wd_4639:coffs harbour airport:YCFS:CFS:AU,1,True
+g1448,3,True,Kaggle,False,,False,,0.09,False,oa_80890:belagavi airport:VOBM:IXG:IN | wd_3746:belagavi airport:VOBM:IXG:IN | kg_1510:belgaum:VABM:IXG:IN,1,True
+g1455,3,True,Kaggle,False,,False,,0.04,False,oa_82407:adisutjipto international airport:WAHH:JOG:ID | wd_2269:adisucipto airport:WAHH:JOG:ID | kg_2250:adi sutjipto:WARJ:JOG:ID,1,True
+g1477,2,True,ambiguous,False,,False,,0.01,False,kg_4910:giebelstadt army air field:ETEU:GHF:DE | oa_23776:giebelstadt airport:EDQG:GHF:DE,1,True
+g14862,2,False,,False,,True,ambiguous,0.18,False,wd_6279:medouneu airport:<NA>:MDV:GA | oa_45728:medouneu airport:<NA>:MDV:GQ,1,True
+g1534,3,False,,False,,True,Kaggle,0.92,False,oa_67136:kherson international airport:UKOH:KHE:UA | wd_17196:kherson international airport:UKOH:KHE:UA | kg_2674:kherson:UKOH:KHE:RU,1,True
+g15894,2,True,ambiguous,False,,False,,0.32,False,wd_6365:werur airport:WAJY:WRR:ID | oa_82327:werur airport:WAUE:<NA>:ID,1,True
+g15963,2,True,ambiguous,False,,False,,0.0,False,wd_6551:neyveli airport:VONY:<NA>:IN | oa_81871:neyveli airport:VONV:NVY:IN,1,True
+g13712,2,True,ambiguous,False,,False,,0.02,False,oa_84928:tom price airport:YTMP:TPR:AU | wd_22018:tom price airport:YTOM:TPR:AU,1,True
+g13666,2,True,ambiguous,False,,False,,3.54,False,wd_1290:chocha airport:FLCO:<NA>:ZM | oa_26507:chocha airport:FLCC:<NA>:ZM,1,True
+g13612,2,True,ambiguous,False,,False,,0.01,False,oa_39995:kerben airport:UAFE:<NA>:KG | wd_21495:kerben airport:UCFV:<NA>:KG,1,True
+g12096,2,True,ambiguous,False,,False,,0.31,False,oa_26315:annobon airport:FGAN:NBN:GQ | wd_20955:annobon airport:FGAB:NBN:GQ,1,True
+g1048,2,True,ambiguous,False,,False,,0.12,False,oa_84611:orchid beach airport:YORC:OKB:AU | kg_662:orchid beach:KOKB:OKB:AU,1,True
+g1049,3,True,ambiguous,False,,False,,0.22,False,oa_82669:maimun saleh airport:WITN:SBG:ID | wd_22258:maimun saleh airport:WIAB:SBG:ID | kg_2660:maimun saleh:WITB:SBG:ID,1,True
+g1069,3,True,Kaggle,False,,False,,0.36,False,kg_445:forquilhinha:SBCM:CCM:BR | oa_57465:forquilhinha criciuma airport:SSIM:CCM:BR | wd_24786:diomicio freitas airport:SSIM:CCM:BR,1,True
+g1086,3,True,OurAirports,False,,False,,0.41,False,oa_82820:nunukan airport:WAQA:NNX:ID | kg_2931:nunukan airport:WRLF:NNX:ID | wd_7451:nunukan airport:WRLF:NNX:ID,1,True
+g11959,2,True,ambiguous,False,,False,,0.48,False,wd_21026:aguacate airport:MHCA:CAA:HN | oa_45928:aguacate airport:MHGE:CAA:HN,1,True
+g1204,3,True,Kaggle,False,,False,,1.07,False,oa_52206:kuwait international airport:OKKK:KWI:KW | kg_5682:kuwait international:OKBK:KWI:KW | wd_20460:kuwait international airport:OKKK:KWI:KW,1,True
+g1213,3,True,Kaggle,False,,False,,0.33,False,kg_4857:hazrat shahjalal:VGZR:DAC:BD | oa_81614:hazrat shahjalal international airport:VGHS:DAC:BD | wd_7475:hazrat shahjalal international airport:VGHS:DAC:BD,1,True
+g1357,2,True,ambiguous,False,,False,,0.0,False,kg_3123:dix sept rosado airport:SBMW:MVF:BR | oa_57535:dix sept rosado airport:SBMS:MVF:BR,1,True
+g12264,2,True,ambiguous,False,,False,,0.03,False,wd_21271:jalal abad airport:UAFJ:<NA>:KG | oa_39982:jalal abad airport:UCFD:<NA>:KG,1,True
+g1277,2,True,ambiguous,False,,False,,0.01,False,oa_82644:ranai airport:WIDO:NTX:ID | kg_5275:ranai airport:WION:NTX:ID,1,True
+g12862,2,True,ambiguous,False,,False,,1.76,False,oa_81665:kanpur airport:VECX:KNU:IN | wd_21437:kanpur airport:VIKA:KNU:IN,1,True
+g12951,2,True,ambiguous,False,,False,,0.01,False,wd_22400:naryn airport:UAFN:<NA>:KG | oa_39983:naryn airport:UCFN:<NA>:KG,1,True
+g1355,3,False,,True,Kaggle,False,,0.01,False,wd_24415:new bight airport:MYCB:TBI:BS | kg_1120:new bight airport:MYCB:CAT:BS | oa_49701:new bight airport:MYCB:TBI:BS,1,True
+g13566,2,True,ambiguous,False,,False,,0.01,False,oa_66803:karakol international airport:UCFK:IKG:KG | wd_21445:karakol international airport:UAFP:<NA>:KG,1,True
+g1598,3,True,Kaggle,False,,False,,0.79,False,oa_67180:cherepovets airport:ULWC:CEE:RU | kg_499:cherepovets airport:ULBC:CEE:RU | wd_1950:cherepovets airport:ULWC:CEE:RU,1,True
+g1599,3,True,Kaggle,False,,False,,0.76,False,kg_4409:logrono agoncillo airport:LELO:RJL:ES | oa_43736:logrono agoncillo airport:LERJ:RJL:ES | wd_22346:logrono agoncillo airport:LERJ:RJL:ES,1,True
+g16207,2,True,ambiguous,False,,False,,0.03,False,wd_4013:torch cay airport:MYEY:TCV:BS | oa_49716:torch cay airport:MYTC:<NA>:BS,1,True
+g1782,3,False,,False,,True,Wikidata,0.07,False,kg_3730:mauke airport:NCMK:MUK:CK | wd_22314:mauke airport:NCMK:MUK:NZ | oa_50183:mauke airport:NCMK:MUK:CK,1,True
+g17490,2,True,ambiguous,False,,False,,0.01,False,oa_64524:santa barbara monagas airport:SVSM:<NA>:VE | wd_5394:santa barbara monagas airport:SVOF:<NA>:VE,1,True
+g17560,2,True,ambiguous,False,,False,,0.01,False,oa_80504:karshi airport:UZSK:KSQ:UZ | wd_3069:karshi airport:UTSK:KSQ:UZ,1,True
+g17682,2,True,ambiguous,False,,False,,0.89,False,oa_31911:departi parbo airport:WIJI:KRC:ID | wd_20451:depati parbo airport:WIPH:KRC:ID,1,True
+g177,3,False,,False,,False,,44.48,True,kg_5191:leigh creek:<NA>:LGH:AU | oa_84245:leigh creek airport:YLEC:LGH:AU | wd_2633:leigh creek airport:YLEC:LGH:AU,1,True
+g1780,2,True,ambiguous,False,,False,,0.02,False,kg_6167:sugraly airport:UTSN:AFS:UZ | oa_80507:sugraly airport:UZSN:AFS:UZ,1,True
+g17801,2,False,,False,,False,,31.15,True,wd_1141:reggane airport:DAAN:<NA>:DZ | oa_23216:reggane airport:<NA>:<NA>:DZ,1,True
+g17839,2,False,,False,,False,,35.4,True,wd_9253:tonj airport:HSTO:<NA>:SS | oa_31225:tonj airport:HSTO:<NA>:SS,1,True
+g17367,2,False,,False,,False,,20.4,True,wd_1535:luis eduardo magalhaes airport:SSQZ:<NA>:BR | oa_14835:luis eduardo magalhaes airport:<NA>:<NA>:BR,1,True
+g17889,2,False,,False,,False,,29.25,True,oa_7712:morin airport:<NA>:<NA>:US | wd_12503:morin airport:<NA>:<NA>:US,1,True
+g17899,2,False,,False,,False,,32.77,True,oa_4153:mountain hide away airport:<NA>:<NA>:US | wd_19227:mountain hide away airport:<NA>:<NA>:US,1,True
+g17906,2,True,ambiguous,False,,False,,0.05,False,oa_66784:batken airport:UCFB:<NA>:KG | wd_17471:batken airport:UAFB:<NA>:KG,1,True
+g17954,2,True,ambiguous,False,,False,,0.0,False,wd_5825:wilpena pound airport:YWPD:<NA>:AU | oa_84037:wilpena pound airport:YHAW:HWK:AU,1,True
+g17978,2,True,ambiguous,False,,False,,0.09,False,wd_369:jurien bay airport:YJNB:JUR:AU | oa_84137:jurien bay airport:YJUR:JUR:AU,1,True
+g1804,3,True,Wikidata,False,,False,,0.01,False,wd_21803:mbambanakira airport:AGGD:MBU:SB | kg_6146:babanakira airport:AGGI:MBU:SB | oa_9896:babanakira airport:AGGI:MBU:SB,1,True
+g17435,2,True,ambiguous,False,,False,,0.26,False,wd_6742:puerto paez airport:HTTP://WWW.WIKIDATA.ORG/.WELL-KNOWN/GENID/AE46848F58906AB4EE501EEF3DADF4B6:PPZ:VE | oa_64379:puerto paez airport:SVPP:PPZ:VE,1,True
+g1735,3,True,Kaggle,False,,False,,0.0,False,oa_21235:poplar hill airport:CYHP:YHP:CA | kg_2112:poplar hill airport:CPV7:YHP:CA | wd_16284:poplar hill airport:CYHP:YHP:CA,1,True
+g16417,2,False,,False,,True,ambiguous,0.01,False,oa_45314:skrunda airfield:<NA>:<NA>:LV | wd_2118:skrunda airfield:<NA>:<NA>:SU,1,True
+g17057,2,True,ambiguous,False,,False,,12.17,False,wd_15987:buli airport:WAME:PGQ:ID | oa_82351:buli airport:WAEM:PGQ:ID,1,True
+g1659,3,True,Kaggle,False,,False,,0.22,False,oa_59388:nueva loja airport:SENL:LGQ:EC | wd_9273:lago agrio airport:SENL:LGQ:EC | kg_2268:nueva loja airport:SELA:LGQ:EC,1,True
+g16665,2,True,ambiguous,False,,False,,0.0,False,oa_26121:thebephatshwa airport:FBPT:<NA>:BW | wd_1809:thebephatshwa airport:FBTP:<NA>:BW,1,True
+g16734,2,False,,False,,False,,36.07,True,wd_3111:bolongonkele airport:FZBP:<NA>:CD | oa_28471:bolongonkele airport:<NA>:<NA>:CD,1,True
+g1678,3,True,OurAirports,False,,False,,0.03,False,oa_57509:ji parana airport:SBJI:JPR:BR | wd_5443:ji parana airport:SWJI:JPR:BR | kg_102:ji parana airport:SWJI:JPR:BR,1,True
+g16821,2,True,ambiguous,False,,False,,0.32,False,wd_22427:ngloram airport:WRSC:CPF:ID | oa_82404:ngloram airport:WARC:CPF:ID,1,True
+g1694,3,False,,False,,True,Wikidata,0.04,False,kg_1430:mitiaro island airport:NCMR:MOI:CK | oa_50185:mitiaro island airport:NCMR:MOI:CK | wd_22356:mitiaro airport:NCMR:MOI:NZ,1,True
+g17076,2,True,ambiguous,False,,False,,0.65,False,wd_17028:tampa padang airport:WAWJ:MJU:ID | oa_82297:tampa padang airport:WAFJ:MJU:ID,1,True
+g17332,2,True,ambiguous,False,,False,,0.37,False,oa_82825:long apung airport:WAQL:LPU:ID | wd_1948:long apung airport:WRLP:LPU:ID,1,True
+g17090,2,True,ambiguous,False,,False,,1.03,False,wd_1350:jabillal airport:SVEJ:<NA>:VE | oa_64385:jabillal airport:SVQL:<NA>:VE,1,True
+g17093,2,False,,False,,False,,22.46,True,oa_26681:damba airport:FNDB:<NA>:AO | wd_3092:damba airport:FNDB:<NA>:AO,1,True
+g1714,3,True,Kaggle,False,,False,,0.04,False,oa_21264:ogoki post airport:CYKP:YOG:CA | kg_310:ogoki post airport:CNT3:YOG:CA | wd_7199:ogoki post airport:CYKP:YOG:CA,1,True
+g17174,2,True,ambiguous,False,,False,,0.12,False,wd_1295:ciudad piar airport:SVDW:<NA>:VE | oa_64377:ciudad piar airport:SVPI:<NA>:VE,1,True
+g17175,2,False,,False,,False,,38.79,True,oa_28671:mwene ditu airport:FZWE:<NA>:CD | wd_1627:mwene ditu airport:FZWE:<NA>:CD,1,True
+g17199,2,True,ambiguous,False,,False,,0.02,False,wd_5345:sabaneta airport:SVOE:<NA>:VE | oa_64523:sabaneta airport:SVSN:<NA>:VE,1,True
+g23466,2,False,,False,,False,,37.43,True,wd_14351:tagula:<NA>:TGL:PG | oa_12387:tagula airport:AYTG:TGL:PG,1,True
+g23508,2,False,,False,,False,,34.43,True,oa_53145:boku airport:<NA>:<NA>:PG | wd_9500:boku airport:<NA>:BOQ:PG,1,True
+g4805,3,True,OurAirports,False,,False,,0.37,False,wd_22492:eugene f correia international airport:SYGO:OGL:GY | kg_3826:ogle:SYGO:OGL:GY | oa_65188:eugene f correia international airport:SYEC:OGL:GY,1,True
+g3707,3,True,Kaggle,False,,False,,0.13,False,kg_4599:tambo int airport:FAJS:JNB:ZA | oa_25946:tambo international airport:FAOR:JNB:ZA | wd_24454:tambo international airport:FAOR:JNB:ZA,1,True
+g3975,3,True,Kaggle,False,,False,,0.27,False,wd_2565:mutiara sis jufri international airport:WAFF:PLW:ID | kg_5105:mutiara:WAML:PLW:ID | oa_82296:mutiara sis jufrie airport:WAFF:PLW:ID,1,True
+g3979,3,True,Kaggle,False,,False,,0.39,False,wd_6026:bauru arealva airport:SBAE:JTC:BR | oa_57435:bauru arealva moussa nakhal tobias state airport:SBAE:JTC:BR | kg_1953:bauru arealva:SJTC:JTC:BR,1,True
+g3995,3,True,Kaggle,False,,False,,0.12,False,oa_42802:grant county airport:KSVC:SVC:US | kg_5671:grant county airport:SVC:SVC:US | wd_16220:grant county airport:KSVC:SVC:US,1,True
+g4058,3,True,ambiguous,False,,False,,0.83,False,wd_4701:snake bay aerodrome:YSNB:SNB:AU | oa_84834:snake bay airport:YSNK:SNB:AU | kg_4900:snake bay:<NA>:SNB:AU,1,True
+g4072,3,False,,False,,True,Kaggle,0.03,False,oa_42861:taunton municipal king field:<NA>:<NA>:US | wd_23943:taunton municipal airport:KTAN:TAN:US | kg_2976:taunton municipal airport king field:KTAN:TAN:AU,1,True
+g4075,3,False,,False,,True,Kaggle,0.02,False,oa_40375:hillsboro municipal airport:<NA>:<NA>:US | kg_3001:hillsboro municipal:KINJ:INJ:AU | wd_7814:hillsboro municipal airport:KINJ:<NA>:US,1,True
+g4095,3,True,Kaggle,False,,False,,0.14,False,wd_6422:tobruk airport:HLTQ:TOB:LY | kg_4090:gamal abdel nasser airport:HLGN:TOB:LY | oa_31079:tobruk international airport:HLTQ:TOB:LY,1,True
+g4121,3,True,OurAirports,False,,False,,0.07,False,kg_6200:sulaymaniyah international airport:ORSU:ISU:IQ | oa_52539:jalal talabani international airport:ORSJ:ISU:IQ | wd_7673:sulaimaniyah international airport:ORSU:ISU:IQ,1,True
+g4159,3,True,ambiguous,False,,False,,1.67,False,wd_20590:enarotali airport:WABT:EWI:ID | kg_3235:enarotali:<NA>:EWI:ID | oa_82276:enarotali airport:WAYE:EWI:ID,1,True
+g4172,3,False,,False,,True,Kaggle,0.02,False,oa_42687:williamson sodus airport:<NA>:<NA>:US | wd_24289:williamson sodus airport:KSDC:SDC:US | kg_441:williamson sodus airport:KSDC:SDC:GY,1,True
+g4183,3,True,OurAirports,False,,False,,0.0,False,oa_82628:malikus saleh airport:WIMA:LSW:ID | wd_1554:malikus saleh airport:WITM:LSW:ID | kg_2447:malikus saleh airport:WITM:LSW:ID,1,True
+g4185,3,False,,False,,True,Kaggle,0.01,False,wd_15748:cambridge municipal airport:KCDI:<NA>:US | oa_39091:cambridge municipal airport:<NA>:<NA>:US | kg_3754:cambridge municipal airport:<NA>:CDI:BR,1,True
+g4187,3,False,,False,,True,Kaggle,0.05,False,kg_5044:south haven area regional airport:KLWA:LWA:PH | wd_14083:south haven area regional airport:KLWA:<NA>:US | oa_40628:south haven area regional airport:<NA>:<NA>:US,1,True
+g4190,3,False,,False,,True,Kaggle,0.02,False,kg_5703:burlington alamance regional airport:KBUY:BUY:AU | wd_15637:burlington alamance regional airport:KBUY:<NA>:US | oa_39016:burlington alamance regional airport:<NA>:<NA>:US,1,True
+g4192,3,False,,False,,True,Kaggle,0.04,False,oa_39359:yolo county davis woodland winters airport:<NA>:<NA>:US | wd_357:yolo county airport:KDWA:<NA>:US | kg_1599:yolo county airport:KDWA:DWA:MW,1,True
+g3968,2,False,,True,ambiguous,False,,0.5,False,kg_5828:richmond:YSRI:RCM:AU | oa_84849:raaf base richmond:YSRI:XRH:AU,1,True
+g3959,3,True,Wikidata,False,,False,,2.07,False,wd_6434:hanimaadhoo airport:VRHU:HAQ:MV | kg_5567:hanimaadhoo airport:VRMH:HAQ:MV | oa_81903:hanimaadhoo international airport:VRMH:HAQ:MV,1,True
+g3949,3,True,Kaggle,False,,False,,0.0,False,wd_24520:tashkent international airport:UZTT:TAS:UZ | oa_80513:tashkent international airport:UZTT:TAS:UZ | kg_5756:yuzhny:UTTT:TAS:UZ,1,True
+g3862,3,True,Kaggle,False,,False,,0.04,False,kg_918:lusaka international:FLLS:LUN:ZM | wd_8041:kenneth kaunda international airport:FLKK:LUN:ZM | oa_26543:kenneth kaunda international airport:FLKK:LUN:ZM,1,True
+g3742,3,False,,True,Kaggle,False,,0.01,False,kg_3197:anglesey airport:EGOV:HLY:GB | oa_24316:anglesey airport:EGOV:VLY:GB | wd_20631:anglesey airport:EGOV:VLY:GB,1,True
+g3743,3,False,,False,,True,OurAirports,0.65,False,kg_5715:mariupol international airport:UKCM:MPW:RU | oa_67100:mariupol international airport:UKCM:MPW:UA | wd_21893:mariupol international airport:UKCM:MPW:RU,1,True
+g3751,2,False,,False,,True,ambiguous,0.0,False,oa_40257:hurlburt field:<NA>:<NA>:US | kg_4455:hurlburt field:KHRT:HRT:GB,1,True
+g3781,3,True,Kaggle,False,,False,,0.31,False,kg_4001:laughlin bullhead international:IFP:IFP:US | wd_15316:laughlin bullhead international airport:KIFP:IFP:US | oa_40354:laughlin bullhead international airport:KIFP:IFP:US,1,True
+g380,3,False,,False,,True,Kaggle,0.03,False,oa_67101:berdyansk airport:UKDB:ERD:UA | kg_3256:berdyansk:<NA>:ERD:RU | wd_21369:berdiansk airport:UKDB:ERD:UA,1,True
+g3830,3,False,,False,,True,OurAirports,0.11,False,wd_15328:kerch airport:UKFK:KHC:RU | oa_67109:kerch airport:UKFK:KHC:UA | kg_2040:kerch international:UKFK:KHC:RU,1,True
+g3879,3,True,Kaggle,False,,False,,0.01,False,wd_20752:fergana international airport:UZFF:FEG:UZ | kg_2846:fergana airport:UTKF:FEG:UZ | oa_80495:fergana international airport:UZFF:FEG:UZ,1,True
+g3936,3,True,Kaggle,False,,False,,0.33,False,oa_46568:tortuguero airport:MRBT:TTQ:CR | wd_22042:tortuguero airport:MRBT:TTQ:CR | kg_4955:aerotortuguero airport:MRAO:TTQ:CR,1,True
+g3880,3,False,,True,Kaggle,False,,0.02,False,wd_6504:utti airport:EFUT:UTI:FI | oa_24075:utti air base:EFUT:UTI:FI | kg_4328:utti:EFUT:QVY:FI,1,True
+g3900,3,True,Kaggle,False,,False,,0.0,False,oa_23184:enfidha hammamet international airport:DTNH:NBE:TN | kg_3571:enfidha zine abidine ben ali international airport:DTNZ:NBE:TN | wd_2376:enfidha hammamet international airport:DTNH:NBE:TN,1,True
+g3908,3,True,Kaggle,False,,False,,0.07,False,kg_5964:adi sumarmo wiryokusumo:WARQ:SOC:ID | oa_82409:adisoemarmo international airport:WAHQ:SOC:ID | wd_6752:adi soemarmo international airport:WAHQ:SOC:ID,1,True
+g3914,3,True,Kaggle,False,,False,,0.1,False,wd_24834:bukhara international airport:UZSB:BHK:UZ | kg_3393:bukhara:UTSB:BHK:UZ | oa_80502:bukhara international airport:UZSB:BHK:UZ,1,True
+g3930,3,True,Kaggle,False,,False,,0.25,False,oa_80509:samarkand international airport:UZSS:SKD:UZ | kg_2316:samarkand:UTSS:SKD:UZ | wd_24829:samarkand international airport:UZSS:SKD:UZ,1,True
+g3932,3,True,Kaggle,False,,False,,0.22,False,oa_80500:urgench international airport:UZNU:UGC:UZ | kg_3782:urgench airport:UTNU:UGC:UZ | wd_24824:urgench international airport:UZNU:UGC:UZ,1,True
+g4241,3,False,,True,Kaggle,False,,0.04,False,wd_4667:scottsdale airport:KSDL:SCF:US | oa_42689:scottsdale airport:KSDL:SCF:US | kg_4798:scottsdale airport:KSDL:ZSY:US,1,True
+g4285,3,True,Kaggle,False,,False,,1.4,False,kg_4269:sunshine coast:YBMC:MCY:AU | wd_24582:sunshine coast airport:YBSU:MCY:AU | oa_83557:sunshine coast airport:YBSU:MCY:AU,1,True
+g4295,2,True,ambiguous,False,,False,,0.0,False,oa_80505:karshi khanabad air base:UZSL:<NA>:UZ | kg_4066:karshi khanabad airport:UTSL:KSQ:UZ,1,True
+g4607,3,True,Kaggle,False,,False,,0.31,False,kg_5776:hubli airport:VAHB:HBX:IN | wd_7633:hubballi airport:VOHB:HBX:IN | oa_80897:hubballi airport:VOHB:HBX:IN,1,True
+g4565,2,False,,False,,False,,7821.06,True,kg_1484:cravo norte:<NA>:RAV:CO | oa_62034:cravo norte airport:SKCN:RAV:CO,1,True
+g4566,3,False,,False,,False,,14923.69,True,kg_3945:west wyalong:<NA>:WWY:AU | oa_85111:west wyalong airport:YWWL:WWY:AU | wd_4688:west wyalong airport:YWWL:WWY:AU,1,True
+g4567,3,False,,False,,False,,10709.51,True,oa_21789:pukatawagan airport:CZFG:XPK:CA | wd_16318:pukatawagan airport:CZFG:XPK:CA | kg_1719:pukatawagan:<NA>:XPK:CA,1,True
+g4573,3,True,Kaggle,False,,False,,1.0,False,oa_81860:rajiv gandhi international airport:VOHS:HYD:IN | kg_2815:rajiv gandhi:VOHY:HYD:IN | wd_6678:rajiv gandhi international airport:VOHS:HYD:IN,1,True
+g4589,3,False,,False,,True,Kaggle,0.01,False,oa_21250:fort saint james airport:<NA>:<NA>:CA | kg_5983:fort saint james perison airport:CYJM:YJM:ES | wd_16165:fort saint james perison airport:CYJM:YJM:CA,1,True
+g4598,3,False,,True,Kaggle,False,,0.45,False,kg_2909:denham:<NA>:DNM:AU | oa_84815:shark bay airport:YSHK:MJK:AU | wd_23604:shark bay airport:YSHK:MJK:AU,1,True
+g4641,3,True,Kaggle,False,,False,,0.88,False,kg_2416:baraukalimaru airport:WALK:BEJ:ID | oa_82398:kalimarau airport:WAQT:BEJ:ID | wd_15300:kalimarau airport:WAQT:BEJ:ID,1,True
+g4563,2,False,,False,,False,,16599.17,True,oa_12241:linga linga airport:AYLL:LGN:PG | kg_346:linga linga:<NA>:LGN:PG,1,True
+g10475,2,True,ambiguous,False,,False,,0.35,False,oa_82412:trunojoyo airport:WART:SUP:ID | wd_17029:trunojoyo airport:WRST:SUP:ID,1,True
+g4664,3,False,,False,,True,Kaggle,0.55,False,wd_4844:sir bani yas airport:OMBY:XSB:AE | kg_2611:sir bani yas island:<NA>:XSB:FR | oa_52318:sir bani yas airport:OMBY:XSB:AE,1,True
+g4698,3,False,,True,Kaggle,False,,0.1,False,kg_2460:ramenskoye:<NA>:РНЦ:RU | wd_6147:zhukovsky international airport:UUBW:ZIA:RU | oa_80526:zhukovsky international airport:UUBW:ZIA:RU,1,True
+g4699,3,True,Kaggle,False,,False,,0.81,False,kg_4251:bagan international:VYBR:NYU:MM | oa_82080:bagan airport:VYBG:NYU:MM | wd_1973:nyaung u airport:VYBG:NYU:MM,1,True
+g4722,3,False,,True,Kaggle,False,,0.03,False,wd_7890:glentanner aerodrome:NZGT:GTN:NZ | kg_2717:glentanner:NZGT:MON:NZ | oa_51481:glentanner airport:NZGT:GTN:NZ,1,True
+g4757,3,True,Wikidata,False,,False,,0.06,False,oa_82621:pondok cabe air base:WIHP:PCB:ID | kg_1629:pondok cabe:WIHP:PCB:ID | wd_6641:pondok cabe airport:WIPC:PCB:ID,1,True
+g4564,3,False,,False,,False,,8862.82,True,kg_5531:walkers cay:<NA>:WKR:BS | wd_1862:walkers cay airport:MYAW:WKR:BS | oa_49694:walkers cay airport:MYAW:WKR:BS,1,True
+g4562,3,False,,False,,False,,8004.47,True,oa_62105:paz ariporo airport:SKPZ:PZA:CO | kg_1850:paz ariporo:<NA>:PZA:CO | wd_1668:paz ariporo airport:SKPZ:PZA:CO,1,True
+g4312,3,True,Kaggle,False,,False,,1.15,False,oa_28435:hosea kutako international airport:FYWH:WDH:<NA> | wd_22172:windhoek hosea kutako international airport:FYWH:WDH:<NA> | kg_4851:windhoek hosea kutako international airport:FYWV:WDH:<NA>,1,True
+g4432,2,False,,True,ambiguous,False,,0.03,False,oa_38960:buckley space force base:KBKF:BFK:US | kg_5851:buckley air force base:KBKF:BKF:US,1,True
+g4339,3,True,Kaggle,False,,False,,0.08,False,kg_691:whitsunday airstrip:YWHI:WSY:AU | oa_84818:shute harbour whitsunday airport:YSHR:WSY:AU | wd_24271:whitsunday airport:YSHR:WSY:AU,1,True
+g4358,3,True,Wikidata,False,,False,,0.24,False,wd_5212:aeroleve airport:SILQ:<NA>:BR | kg_1310:cascavel:SBCA:CAC:BR | oa_57456:coronel adalberto mendes silva airport:SBCA:CAC:BR,1,True
+g4372,3,True,Kaggle,False,,False,,2.54,False,kg_2554:paamiut heliport:BGFH:JFR:GL | wd_9229:paamiut airport:BGPT:JFR:GL | oa_13003:paamiut airport:BGPT:JFR:GL,1,True
+g4390,2,True,ambiguous,False,,False,,0.07,False,kg_1789:polonia:WIMM:MES:ID | oa_82632:soewondo air force base:WIMK:MES:ID,1,True
+g4401,3,True,Kaggle,False,,False,,0.44,False,kg_3251:vishakhapatnam:VEVZ:VTZ:IN | wd_6002:visakhapatnam international airport:VOVZ:<NA>:IN | oa_81545:ins dega airport visakhapatnam international airport:VOVZ:<NA>:IN,1,True
+g4423,2,False,,False,,True,ambiguous,0.2,False,kg_4410:kramatorsk:<NA>:KRQ:RU | oa_67099:kramatorsk airport:UKCK:KRQ:UA,1,True
+g4433,3,False,,False,,False,,16458.19,True,wd_7772:cape gloucester airport:AYCG:CGC:PG | kg_3579:cape gloucester:<NA>:CGC:PG | oa_12104:cape gloucester airport:AYCG:CGC:PG,1,True
+g4552,3,True,Kaggle,False,,False,,0.6,False,wd_4689:shellharbour airport:YSHL:WOL:AU | oa_84816:shellharbour airport:YSHL:WOL:AU | kg_3250:wollongong airport:YWOL:WOL:AU,1,True
+g4434,2,False,,False,,False,,4122.01,True,kg_3423:louis trichardt:<NA>:LCD:ZA | oa_25902:louis trichardt airport:FALO:LCD:ZA,1,True
+g445,3,True,Kaggle,False,,False,,0.4,False,kg_2746:grabtsevo:UUBS:KLF:RU | wd_16909:kaluga grabtsevo airport:UUBC:KLF:RU | oa_80519:grabtsevo airport:UUBC:KLF:RU,1,True
+g4481,3,True,Kaggle,False,,False,,0.01,False,wd_3417:beaver county airport:KBVI:BFP:US | oa_39017:beaver county airport:KBVI:BFP:US | kg_5135:beaver falls:KBFP:BFP:US,1,True
+g4482,3,True,Kaggle,False,,False,,0.24,False,kg_4942:sawyer international airport:KMQT:MQT:US | wd_17221:marquette sawyer regional airport:KSAW:<NA>:US | oa_42669:marquette sawyer regional airport:KSAW:MQT:US,1,True
+g453,3,True,OurAirports,False,,False,,0.0,False,kg_2861:khajuraho:VAKJ:HJR:IN | oa_80905:khajuraho airport:VEKO:HJR:IN | wd_3305:khajuraho airport:VAKJ:HJR:IN,1,True
+g4551,3,True,Kaggle,False,,False,,1.26,False,kg_3138:zhongchuan:ZLAN:LHW:CN | oa_85808:lanzhou zhongchuan international airport:ZLLL:LHW:CN | wd_7653:lanzhou zhongchuan international airport:ZLLL:LHW:CN,1,True
+g3724,3,False,,False,,True,Wikidata,0.44,False,wd_412:cocos keeling islands airport:YPCC:CCK:AU | kg_3830:cocos keeling island airport:YPCC:CCK:CC | oa_84630:cocos keeling islands airport:YPCC:CCK:CC,1,True
+g3704,3,True,Kaggle,False,,False,,0.01,False,oa_28204:robert gabriel mugabe international airport:FVRG:HRE:ZW | kg_3167:harare international:FVHA:HRE:ZW | wd_23825:robert gabriel mugabe international airport:FVRG:HRE:ZW,1,True
+g23514,2,False,,False,,False,,22.8,True,oa_26732:alowe airport:FOGW:AWE:GA | wd_6205:alowe:<NA>:<NA>:GA,1,True
+g370,3,True,Kaggle,False,,False,,0.43,False,oa_82372:sampit hasan airport:WAGS:SMQ:ID | kg_577:sampithasan airport:WAOS:SMQ:ID | wd_4991:sampit airport:WAGS:SMQ:ID,1,True
+g249,3,False,,False,,True,Kaggle,0.01,False,kg_1903:simferopol international:UKFF:SIP:RU | wd_2658:simferopol international airport:UKFF:SIP:UA | oa_67106:simferopol international airport:UKFF:SIP:UA,1,True
+g2517,3,True,ambiguous,False,,False,,5.54,False,kg_6339:sayak:<NA>:IAO:PH | oa_55618:siargao airport:RPNS:IAO:PH | wd_1777:siargao airport:RPSI:<NA>:PH,1,True
+g2519,3,True,OurAirports,False,,False,,0.1,False,oa_82287:umbu mehang kunda airport:WATU:WGP:ID | wd_21917:mau hau airport:WADW:WGP:ID | kg_2070:mau hau:WADW:WGP:ID,1,True
+g2548,3,True,Wikidata,False,,False,,0.01,False,oa_82500:tanjung manis airport:WBTM:TGC:MY | kg_6312:tanjung manis airport:WBTM:TGC:MY | wd_4997:tanjung manis airport:WBGT:TGC:MY,1,True
+g2585,3,True,ambiguous,False,,False,,0.3,False,oa_13139:bamburi airport:<NA>:BMQ:KE | kg_5024:bamburi:KBMQ:BMQ:KE | wd_2168:bamburi airport:HKBM:BMQ:KE,1,True
+g2592,3,True,Kaggle,False,,False,,0.01,False,wd_24835:andizhan airport:UZFA:AZN:UZ | oa_80494:andijan international airport:UZFA:AZN:UZ | kg_4893:andizhan airport:UTKA:AZN:UZ,1,True
+g2600,3,False,,True,Kaggle,False,,1.03,False,kg_5648:tadji airport:<NA>:ATP:PG | oa_53185:tadji airport:<NA>:TAJ:PG | wd_22039:tadji airport:AYTJ:TAJ:PG,1,True
+g2623,3,False,,True,Kaggle,False,,0.84,False,kg_5093:huanghua international:<NA>:HHA:CN | wd_2030:changsha huanghua international airport:ZGHA:CSX:CN | oa_85748:changsha huanghua international airport:ZGHA:CSX:CN,1,True
+g2651,3,True,Kaggle,False,,False,,0.39,False,oa_85912:dehong mangshi international airport:ZPMS:LUM:CN | kg_1673:mangshi airport:ZPLX:LUM:CN | wd_7:dehong mangshi airport:ZPMS:LUM:CN,1,True
+g2668,3,True,Kaggle,False,,False,,0.0,False,oa_21478:coral harbour airport:CYZS:YZS:CA | wd_3685:coral harbour airport:CYZS:YZS:CA | kg_1415:fairmont hot springs:CYCZ:YZS:CA,1,True
+g2709,3,True,Kaggle,False,,False,,0.01,False,kg_622:rawlins municipal airport harvey field:KFWL:RWL:US | wd_22870:rawlins municipal airport:KRWL:RWL:US | oa_42606:rawlins municipal airport harvey field:KRWL:RWL:US,1,True
+g2716,3,True,Kaggle,False,,False,,0.01,False,wd_22422:newport municipal airport:KONP:ONP:US | kg_5785:newport municipal airport:KNOP:ONP:US | oa_41087:newport municipal airport:KONP:ONP:US,1,True
+g2736,3,True,Kaggle,False,,False,,0.01,False,oa_40355:kingman airport:KIGM:IGM:US | kg_1878:kingman airport:IGM:IGM:US | wd_21526:kingman airport:KIGM:IGM:US,1,True
+g2737,3,True,Kaggle,False,,False,,0.01,False,kg_4699:mid delta regional airport:GLH:GLH:US | wd_15366:mid delta regional airport:KGLH:GLH:US | oa_40086:mid delta regional airport:KGLH:GLH:US,1,True
+g2754,3,True,Kaggle,False,,False,,0.0,False,kg_316:tri cities airport:PSC:PSC:US | oa_41337:tri cities airport:KPSC:PSC:US | wd_9235:tri cities airport:KPSC:PSC:US,1,True
+g2446,3,True,Kaggle,False,,False,,0.01,False,kg_3152:glacier park international:KFCA:FCA:US | oa_40105:glacier park international airport:KGPI:FCA:US | wd_7701:glacier park international airport:KGPI:FCA:US,1,True
+g244,3,True,Kaggle,False,,False,,0.86,False,oa_80498:nukus international airport:UZNN:NCU:UZ | wd_24827:nukus airport:UZNN:NCU:UZ | kg_5691:nukus international:UTNN:NCU:UZ,1,True
+g2427,3,False,,False,,True,Kaggle,0.01,False,oa_40816:mcminnville municipal airport:KMMV:<NA>:US | wd_21873:mcminnville municipal airport:KMMV:<NA>:US | kg_2341:mc minnville municipal:KMMV:MMV:PG,1,True
+g23572,2,False,,False,,False,,48.24,True,wd_9763:ciba geigy:<NA>:<NA>:US | oa_70370:ciba geigy heliport:<NA>:<NA>:US,1,True
+g2352,3,False,,False,,False,,111.45,True,kg_3267:itokama airport:<NA>:ITK:PG | wd_11392:itokama:AYIK:ITK:PG | oa_34178:itokama airport:<NA>:ITK:PG,1,True
+g23524,2,False,,False,,False,,37.1,True,wd_13909:siassi:<NA>:SSS:PG | oa_64109:siassi airport:<NA>:SSS:PG,1,True
+g23531,2,False,,False,,False,,77.7,True,wd_12805:oksapmin:<NA>:OKP:PG | oa_12303:oksapmin airport:AYOJ:OKP:PG,1,True
+g23533,2,False,,False,,False,,26.94,True,wd_487:teraplu airport:<NA>:<NA>:ID | oa_31895:teraplu airport:<NA>:<NA>:ID,1,True
+g23569,2,False,,False,,False,,44.32,True,wd_12751:nutuve:<NA>:NUT:PG | oa_53180:nutuve airport:<NA>:<NA>:PG,1,True
+g23570,2,False,,False,,False,,323.85,True,oa_12217:kopiago airport:AYKG:KPA:PG | wd_11699:kopiago:<NA>:KPA:PG,1,True
+g23579,2,False,,False,,False,,110.03,True,wd_7824:gardner airport:<NA>:<NA>:US | oa_69670:gardner airport:<NA>:<NA>:US,1,True
+g2407,3,False,,False,,True,Wikidata,0.55,False,oa_50182:manihiki island airport:NCMH:MHX:CK | kg_5316:manihiki island airport:NCMH:MHX:CK | wd_142:manihiki island airport:NCMH:MHX:NZ,1,True
+g23607,2,False,,False,,False,,21.6,True,wd_11927:lese:<NA>:LNG:PG | oa_12246:lese airport:AYLS:LNG:PG,1,True
+g23611,2,False,,False,,False,,111.2,True,wd_7732:churchbridge airport:<NA>:<NA>:CA | oa_19271:churchbridge airport:<NA>:<NA>:CA,1,True
+g23623,2,False,,False,,False,,1423.93,True,wd_1281:centenario sul airport:SSZS:<NA>:BR | oa_14942:fazenda sucupira airport:<NA>:<NA>:BR,1,True
+g23628,2,False,,False,,False,,139.6,True,oa_38248:grand haven memorial airpark:<NA>:<NA>:US | wd_16523:grand haven memorial airpark:<NA>:<NA>:US,1,True
+g2363,2,True,ambiguous,False,,False,,0.56,False,oa_28785:kayes dag dag airport:GAKD:KYS:ML | kg_874:kayes dag dag:GAKY:KYS:ML,1,True
+g2377,3,True,Kaggle,False,,False,,0.03,False,oa_24257:cornwall airport newquay:EGHQ:NQY:GB | kg_2654:saint mawgan:EGDG:NQY:GB | wd_17392:newquay airport:EGHQ:NQY:GB,1,True
+g2781,3,True,Kaggle,False,,False,,0.01,False,kg_3508:mercer county airport:BLF:BLF:US | oa_38968:mercer county airport:KBLF:BLF:US | wd_21840:mercer county airport:KBLF:BLF:US,1,True
+g2804,3,True,ambiguous,False,,False,,0.02,False,kg_836:aleknagik airport:5A8:WKK:US | oa_5701:aleknagik new airport:<NA>:WKK:US | wd_16860:aleknagik airport:K5A8:WKK:US,1,True
+g281,3,True,OurAirports,False,,False,,2.2,False,oa_82313:tunggul wulung airport:WAHL:CXP:ID | kg_1636:tunggul wulung:WIHL:CXP:ID | wd_20920:tunggul wulung airport:WIHL:CXP:ID,1,True
+g3602,3,True,Kaggle,False,,False,,0.8,False,kg_2121:wamena:WAJW:WMX:ID | oa_82442:wamena airport:WAVV:WMX:ID | wd_17024:wamena airport:WAVV:WMX:ID,1,True
+g3482,3,True,Kaggle,False,,False,,0.01,False,wd_17107:john greif ii airport:MZSP:SPR:BZ | oa_16662:john greif ii airport:MZSP:SPR:BZ | kg_1500:san pedro:MZ10:SPR:BZ,1,True
+g3519,3,True,Kaggle,False,,False,,0.03,False,kg_1966:iskandar:WAOI:PKN:ID | oa_82368:iskandar airport:WAGI:PKN:ID | wd_2031:iskandar airport:WAGI:PKN:ID,1,True
+g3573,3,False,,False,,True,Wikidata,0.1,False,wd_20599:enua airport:NCAT:AIU:NZ | kg_3389:atiu island airport:NCAT:AIU:CK | oa_50179:enua airport:NCAT:AIU:CK,1,True
+g3576,3,True,Kaggle,False,,False,,0.01,False,kg_868:allahabad:VIAL:IXD:IN | oa_81653:prayagraj airport:VEAB:IXD:IN | wd_5023:prayagraj airport:VEAB:IXD:IN,1,True
+g3581,2,True,ambiguous,False,,False,,0.7,False,oa_45208:incirlik air base:LTAG:UAB:TR | kg_3546:adana incirlik airbase:KUAB:UAB:TR,1,True
+g3582,3,True,Kaggle,False,,False,,0.64,False,kg_4017:radin inten ii branti airport:WICT:TKG:ID | oa_82625:radin inten ii international airport:WILL:TKG:ID | wd_5905:radin inten ii international airport:WILL:TKG:ID,1,True
+g3605,3,False,,False,,True,Wikidata,0.09,False,oa_84704:christmas island international airport:YPXM:XCH:CX | wd_95:christmas island airport:YPXM:XCH:AU | kg_5109:christmas island:YPXM:XCH:CX,1,True
+g3461,3,True,ambiguous,False,,False,,0.15,False,kg_5538:lins:SBLN:LIP:BR | wd_5215:lins airport:SWXQ:LIP:BR | oa_57519:lins airport:<NA>:LIP:BR,1,True
+g3614,3,True,ambiguous,False,,False,,0.03,False,wd_21089:mundo maya international airport:<NA>:FRS:GT | kg_3627:mundo maya international:MGTK:FRS:GT | oa_45869:mundo maya international airport:MGMM:FRS:GT,1,True
+g3615,3,False,,True,Kaggle,False,,0.02,False,kg_4694:king khaled military city:OEKK:HBT:SA | oa_51781:king khaled military city airport:OEKK:KMC:SA | wd_7469:hafar batin domestic airport:OEKK:KMC:SA,1,True
+g3622,3,False,,True,Kaggle,False,,1.84,False,oa_28257:hwange national park airport:FVWN:HWN:ZW | kg_2486:hwange national park:FVWN:WKM:ZW | wd_7511:hwange national park airport:FVWN:HWN:ZW,1,True
+g3649,3,True,Kaggle,False,,False,,0.1,False,wd_24836:namangan airport:UZFN:NMA:UZ | oa_80493:namangan international airport:UZFN:NMA:UZ | kg_3306:namangan airport:UTKN:NMA:UZ,1,True
+g3669,3,True,Kaggle,False,,False,,0.23,False,kg_4391:juwata:WALR:TRK:ID | wd_5960:juwata international airport:WAQQ:TRK:ID | oa_82344:juwata international airport suharnoko harbani air force base:WAQQ:TRK:ID,1,True
+g3678,3,False,,False,,True,Kaggle,0.01,False,wd_249:newnan coweta county airport:KCCO:<NA>:US | kg_4888:coweta county airport:KCCO:CCO:CO | oa_39085:newnan coweta county airport:<NA>:<NA>:US,1,True
+g3481,3,True,OurAirports,False,,False,,0.02,False,kg_1800:raipur:VARP:RPR:IN | oa_80917:swami vivekananda airport:VERP:RPR:IN | wd_3309:swami vivekananda airport:VARP:RPR:IN,1,True
+g3413,3,True,Wikidata,False,,False,,0.08,False,oa_82370:warukin airport:WAON:TJG:ID | wd_1864:warukin airport:WRBN:TJG:ID | kg_2403:warukin airport:WAON:TJG:ID,1,True
+g2856,3,False,,True,Kaggle,False,,0.13,False,kg_3308:antique:RPVS:SJI:PH | oa_55668:evelio javier airport:RPVS:EUQ:PH | wd_20640:evelio javier airport:RPVS:EUQ:PH,1,True
+g3018,3,False,,True,Kaggle,False,,0.01,False,wd_15370:minchumina airport:PAMH:LMA:US | kg_1979:minchumina airport:PAMH:MHM:US | oa_52859:minchumina airport:PAMH:LMA:US,1,True
+g2883,3,True,Kaggle,False,,False,,1.3,False,kg_860:kostroma sokerkino:UUBD:KMW:RU | oa_80518:kostroma sokerkino airport:UUBA:KMW:RU | wd_5097:kostroma sokerkino airport:UUBA:KMW:RU,1,True
+g2920,3,True,OurAirports,False,,False,,1.12,False,oa_31016:nanyuki civil airport:HKNL:NYK:KE | wd_6987:nanyuki airport:HKNY:NYK:KE | kg_50:nanyuki civil airport:HKNY:NYK:KE,1,True
+g293,3,True,ambiguous,False,,False,,0.28,False,wd_24754:porto nacional airport:SDPE:PNB:BR | oa_57571:porto nacional airport:<NA>:PNB:BR | kg_4400:porto nacional:SBPN:PNB:BR,1,True
+g2946,3,True,Kaggle,False,,False,,1.28,False,wd_24428:kalokol airport:HKFG:KLK:KE | kg_5742:kalokol:HYFG:KLK:KE | oa_30983:kalokol airport:HKFG:KLK:KE,1,True
+g2951,3,False,,False,,True,Kaggle,0.06,False,wd_22755:princess juliana international airport:TNCM:SXM:SX | kg_5952:princess juliana international:TNCM:SXM:MF | oa_65699:princess juliana international airport:TNCM:SXM:SX,1,True
+g2980,3,True,Kaggle,False,,False,,1.79,False,oa_45281:istanbul airport:LTFM:IST:TR | kg_5507:istanbul airport:LTBA:IST:TR | wd_15565:istanbul airport:LTFM:IST:TR,1,True
+g3073,3,True,Kaggle,False,,False,,0.01,False,oa_38967:brookings regional airport:KBKX:BKX:US | kg_4495:brookings regional airport:BKX:BKX:US | wd_15934:brookings regional airport:KBKX:BKX:US,1,True
+g3412,3,True,Kaggle,False,,False,,0.42,False,kg_2141:godofredo p:RPXE:MPH:PH | oa_55655:godofredo p ramos airport:RPVE:MPH:PH | wd_2016:godofredo p ramos airport:RPVE:MPH:PH,1,True
+g3091,3,True,OurAirports,False,,False,,0.16,False,kg_3984:kankan:GUXD:KNN:GN | wd_7343:kankan airport:GUXD:KNN:GN | oa_30605:kankan airport:GXUD:KNN:GN,1,True
+g3160,3,True,Kaggle,False,,False,,0.01,False,oa_39725:kearney regional airport:KEAR:EAR:US | kg_3700:kearney municipal airport:EAR:EAR:US | wd_274:kearney regional airport:KEAR:EAR:US,1,True
+g3214,3,True,OurAirports,False,,False,,0.03,False,kg_26:depati amir:WIPK:PGK:ID | oa_82654:depati amir airport:WIKK:PGK:ID | wd_3242:depati amir airport:WIPK:PGK:ID,1,True
+g3323,3,True,OurAirports,False,,False,,0.36,False,kg_1522:navoi airport:UTSA:NVI:UZ | oa_80501:navoi international airport:UZSA:NVI:UZ | wd_2535:navoi international airport:UTSA:NVI:UZ,1,True
+g3397,2,True,ambiguous,False,,False,,0.01,False,kg_2050:sinop airport:SWSI:OPS:BR | oa_57609:presidente joao batista figueiredo airport:SBSI:OPS:BR,1,True
+g341,3,True,Kaggle,False,,False,,0.03,False,kg_209:salina cruz naval air station:MM57:SCX:MX | oa_46271:estacion aeronaval salina cruz:MMSZ:SCX:MX | wd_23045:salina cruz airport:MMSZ:SCX:MX,1,True
+g95,3,True,Kaggle,False,,False,,0.33,False,oa_82655:fatmawati soekarno airport:WIGG:BKS:ID | kg_990:fatmawati soekarno:WIPL:BKS:ID | wd_4973:fatmawati soekarno airport:WIGG:BKS:ID,1,True

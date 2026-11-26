@@ -1,0 +1,31 @@
+﻿record_id,dataset_x,group_id,dataset_y,group_id_split,name,countryCode,lat,lon,timezone,elevation
+kg_1507,Kaggle,g136,Kaggle,x1,sub teniente nestor arias,MX,10.278728,-68.755211,America/Santa_Isabel,
+oa_64619,OurAirports,g136,OurAirports,g136,sub teniente nestor arias airport,VE,10.2787,-68.755203,,231.9528
+wd_1794,Wikidata,g136,Wikidata,g136,sub teniente nestor arias airport,VE,10.28337303575,-68.73318002441,UTC−04:00,231.0
+kg_3496,Kaggle,g1935,Kaggle,x51,naypyidaw,US,19.6235,96.201028,America/Chicago,
+oa_82121,OurAirports,g1935,OurAirports,g1935,nay pyi taw international airport,MM,19.623501,96.200996,,92.0496
+wd_7443,Wikidata,g1935,Wikidata,g1935,nay pyi taw international airport,MM,19.6191305943,96.19993880037,UTC+06:30,90.0
+kg_1530,Kaggle,g3566,Kaggle,x98,kurumoch,AU,53.504858,50.164336,Australia/Adelaide,
+oa_80602,OurAirports,g3566,OurAirports,g3566,kurumoch international airport,RU,53.504902,50.164299,,145.3896
+wd_24657,Wikidata,g3566,Wikidata,g3566,kurumoch international airport,RU,53.50166661991,50.15500008143,Samara Time,145.0
+kg_5944,Kaggle,g3676,Kaggle,g3676,edward bodden airfield,KY,19.65916667,-80.09083333,America/Cayman,
+oa_47016,OurAirports,g3676,OurAirports,g3676,edward bodden little cayman airfield,KY,19.660161,-80.088826,,0.9144
+wd_20541,Wikidata,g3676,Wikidata,g3676,edward bodden airfield,GB,19.66666671416,-80.08333338432,Europe/London,1.2192
+kg_3846,Kaggle,g4073,Kaggle,x133,tonopah test range,KH,37.798836,-116.78075,Asia/Phnom_Penh,
+oa_42905,OurAirports,g4073,OurAirports,g4073,tonopah test range airport,US,37.798801,-116.780998,,1691.3352
+wd_20981,Wikidata,g4073,Wikidata,g4073,tonopah test range airport,US,37.79472219552,-116.7786111466,America/Los Angeles,1691.0
+kg_2871,Kaggle,g4451,Kaggle,x154,wevelgem,GL,50.817222,3.204722,America/Montevideo,
+oa_23331,OurAirports,g4451,OurAirports,g4451,kortrijk wevelgem international airport,BE,50.818878,3.209551,,16.764
+wd_6349,Wikidata,g4451,Wikidata,g4451,kortrijk wevelgem international airport,BE,50.81722214894,3.204722277079,,16.0
+kg_4617,Kaggle,g4918,Kaggle,x177,jose aponte torre airport,US,18.245278,-65.643333,America/Denver,
+oa_65548,OurAirports,g4918,OurAirports,g4918,jose aponte torre airport,PR,18.247262,-65.63979,,11.5824
+wd_7145,Wikidata,g4918,Wikidata,g4918,jose aponte torre airport,US,18.24527782225,-65.64333323915,UTC−04:00,12.0
+kg_6274,Kaggle,g5052,Kaggle,g5052,mendeleevo,RU,43.958585,145.684437,Asia/Tokyo,
+oa_67052,OurAirports,g5052,OurAirports,g5052,yuzhno kurilsk mendeleyevo airport,RU,43.961066,145.684977,,178.0032
+wd_17048,Wikidata,g5052,Wikidata,g5052,yuzhno kurilsk mendeleyevo airport,RU,43.96111117113,145.6844444626,Magadan Time,210.0
+kg_233,Kaggle,g5121,Kaggle,x191,saint lucie county international airport,US,27.497472,-80.372638,America/Anchorage,
+oa_39944,OurAirports,g5121,OurAirports,g5121,treasure coast international airport,US,27.4951,-80.368301,,7.3152
+wd_23796,Wikidata,g5121,Wikidata,g5121,treasure coast international airport,US,27.49500000616,-80.36833317985,Eastern Time Zone,7.0104
+kg_6037,Kaggle,g5325,Kaggle,x201,ingeniero juan guillermo villasana,US,20.0772,-98.782814,America/Anchorage,
+oa_46254,OurAirports,g5325,OurAirports,g5325,engineer juan guillermo villasana national airport,MX,20.0774,-98.782501,,2316.48
+wd_6655,Wikidata,g5325,Wikidata,g5325,juan guillermo villasana national airport,MX,20.07688996389,-98.78263015187,UTC−06:00,2366.0

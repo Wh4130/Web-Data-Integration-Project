@@ -1,0 +1,17 @@
+rule_set,attribute,accuracy,correct,total
+strict,name,0.7396,71,96
+strict,icao,1.0,96,96
+strict,countryCode,0.7604,73,96
+strict,timezone,0.7604,73,96
+strict,lat,1.0,96,96
+strict,lon,1.0,96,96
+strict,elevation,0.6452,40,62
+strict,OVERALL,0.8542,545,638
+relaxed,name,0.9167,88,96
+relaxed,icao,1.0,96,96
+relaxed,countryCode,1.0,96,96
+relaxed,timezone,0.8333,80,96
+relaxed,lat,1.0,96,96
+relaxed,lon,1.0,96,96
+relaxed,elevation,0.8065,50,62
+relaxed,OVERALL,0.9436,602,638
