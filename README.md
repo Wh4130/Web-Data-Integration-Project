@@ -44,13 +44,13 @@ tests/            # tests for src/wdi_airports
 
 Queried via SPARQL against a [QLever](https://qlever.dev/wikidata) mirror (`https://qlever.dev/api/wikidata`), scoped to `wdt:P31 wd:Q1248784` (instance of: airport). Three notebooks (please visit sequentially):
 
-- [`wikidata_profiling.ipynb`](notebooks/wikidata_profiling.ipynb) measures missing/conflict rates per attribute (and documents why `GROUP_CONCAT` is broken on this endpoint, so profiling uses `COUNT`-based histograms instead);
-- [`wikidata_extraction.ipynb`](notebooks/wikidata_extraction.ipynb) fetches raw values, resolves per-airport conflicts in pandas, fixes a feet/metres unit mixup in elevation, resolves entity-valued attributes (country, located_in, ...) to readable labels, and saves the final dataset;
-- [`wikidata_eda.ipynb`](notebooks/wikidata_eda.ipynb) explores the resulting dataset (surfaced a duplicate-entity case and the elevation unit bug before it was fixed).
+- [`wikidata_profiling.ipynb`](notebooks/Wikidata/wikidata_profiling.ipynb) measures missing/conflict rates per attribute (and documents why `GROUP_CONCAT` is broken on this endpoint, so profiling uses `COUNT`-based histograms instead);
+- [`wikidata_extraction.ipynb`](notebooks/Wikidata/wikidata_extraction.ipynb) fetches raw values, resolves per-airport conflicts in pandas, fixes a feet/metres unit mixup in elevation, resolves entity-valued attributes (country, located_in, ...) to readable labels, and saves the final dataset;
+- [`wikidata_eda.ipynb`](notebooks/Wikidata/wikidata_eda.ipynb) explores the resulting dataset (surfaced a duplicate-entity case and the elevation unit bug before it was fixed).
 
 ### OurAirports
 
-[`ourairports_data_cleansing.ipynb`](notebooks/ourairports_data_cleansing.ipynb) merges `airports-ourairports.csv` with `runways.csv`, aggregating each airport's runways into a list-of-dicts column (`runways`) — this is the project's list attribute (requirement 6).
+[`ourairports_data_cleaning.ipynb`](notebooks/OurAirports/ourairports_data_cleaning.ipynb) merges `airports-ourairports.csv` with `runways.csv`, aggregating each airport's runways into a list-of-dicts column (`runways`) — this is the project's list attribute (requirement 6).
 
 ### Kaggle
 
@@ -66,7 +66,7 @@ Queried via SPARQL against a [QLever](https://qlever.dev/wikidata) mirror (`http
 
 Kaggle names follow a different style (abbreviations such as `Intl` / `Muni` / `Rgnl` in 12.4% of names, versus 0.01% in the other two sources; often no "Airport" suffix), so the source is heterogeneous enough for matching.
 
-[`Kaggle_data_cleaning.ipynb`](notebooks/Kaggle_data_cleaning.ipynb) validates the file and exports `data/interim/airports-kaggle.csv`. It drops two rows that reuse another airport's ICAO code (the old Berlin Schönefeld `SXF`, which shares `EDDB` with BER, and a railway station that shares `EDLW` with Dortmund), leaving 6,391 airports. Known data-quality issues kept for later steps: 319 rows (5.0%) sit at coordinates (0, 0) and should be treated as missing, and 88 rows (1.4%) have no UTC offset.
+[`kaggle_data_cleaning.ipynb`](notebooks/Kaggle/kaggle_data_cleaning.ipynb) validates the file and exports `data/interim/airports-kaggle.csv`. It drops two rows that reuse another airport's ICAO code (the old Berlin Schönefeld `SXF`, which shares `EDDB` with BER, and a railway station that shares `EDLW` with Dortmund), leaving 6,391 airports. Known data-quality issues kept for later steps: 319 rows (5.0%) sit at coordinates (0, 0) and should be treated as missing, and 88 rows (1.4%) have no UTC offset.
 
 ### Feasibility / Requirement Analysis
 
@@ -150,3 +150,55 @@ Suggested git workflow for the team — don't commit directly to `main`, every c
    git push -u origin alice/kaggle-profiling
    ```
 6. **Open a PR** into `main` (GitHub web UI, or `gh pr create --base main`) and get at least one teammate's approval before merging — this is enforced by branch protection on `main`.
+
+## Reproducing the Final Results
+
+### Setup
+
+Run the following commands from the repository root:
+
+    uv sync
+
+The repository includes the mapped and normalized
+source datasets, identity resolution gold standards,
+final correspondences, and fusion gold standard.
+
+`OurAirports.xml` ships compressed as
+`schema/ourairports/OurAirports.zip`. The Wikidata
+normalization notebook extracts it automatically on
+first use; if you run another step that needs the XML
+directly, unzip it into the same folder first.
+
+### Identity Resolution
+
+The matching experiments are located in:
+
+- `notebooks/identity_resolution/matching_oa_wd/identity_resolution_matcher.ipynb`
+- `notebooks/identity_resolution/matching_oa_kg/matching_oa_kg.ipynb`
+
+Run the notebooks from their respective directories.
+The final correspondences are stored in
+`data/identity_resolution/outputs/`.
+
+### Data Fusion
+
+Using the committed normalized datasets,
+correspondences, and fusion gold standard, run:
+
+    uv run python notebooks/data_fusion/step5_final_fusion_and_eval.py
+
+The final outputs are stored in `data/data_fusion/`:
+
+- `fused_airports_final.csv`
+- `final_summary_metrics.csv`
+- `final_accuracy_by_attribute.csv`
+- `post_fusion_density_comparison.csv`
+- `error_analysis.csv`
+
+### Final Results
+
+- Fused records: 88,601
+- OurAirports baseline density: 67.40%
+- Fused density: 68.96%
+- Strict fusion accuracy: 85.42%
+- Relaxed fusion accuracy: 94.36%
