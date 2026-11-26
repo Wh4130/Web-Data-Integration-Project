@@ -12,14 +12,12 @@ from eval_rules_relaxed import (
 )
 
 # 1. Setup paths
-ROOT = Path.cwd()
-if not (ROOT / "data").exists():
-    ROOT = ROOT.parent
+ROOT = Path(__file__).resolve().parents[2]
 
 norm_dir = ROOT / "data" / "normalized_outputs"
 ir_dir = ROOT / "data" / "identity_resolution" / "outputs"
 gold_path = ROOT / "data" / "data_fusion" / "golden_standard" / "gold_standard_final.xml"
-out_dir = ROOT / "data" / "data_fusion" / "outputs"
+out_dir = ROOT / "data" / "data_fusion"
 out_dir.mkdir(parents=True, exist_ok=True)
 
 # 2. Load gold standard XML
